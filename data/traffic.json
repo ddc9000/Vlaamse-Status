@@ -1,10 +1,30 @@
 {
-  "updated": "2026-11-01T02:26:31.308416",
+  "updated": "2026-11-01T09:25:56.557752",
   "source": "Verkeerscentrum Vlaanderen (DATEX II)",
   "license": "CC BY",
   "count": 40,
-  "warnings": 0,
+  "warnings": 2,
   "items": [
+    {
+      "id": "EVT22540212",
+      "label": "Verstoord verkeer",
+      "severity": "warning",
+      "lat": 51.29424,
+      "lon": 5.1048,
+      "until": "",
+      "province": "antwerpen",
+      "place": "Mol"
+    },
+    {
+      "id": "EVT22540216",
+      "label": "Verstoord verkeer",
+      "severity": "warning",
+      "lat": 51.1823,
+      "lon": 4.68339,
+      "until": "",
+      "province": "antwerpen",
+      "place": "Heist-op-den-Berg"
+    },
     {
       "id": "EVT22290717",
       "label": "Weg afgesloten",
@@ -26,16 +46,6 @@
       "place": "Antwerpen"
     },
     {
-      "id": "EVT22538654",
-      "label": "Weg afgesloten",
-      "severity": "info",
-      "lat": 50.85583,
-      "lon": 4.64645,
-      "until": "2026-11-02",
-      "province": "vlaams-brabant",
-      "place": "Leuven"
-    },
-    {
       "id": "EVT22531814",
       "label": "Weg afgesloten",
       "severity": "info",
@@ -44,6 +54,16 @@
       "until": "2026-11-06",
       "province": "oost-vlaanderen",
       "place": "Ninove"
+    },
+    {
+      "id": "EVT22540203",
+      "label": "Weg afgesloten",
+      "severity": "info",
+      "lat": 51.36851,
+      "lon": 4.30133,
+      "until": "2026-11-01",
+      "province": "oost-vlaanderen",
+      "place": "Beveren"
     },
     {
       "id": "EVT22527417",
@@ -74,16 +94,6 @@
       "until": "2027-01-04",
       "province": "antwerpen",
       "place": "Lier"
-    },
-    {
-      "id": "EVT22538652",
-      "label": "Weg afgesloten",
-      "severity": "info",
-      "lat": 50.85653,
-      "lon": 4.64431,
-      "until": "2026-11-02",
-      "province": "vlaams-brabant",
-      "place": "Leuven"
     },
     {
       "id": "EVT22477040",
@@ -176,24 +186,14 @@
       "place": "Waregem"
     },
     {
-      "id": "EVT22540189",
+      "id": "EVT22540195",
       "label": "Wegenwerken",
       "severity": "info",
-      "lat": 51.03152,
-      "lon": 3.74911,
-      "until": "",
-      "province": "oost-vlaanderen",
-      "place": "Gent"
-    },
-    {
-      "id": "EVT22540192",
-      "label": "Wegenwerken",
-      "severity": "info",
-      "lat": 50.91366,
-      "lon": 4.42005,
-      "until": "",
-      "province": "vlaams-brabant",
-      "place": "Vilvoorde"
+      "lat": 51.18665,
+      "lon": 4.66772,
+      "until": "2026-11-01",
+      "province": "antwerpen",
+      "place": "Lier"
     },
     {
       "id": "EVT22539762",
