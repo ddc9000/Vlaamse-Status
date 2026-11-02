@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T23:59:35.105812",
+  "updated": "2026-11-02T04:02:25.031390",
   "source": "Verkeerscentrum Vlaanderen (DATEX II)",
   "license": "CC BY",
   "count": 40,
@@ -154,26 +154,6 @@
       "until": "2029-11-30",
       "province": "west-vlaanderen",
       "place": "Waregem"
-    },
-    {
-      "id": "EVT22540468",
-      "label": "Wegenwerken",
-      "severity": "info",
-      "lat": 50.91354,
-      "lon": 4.42051,
-      "until": "",
-      "province": "vlaams-brabant",
-      "place": "Vilvoorde"
-    },
-    {
-      "id": "EVT22539762",
-      "label": "Wegenwerken",
-      "severity": "info",
-      "lat": 50.91174,
-      "lon": 4.39404,
-      "until": "2026-11-02",
-      "province": "vlaams-brabant",
-      "place": "Vilvoorde"
     },
     {
       "id": "EVT22501406",
@@ -404,6 +384,26 @@
       "until": "2026-11-04",
       "province": "oost-vlaanderen",
       "place": "Beveren"
+    },
+    {
+      "id": "EVT22376778",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 51.20255,
+      "lon": 3.23536,
+      "until": "2027-06-18",
+      "province": "west-vlaanderen",
+      "place": "Brugge"
+    },
+    {
+      "id": "EVT22530714",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 50.88909,
+      "lon": 4.45267,
+      "until": "2027-01-31",
+      "province": "vlaams-brabant",
+      "place": "Zaventem"
     }
   ]
 }
