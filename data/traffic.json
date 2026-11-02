@@ -1,109 +1,49 @@
 {
-  "updated": "2026-11-02T12:41:45.088682",
+  "updated": "2026-11-02T21:58:31.207804",
   "source": "Verkeerscentrum Vlaanderen (DATEX II)",
   "license": "CC BY",
   "count": 40,
-  "warnings": 10,
+  "warnings": 4,
   "items": [
     {
-      "id": "EVT22541016",
+      "id": "EVT22541460",
       "label": "Verstoord verkeer",
       "severity": "warning",
-      "lat": 51.19447,
-      "lon": 4.39576,
+      "lat": 51.19776,
+      "lon": 4.38639,
       "until": "",
       "province": "antwerpen",
       "place": "Antwerpen"
     },
     {
-      "id": "EVT22540983",
+      "id": "EVT22541457",
       "label": "Verstoord verkeer",
       "severity": "warning",
-      "lat": 50.90655,
-      "lon": 4.44604,
+      "lat": 51.21013,
+      "lon": 4.36643,
       "until": "",
-      "province": "vlaams-brabant",
-      "place": "Vilvoorde"
+      "province": "antwerpen",
+      "place": "Antwerpen"
     },
     {
-      "id": "EVT22540958",
+      "id": "EVT22541468",
       "label": "Verstoord verkeer",
       "severity": "warning",
-      "lat": 50.88127,
-      "lon": 4.28338,
+      "lat": 50.86532,
+      "lon": 4.27021,
       "until": "",
       "province": "vlaams-brabant",
       "place": "Dilbeek"
     },
     {
-      "id": "EVT22541011",
+      "id": "EVT22541458",
       "label": "Verstoord verkeer",
       "severity": "warning",
-      "lat": 51.20155,
-      "lon": 4.37595,
+      "lat": 51.21248,
+      "lon": 4.34692,
       "until": "",
       "province": "antwerpen",
       "place": "Antwerpen"
-    },
-    {
-      "id": "EVT22540690",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 50.881,
-      "lon": 4.46094,
-      "until": "",
-      "province": "vlaams-brabant",
-      "place": "Zaventem"
-    },
-    {
-      "id": "EVT22540676",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 51.21376,
-      "lon": 4.35181,
-      "until": "",
-      "province": "antwerpen",
-      "place": "Antwerpen"
-    },
-    {
-      "id": "EVT22540987",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 51.13065,
-      "lon": 4.37621,
-      "until": "",
-      "province": "antwerpen",
-      "place": "Boom"
-    },
-    {
-      "id": "EVT22540954",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 50.8666,
-      "lon": 4.27001,
-      "until": "",
-      "province": "vlaams-brabant",
-      "place": "Dilbeek"
-    },
-    {
-      "id": "EVT22540860",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 50.91557,
-      "lon": 4.37767,
-      "until": "",
-      "province": "brussel",
-      "place": "Schaarbeek"
-    },
-    {
-      "id": "EVT22540889",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 50.83913,
-      "lon": 4.48359,
-      "until": "",
-      "province": "vlaams-brabant",
-      "place": "Tervuren"
     },
     {
       "id": "EVT22290717",
@@ -256,34 +196,34 @@
       "place": "Waregem"
     },
     {
-      "id": "EVT22540494",
+      "id": "EVT22541447",
       "label": "Wegenwerken",
       "severity": "info",
-      "lat": 51.30449,
-      "lon": 3.29047,
-      "until": "",
-      "province": "west-vlaanderen",
-      "place": "Knokke-Heist"
-    },
-    {
-      "id": "EVT22540503",
-      "label": "Wegenwerken",
-      "severity": "info",
-      "lat": 51.12943,
-      "lon": 4.93995,
-      "until": "",
-      "province": "antwerpen",
-      "place": "Geel"
-    },
-    {
-      "id": "EVT22540516",
-      "label": "Wegenwerken",
-      "severity": "info",
-      "lat": 50.92698,
-      "lon": 3.98056,
+      "lat": 50.94737,
+      "lon": 3.89791,
       "until": "",
       "province": "oost-vlaanderen",
-      "place": "Aalst"
+      "place": "Wetteren"
+    },
+    {
+      "id": "EVT22541454",
+      "label": "Wegenwerken",
+      "severity": "info",
+      "lat": 50.77875,
+      "lon": 4.45026,
+      "until": "",
+      "province": "vlaams-brabant",
+      "place": "Tervuren"
+    },
+    {
+      "id": "EVT22541444",
+      "label": "Wegenwerken",
+      "severity": "info",
+      "lat": 51.03677,
+      "lon": 3.76162,
+      "until": "",
+      "province": "oost-vlaanderen",
+      "place": "Gent"
     },
     {
       "id": "EVT22501406",
@@ -396,14 +336,74 @@
       "place": "Peer"
     },
     {
-      "id": "EVT22540584",
-      "label": "Beurtelings verkeer",
+      "id": "EVT22485647",
+      "label": "Nieuwe wegenwerken",
       "severity": "info",
-      "lat": 50.89045,
-      "lon": 4.65043,
-      "until": "2026-11-02",
+      "lat": 50.89573,
+      "lon": 4.43227,
+      "until": "2027-01-04",
+      "province": "vlaams-brabant",
+      "place": "Vilvoorde"
+    },
+    {
+      "id": "EVT22341376",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 51.24201,
+      "lon": 3.39854,
+      "until": "2027-07-30",
+      "province": "west-vlaanderen",
+      "place": "Knokke-Heist"
+    },
+    {
+      "id": "EVT22513540",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 51.26444,
+      "lon": 4.41053,
+      "until": "2026-11-18",
+      "province": "antwerpen",
+      "place": "Antwerpen"
+    },
+    {
+      "id": "EVT22538048",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 50.81309,
+      "lon": 3.09692,
+      "until": "2026-11-04",
+      "province": "west-vlaanderen",
+      "place": "Roeselare"
+    },
+    {
+      "id": "EVT22347946",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 50.85583,
+      "lon": 4.64645,
+      "until": "2026-12-31",
       "province": "vlaams-brabant",
       "place": "Leuven"
+    },
+    {
+      "id": "EVT22407694",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 51.01022,
+      "lon": 5.72507,
+      "until": "2026-11-27",
+      "province": "limburg",
+      "place": "Maasmechelen"
+    },
+    {
+      "id": "EVT22380991",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 50.82848,
+      "lon": 4.48287,
+      "until": "2028-07-31",
+      "province": "vlaams-brabant",
+      "place": "Tervuren"
     }
   ]
 }
