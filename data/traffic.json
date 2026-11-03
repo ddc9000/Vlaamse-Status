@@ -1,46 +1,16 @@
 {
-  "updated": "2026-11-02T21:58:31.207804",
+  "updated": "2026-11-03T03:14:59.659515",
   "source": "Verkeerscentrum Vlaanderen (DATEX II)",
   "license": "CC BY",
   "count": 40,
-  "warnings": 4,
+  "warnings": 1,
   "items": [
     {
-      "id": "EVT22541460",
+      "id": "EVT22541520",
       "label": "Verstoord verkeer",
       "severity": "warning",
-      "lat": 51.19776,
-      "lon": 4.38639,
-      "until": "",
-      "province": "antwerpen",
-      "place": "Antwerpen"
-    },
-    {
-      "id": "EVT22541457",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 51.21013,
-      "lon": 4.36643,
-      "until": "",
-      "province": "antwerpen",
-      "place": "Antwerpen"
-    },
-    {
-      "id": "EVT22541468",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 50.86532,
-      "lon": 4.27021,
-      "until": "",
-      "province": "vlaams-brabant",
-      "place": "Dilbeek"
-    },
-    {
-      "id": "EVT22541458",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 51.21248,
-      "lon": 4.34692,
+      "lat": 51.20401,
+      "lon": 4.37296,
       "until": "",
       "province": "antwerpen",
       "place": "Antwerpen"
@@ -194,36 +164,6 @@
       "until": "2029-11-30",
       "province": "west-vlaanderen",
       "place": "Waregem"
-    },
-    {
-      "id": "EVT22541447",
-      "label": "Wegenwerken",
-      "severity": "info",
-      "lat": 50.94737,
-      "lon": 3.89791,
-      "until": "",
-      "province": "oost-vlaanderen",
-      "place": "Wetteren"
-    },
-    {
-      "id": "EVT22541454",
-      "label": "Wegenwerken",
-      "severity": "info",
-      "lat": 50.77875,
-      "lon": 4.45026,
-      "until": "",
-      "province": "vlaams-brabant",
-      "place": "Tervuren"
-    },
-    {
-      "id": "EVT22541444",
-      "label": "Wegenwerken",
-      "severity": "info",
-      "lat": 51.03677,
-      "lon": 3.76162,
-      "until": "",
-      "province": "oost-vlaanderen",
-      "place": "Gent"
     },
     {
       "id": "EVT22501406",
@@ -404,6 +344,66 @@
       "until": "2028-07-31",
       "province": "vlaams-brabant",
       "place": "Tervuren"
+    },
+    {
+      "id": "EVT22290636",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 51.19752,
+      "lon": 3.2207,
+      "until": "2026-11-30",
+      "province": "west-vlaanderen",
+      "place": "Brugge"
+    },
+    {
+      "id": "EVT22290660",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 50.79264,
+      "lon": 4.48192,
+      "until": "2027-09-30",
+      "province": "vlaams-brabant",
+      "place": "Tervuren"
+    },
+    {
+      "id": "EVT22491851",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 51.04557,
+      "lon": 3.71398,
+      "until": "2026-11-30",
+      "province": "oost-vlaanderen",
+      "place": "Gent"
+    },
+    {
+      "id": "EVT22407697",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 51.00149,
+      "lon": 5.72366,
+      "until": "2026-11-27",
+      "province": "limburg",
+      "place": "Maasmechelen"
+    },
+    {
+      "id": "EVT22527506",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 51.26762,
+      "lon": 4.31304,
+      "until": "2026-11-04",
+      "province": "oost-vlaanderen",
+      "place": "Beveren"
+    },
+    {
+      "id": "EVT22376778",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 51.20255,
+      "lon": 3.23536,
+      "until": "2027-06-18",
+      "province": "west-vlaanderen",
+      "place": "Brugge"
     }
   ]
 }
