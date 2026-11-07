@@ -1,20 +1,10 @@
 {
-  "updated": "2026-11-07T18:22:22.942391",
+  "updated": "2026-11-07T22:05:08.492386",
   "source": "Verkeerscentrum Vlaanderen (DATEX II)",
   "license": "CC BY",
   "count": 40,
-  "warnings": 1,
+  "warnings": 0,
   "items": [
-    {
-      "id": "EVT22548593",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 50.88369,
-      "lon": 4.46087,
-      "until": "",
-      "province": "vlaams-brabant",
-      "place": "Zaventem"
-    },
     {
       "id": "EVT22290653",
       "label": "Weg afgesloten",
@@ -404,6 +394,16 @@
       "until": "2027-06-18",
       "province": "west-vlaanderen",
       "place": "Brugge"
+    },
+    {
+      "id": "EVT22530714",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 50.88909,
+      "lon": 4.45267,
+      "until": "2027-01-31",
+      "province": "vlaams-brabant",
+      "place": "Zaventem"
     }
   ]
 }
