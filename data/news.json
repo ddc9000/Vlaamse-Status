@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T13:37:54.085221",
+  "updated": "2026-11-07T18:22:21.028262",
   "items": [
     {
       "title": "Drie extra wijken delen voordeliger",
@@ -17,19 +17,138 @@
       "published": "2026-11-09T12:00:00+00:00"
     },
     {
-      "title": "Een fietskar nodig? Help Karrie op weg",
-      "link": "https://www.mechelen.be/stad-en-bestuur/nieuws-pers-en-communicatie/nieuws/een-fietskar-nodig-help-karrie-op-weg",
-      "description": "Tuinafval naar het containerpark brengen, hout halen voor een klus of spullen vervoeren voor een kleine verhuis? Een fietskar kan dan goed van pas komen.",
-      "source": "Stad Mechelen",
+      "title": "As-Niel maakt einde aan slechte reeks door zege tegen Louwel B",
+      "link": "https://www.hbvl.be/regio/limburg/as/as-niel-maakt-einde-aan-slechte-reeks-door-zege-tegen-louwel-b/164238813.html",
+      "description": "As-Niel won voor het eerst sinds lange tijd. Na zes wedstrijden na elkaar zonder zege, is de ploeg weer op de goede weg dankzij een 2-0 thuiszege tegen Louwel B.",
+      "source": "HBVL",
+      "province": "limburg",
+      "provinces": [
+        "limburg"
+      ],
+      "places": [],
+      "pubDate": "7 nov 19:19",
+      "published": "2026-11-07T18:19:40+00:00"
+    },
+    {
+      "title": "LIVE. Tweede helft begonnen: wie haalt het in de Dijlederby?",
+      "link": "https://www.hln.be/jupiler-pro-league/live-tweede-helft-begonnen-wie-haalt-het-in-de-dijlederby~a79d51eb/",
+      "description": "Drie dagen na de zege in de inhaalwedstrijd tegen KV Kortrijk maakt KV Mechelen de verplaatsing naar OH Leuven. Pakt Malinwa 12 op 12 of is het OHL dat zijn sterke ongeslagen reeks verderzet?",
+      "source": "HLN",
+      "province": "vlaanderen",
+      "provinces": [
+        "west-vlaanderen",
+        "vlaams-brabant"
+      ],
+      "places": [
+        "Kortrijk",
+        "Leuven"
+      ],
+      "pubDate": "7 nov 19:19",
+      "published": "2026-11-07T18:19:00+00:00"
+    },
+    {
+      "title": "Massadonor Simon, vader van zeker 199 kinderen onder wie 11 Belgen, mag geen sperma meer doneren",
+      "link": "https://www.hln.be/nieuws/massadonor-simon-vader-van-zeker-199-kinderen-onder-wie-11-belgen-mag-geen-sperma-meer-doneren~a52229c0/",
+      "description": "Massadonor Simon, die zeker 199 kinderen heeft verwerkt waarvan 11 in België, heeft afspraken gemaakt met de Stichting Donorkind over het doneren van zijn sperma. De Nederlandse stichting meldt dat Simon een contract hee",
+      "source": "HLN",
+      "province": "vlaanderen",
+      "provinces": [],
+      "places": [],
+      "pubDate": "7 nov 19:16",
+      "published": "2026-11-07T18:16:00+00:00"
+    },
+    {
+      "title": "Studente Luna vraagt hulp voor familie in Gaza die nu ook getroffen is door noodweer: \"Ze verliezen de hoop\"",
+      "link": "https://vrtnws.be/p.APQ8ZwWew",
+      "description": "\"Ze verliezen de hoop.\" Dat zegt de 19-jarige KU Leuven-studente Luna Muammar over haar familie in de Gazastrook. Haar ouders, broers en andere familieleden wonen in tenten in Khan Younis en zijn getroffen door het zware",
+      "source": "VRT NWS",
+      "province": "vlaams-brabant",
+      "provinces": [
+        "vlaams-brabant"
+      ],
+      "places": [
+        "Leuven"
+      ],
+      "pubDate": "7 nov 18:48",
+      "published": "2026-11-07T17:48:02+00:00"
+    },
+    {
+      "title": "Afrit geblokkeerd na slippertje vrachtwagen",
+      "link": "https://www.nieuwsblad.be/regio/west-vlaanderen/zuid-west-vlaanderen/kortrijk/afrit-geblokkeerd-na-slippertje-vrachtwagen/164237969.html",
+      "description": "Zaterdagnamiddag rond 17.30 uur kwam een vrachtwagen in schaar te staan op de afrit van de E403 naar de E17 in Marke richting Kortrijk. Het verkeer moest omrijden.",
+      "source": "Nieuwsblad West-Vlaanderen",
+      "province": "west-vlaanderen",
+      "provinces": [
+        "west-vlaanderen"
+      ],
+      "places": [
+        "Kortrijk"
+      ],
+      "pubDate": "7 nov 18:45",
+      "published": "2026-11-07T17:45:00+00:00"
+    },
+    {
+      "title": "Van Santvoort leidt Antonia naar zege tegen Hove",
+      "link": "https://www.gva.be/regio/antwerpen/regio-antwerpen/hove/van-santvoort-leidt-antonia-naar-zege-tegen-hove/164238190.html",
+      "description": "Antonia scoorde zaterdag drie keer in de uitwedstrijd tegen Hove. De wedstrijd eindigde op 0-3.",
+      "source": "GVA",
       "province": "antwerpen",
       "provinces": [
         "antwerpen"
       ],
-      "places": [
-        "Mechelen"
+      "places": [],
+      "pubDate": "7 nov 18:44",
+      "published": "2026-11-07T17:44:40+00:00"
+    },
+    {
+      "title": "Van Santvoort maakt twee goals voor Antonia in wedstrijd tegen Hove",
+      "link": "https://www.nieuwsblad.be/regio/antwerpen/regio-antwerpen/hove/van-santvoort-maakt-twee-goals-voor-antonia-in-wedstrijd-tegen-hove/164238185.html",
+      "description": "Antonia won zaterdag de uitwedstrijd tegen Hove met 0-3.",
+      "source": "Nieuwsblad Antwerpen",
+      "province": "antwerpen",
+      "provinces": [
+        "antwerpen"
       ],
-      "pubDate": "9 nov 13:00",
-      "published": "2026-11-09T12:00:00+00:00"
+      "places": [],
+      "pubDate": "7 nov 18:43",
+      "published": "2026-11-07T17:43:40+00:00"
+    },
+    {
+      "title": "Zeker zes doden bij schietpartij in Krakau, Poolse politie vat vermoedelijke schutter",
+      "link": "https://www.standaard.be/buitenland/zeker-zes-doden-bij-schietpartij-in-krakau-poolse-politie-vat-vermoedelijke-schutter/164237504.html",
+      "description": "Een schutter heeft zes mensen gedood en vijftien anderen verwond in Krakau, de tweede stad van Polen. De politie zegt de schutter neergeschoten en gearresteerd te hebben.",
+      "source": "De Standaard",
+      "province": "vlaanderen",
+      "provinces": [],
+      "places": [],
+      "pubDate": "7 nov 18:37",
+      "published": "2026-11-07T17:37:14+00:00"
+    },
+    {
+      "title": "Wandelen tussen stukken gevel van Victor Horta: 'Meer dan 600 stenen zijn hier gepuzzeld'",
+      "link": "https://www.bruzz.be/actua/stedenbouw/wandelen-tussen-stukken-gevel-van-victor-horta-meer-dan-600-stenen-zijn-hier-gepuzzeld-2026-11-07",
+      "description": "In Sint-Agatha-Berchem kunnen liefhebbers van architectuur wandelen doorheen de liggend gereconstrueerde gevel van Hotel Aubecq, een van de meesterwerken van Victor Horta.",
+      "source": "BRUZZ",
+      "province": "brussel",
+      "provinces": [
+        "brussel"
+      ],
+      "places": [],
+      "pubDate": "7 nov 18:24",
+      "published": "2026-11-07T17:24:15+00:00"
+    },
+    {
+      "title": "Henri Vanassche stoot met Belgische turnploeg door naar finale",
+      "link": "https://kw.be/sport/henri-vanassche-stoot-met-belgische-turnploeg-door-naar-finale/",
+      "description": "De Belgische turners, met daarbij Henri Vanassche uit Gullegem , hebben zich zaterdag met een vierde plaats in de kwalificaties geplaatst voor de finale van de landencompetitie op de Olympische Jeugdspelen in de Senegale",
+      "source": "KW",
+      "province": "west-vlaanderen",
+      "provinces": [
+        "west-vlaanderen"
+      ],
+      "places": [],
+      "pubDate": "7 nov 18:21",
+      "published": "2026-11-07T17:21:52+00:00"
     },
     {
       "title": "Zwaar bewolkt in Laarne in de namiddag - HLN",
@@ -43,110 +162,39 @@
       "places": [
         "Laarne"
       ],
-      "pubDate": "7 nov 14:32",
-      "published": "2026-11-07T13:32:06+00:00"
+      "pubDate": "7 nov 18:17",
+      "published": "2026-11-07T17:17:34+00:00"
     },
     {
-      "title": "Manager Dolly Parton laat rechtszaak tegen neef van de zangeres vallen",
-      "link": "https://www.hln.be/celebrities/manager-dolly-parton-laat-rechtszaak-tegen-neef-van-de-zangeres-vallen~af092f90/",
-      "description": "Danny Nozell, de manager van de overleden zangeres Dolly Parton, heeft de rechtszaak tegen haar neef Bryan Seaver vrijwillig ingetrokken. Dat meldt ‘The New York Times’ op basis van een verklaring die ingediend werd bij ",
-      "source": "HLN",
-      "province": "vlaanderen",
-      "provinces": [],
-      "places": [],
-      "pubDate": "7 nov 14:30",
-      "published": "2026-11-07T13:30:55+00:00"
-    },
-    {
-      "title": "Kunstenares Linda Roossens voelt zich thuis in Kortrijk : “Ik voel me meer Kortrijkzaan dan ik me ooit Brusselaar heb gevoeld”",
-      "link": "https://kw.be/nieuws/samenleving/kunstenares-linda-roossens-voelt-zich-thuis-in-kortrijk-ik-voel-me-meer-kortrijkzaan-dan-ik-me-ooit-brusselaar-heb-gevoeld/",
-      "description": "Hoewel ze sinds 2024 in Wevelgem woont, blijft Kortrijk voor Linda Roossens (45) haar thuisstad. De geboren Brusselse woonde er negentien jaar, werkt voor de stedelijke musea en bouwt er aan haar parcours als kunstenares",
-      "source": "KW",
-      "province": "west-vlaanderen",
-      "provinces": [
-        "west-vlaanderen",
-        "brussel"
-      ],
-      "places": [
-        "Kortrijk",
-        "Brussel"
-      ],
-      "pubDate": "7 nov 14:30",
-      "published": "2026-11-07T13:30:00+00:00"
-    },
-    {
-      "title": "Andy (24), Domien (20) en Mathias (19) willen met dit event in de voetsporen treden van grote steden",
-      "link": "https://www.nieuwsblad.be/regio/oost-vlaanderen/denderregio/hamme/andy-24-domien-20-en-mathias-19-willen-met-dit-event-in-de-voetsporen-treden-van-grote-steden/164190512.html",
-      "description": "Andy Olieslaeger (24), Domien Chielens (20) en Mathias Gerlo (19) willen in Hamme met hun Social Coffee Run in de voetsporen treden van gelijkaardige joggings in grote steden.",
+      "title": "Schepen Kristof De Blaere (49) neemt ontslag na acht jaar: “Twee voltijdse jobs combineren werd onmogelijk”",
+      "link": "https://www.nieuwsblad.be/regio/oost-vlaanderen/regio-gent/aalter/schepen-kristof-de-blaere-49-neemt-ontslag-na-acht-jaar-twee-voltijdse-jobs-combineren-werd-onmogelijk/164236780.html",
+      "description": "Kristof De Blaere (CD&V/DU) stopt in februari 2027 als schepen van Sport en Financiën in Aalter omdat zijn professionele carrière steeds moeilijker te combineren valt met zijn politieke engagement. Gemeenteraadslid Griet",
       "source": "Nieuwsblad Oost-Vlaanderen",
       "province": "oost-vlaanderen",
       "provinces": [
         "oost-vlaanderen"
       ],
-      "places": [
-        "Hamme"
-      ],
-      "pubDate": "7 nov 14:30",
-      "published": "2026-11-07T13:30:00+00:00"
-    },
-    {
-      "title": "Roeselaarse judoka Pjotr (23) behaalt na zes jaar opnieuw de Belgische titel",
-      "link": "https://www.nieuwsblad.be/regio/west-vlaanderen/midwest/roeselare/roeselaarse-judoka-pjotr-23-behaalt-na-zes-jaar-opnieuw-de-belgische-titel/164197392.html",
-      "description": "Pjotr Debruyne werd in Lommel Belgisch kampioen bij de senioren, in de categorie +100 kilo. Zijn vorige titel won hij zes jaar geleden, bij de junioren. Judo combineert hij met zijn werk en de scouts. “Ik had niet verwac",
-      "source": "Nieuwsblad West-Vlaanderen",
-      "province": "limburg",
-      "provinces": [
-        "limburg"
-      ],
-      "places": [
-        "Lommel"
-      ],
-      "pubDate": "7 nov 14:30",
-      "published": "2026-11-07T13:30:00+00:00"
-    },
-    {
-      "title": "Jens (36) opent fietsenwinkel CADNCE in centrum Nijlen: “Geen doorsnee fietsenwinkel”",
-      "link": "https://www.nieuwsblad.be/regio/antwerpen/rivierenland/nijlen/jens-36-opent-fietsenwinkel-cadnce-in-centrum-nijlen-geen-doorsnee-fietsenwinkel/164231853.html",
-      "description": "Na zestien jaar ervaring in de fietssector zet Jens Maertens (36) de stap naar het zelfstandig ondernemerschap. Op maandag 9 november opent hij CADNCE, zijn eigen fietsenwinkel met atelier in het centrum van Nijlen. Jens",
-      "source": "Nieuwsblad Antwerpen",
-      "province": "antwerpen",
-      "provinces": [
-        "antwerpen"
-      ],
       "places": [],
-      "pubDate": "7 nov 14:29",
-      "published": "2026-11-07T13:29:00+00:00"
+      "pubDate": "7 nov 18:17",
+      "published": "2026-11-07T17:17:00+00:00"
     },
     {
-      "title": "Brandweer rukt uit voor meeuw in prikkeldraad, maar de vogel kan zichzelf bevrijden",
-      "link": "https://www.nieuwsblad.be/regio/west-vlaanderen/westhoek/lo-reninge/brandweer-rukt-uit-voor-meeuw-in-prikkeldraad-maar-de-vogel-kan-zichzelf-bevrijden/164231871.html",
-      "description": "Brandweer Westhoek post Lo-Reninge kreeg zaterdag rond 13 uur een oproep binnen van een toevallige passant voor het redden van een meeuw. Die zat vast in prikkeldraad nabij de Oude Pereboomstraat.",
+      "title": "Ralph-Jan Lauryssen kiest voor R. EV Brussels Cycling Academy",
+      "link": "https://www.nieuwsblad.be/sport/sportregio/ralph-jan-lauryssen-kiest-voor-r.-ev-brussels-cycling-academy/164114032.html",
+      "description": "",
       "source": "Nieuwsblad West-Vlaanderen",
       "province": "west-vlaanderen",
       "provinces": [
         "west-vlaanderen"
       ],
       "places": [],
-      "pubDate": "7 nov 14:28",
-      "published": "2026-11-07T13:28:00+00:00"
+      "pubDate": "7 nov 18:09",
+      "published": "2026-11-07T17:09:00+00:00"
     },
     {
-      "title": "Theater ’t Fonteintje uit Wijnendale speelt bijzondere versie van ‘Romeo en Julia’: “Echte liefde, hoe complex ook, raakt nooit uit de tijd”",
-      "link": "https://kw.be/nieuws/cultuur/theater/theater-t-fonteintje-uit-wijnendale-speelt-bijzondere-versie-van-romeo-en-julia-echte-liefde-hoe-complex-ook-raakt-nooit-uit-de-tijd/",
-      "description": "Het Wijnendaalse Theater ’t Fonteintje gaat voor zijn 48ste productie de liefdestoer op. De toneelkring van voorzitter Norbert De Cuyper speelt in de tweede helft van november negenmaal de voorstelling Donderdag , een bi",
-      "source": "KW",
-      "province": "west-vlaanderen",
-      "provinces": [
-        "west-vlaanderen"
-      ],
-      "places": [],
-      "pubDate": "7 nov 14:24",
-      "published": "2026-11-07T13:24:31+00:00"
-    },
-    {
-      "title": "Familie en vrienden nemen in bomvolle Heilig Hartkerk op mooie manier afscheid van Jef Tommelein (92)",
-      "link": "https://kw.be/nieuws/samenleving/overlijden/familie-en-vrienden-nemen-in-bomvolle-heilig-hartkerk-op-mooie-manier-afscheid-van-jef-tommelein-92/",
-      "description": "In een bomvolle Heilig Hartkerk in Oostende namen familie en veel Vlaamse vrienden afscheid van Jef Tommelein die op 92-jarige leeftijd overleed. The post Familie en vrienden nemen in bomvolle Heilig Hartkerk op mooie ma",
+      "title": "Herr Seele heel tevreden over belangstelling voor kunstexpo met werk van moeder en grootmoeder in Oostende: “Mijn moeder is te lang ondergewaardeerd geweest”",
+      "link": "https://kw.be/nieuws/cultuur/kunst/herr-seele-heel-tevreden-over-belangstelling-voor-kunstexpo-met-werk-van-moeder-en-grootmoeder-in-oostende-mijn-moeder-is-te-lang-ondergewaardeerd-geweest/",
+      "description": "De tijdelijke kunstexpo ‘Het Rijk der Vrouw’met het werk van de moeder van kustenaar en striptekenaar Herr Seele loopt zondag 8 november af. In het familiehuis in de E. Beernaertstraat 150 in Oostende mocht initiatiefnem",
       "source": "KW",
       "province": "west-vlaanderen",
       "provinces": [
@@ -155,94 +203,186 @@
       "places": [
         "Oostende"
       ],
-      "pubDate": "7 nov 14:19",
-      "published": "2026-11-07T13:19:49+00:00"
+      "pubDate": "7 nov 18:01",
+      "published": "2026-11-07T17:01:24+00:00"
     },
     {
-      "title": "Journalist Evan Gershkovich schrijft boek over 16 maanden gevangenschap in Russische cel: “Ik kon de situatie niet veranderen, dus deed ik verslag”",
-      "link": "https://www.hln.be/vtm-nieuws/journalist-evan-gershkovich-schrijft-boek-over-16-maanden-gevangenschap-in-russische-cel-ik-kon-de-situatie-niet-veranderen-dus-deed-ik-verslag~vaebf4009/",
-      "description": "De Amerikaanse journalist Evan Gershkovich zat 16 maanden in een Russische cel na een schijnproces over spionnage. In 2024 werd hij veroordeeld tot 16 jaar cel. Twee jaar later brengt hij het boek ‘Dit gevloekte prachtig",
-      "source": "HLN",
+      "title": "LIVE. Houden Belisia, Termien en Pelt de drie punten thuis en wie wint topper in tweede provinciale?",
+      "link": "https://www.nieuwsblad.be/sport/sportregio/live.-houden-belisia-termien-en-pelt-de-drie-punten-thuis-en-wie-wint-topper-in-tweede-provinciale/164182858.html",
+      "description": "Houdt Belisia de drie punten thuis tegen Lyra-Lierse? Boeken Termien en Pelt thuiszeges tegen respectievelijk Antwerp B en Lille? En wie wint de topper RC Peer-Meeuwen in tweede provinciale? Volg onze Matchen van Belang ",
+      "source": "Nieuwsblad Limburg",
+      "province": "limburg",
+      "provinces": [
+        "limburg"
+      ],
+      "places": [],
+      "pubDate": "7 nov 18:00",
+      "published": "2026-11-07T17:00:00+00:00"
+    },
+    {
+      "title": "Zege voor Rotselaar thuis tegen FC Zemst",
+      "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/rotselaar/zege-voor-rotselaar-thuis-tegen-fc-zemst/164237179.html",
+      "description": "Rotselaar beleefde een doelpuntrijk duel met uiteindelijk een duidelijke winst tegen FC Zemst. Rotselaar verzamelde een ongelooflijk aantal van zestien doelpunten en won het duel met 16-0.",
+      "source": "Nieuwsblad Vlaams-Brabant",
+      "province": "vlaams-brabant",
+      "provinces": [
+        "vlaams-brabant"
+      ],
+      "places": [
+        "Rotselaar"
+      ],
+      "pubDate": "7 nov 17:59",
+      "published": "2026-11-07T16:59:40+00:00"
+    },
+    {
+      "title": "Porno met incest, wurging of ‘gespeelde minderjarigheid’ verboden in Engeland en Wales",
+      "link": "https://www.standaard.be/buitenland/porno-met-incest-wurging-of-gespeelde-minderjarigheid-verboden-in-engeland-en-wales/164235551.html",
+      "description": "Met potentieel jarenlange celstraffen willen Engeland en Wales de strijd aanbinden met “schadelijk” pornografisch materiaal. Zo wordt het bezit en de verspreiding verboden van incestueuze of wurgingsporno, en van materia",
+      "source": "De Standaard",
       "province": "vlaanderen",
       "provinces": [],
       "places": [],
-      "pubDate": "7 nov 14:04",
-      "published": "2026-11-07T13:04:00+00:00"
+      "pubDate": "7 nov 17:58",
+      "published": "2026-11-07T16:58:52+00:00"
     },
     {
-      "title": "Graf van echte Peter Pan inspireert Geert (70) tot nieuw boek: “Het kan ons nog veel leren”",
-      "link": "https://www.nieuwsblad.be/regio/west-vlaanderen/westhoek/ieper/graf-van-echte-peter-pan-inspireert-geert-70-tot-nieuw-boek-het-kan-ons-nog-veel-leren/164138885.html",
-      "description": "De echte Peter Pan rust onder een van de honderdduizenden identieke grafzerken in de Westhoek. Geert Spillebeen (70) brengt hem tot leven met een boek vol fantasie, maar ook harde feiten, zoals het verlies van zijn ouder",
+      "title": "Tibo Vancompernolle maakt de overstap naar Lionforce Cycling Team",
+      "link": "https://www.nieuwsblad.be/sport/sportregio/tibo-vancompernolle-maakt-de-overstap-naar-lionforce-cycling-team/164114038.html",
+      "description": "",
       "source": "Nieuwsblad West-Vlaanderen",
       "province": "west-vlaanderen",
       "provinces": [
         "west-vlaanderen"
       ],
       "places": [],
-      "pubDate": "7 nov 13:57",
-      "published": "2026-11-07T12:57:00+00:00"
+      "pubDate": "7 nov 17:54",
+      "published": "2026-11-07T16:54:00+00:00"
     },
     {
-      "title": "Ambassadeur Bill White eist betere beveiliging voor Brusselse synagoge en belooft volgende week “grote aankondiging”",
-      "link": "https://www.hln.be/binnenland/ambassadeur-bill-white-eist-betere-beveiliging-voor-brusselse-synagoge-en-belooft-volgende-week-grote-aankondiging~ab073b99/",
-      "description": "De ambassadeur van de Verenigde Staten in België, Bill White, heeft zaterdag samen met de Israelische ambassadeur in België, David Saranga, de synagoge van de Joodse gemeenschap in Anderlecht bezocht. Die synagoge werd e",
-      "source": "HLN",
-      "province": "brussel",
+      "title": "TVL Nieuws, 7 november 2026",
+      "link": "https://www.tvl.be/nieuws/tvl-nieuws-7-november-2026-184083",
+      "description": "Herbekijk het TVL Nieuws van zaterdag 7 november.&nbsp;",
+      "source": "TVL",
+      "province": "limburg",
       "provinces": [
-        "brussel"
+        "limburg"
+      ],
+      "places": [],
+      "pubDate": "7 nov 17:47",
+      "published": "2026-11-07T16:47:59+00:00"
+    },
+    {
+      "title": "Beste vriendin van vermoorde Diana (36) ontzet na vrijlating verdachte door procedurefout: “Hoe kunnen wij justitie nog vertrouwen?”",
+      "link": "https://www.hln.be/brussel/beste-vriendin-van-vermoorde-diana-36-ontzet-na-vrijlating-verdachte-door-procedurefout-hoe-kunnen-wij-justitie-nog-vertrouwen~ad026400/",
+      "description": "“Eerst hebben ze Diana niet beschermd. En nu gebeurt dit.” Mila Aleksanyan, de beste vriendin van de vermoorde Diana (36), is ontzet nu haar ex-partner Ibrahim E. door een procedurefout is vrijgelaten. Bijna twee jaar na",
+      "source": "HLN Regio",
+      "province": "vlaanderen",
+      "provinces": [],
+      "places": [],
+      "pubDate": "7 nov 17:44",
+      "published": "2026-11-07T16:44:00+00:00"
+    },
+    {
+      "title": "Bospark Classic haalt ondanks regen toch 600 deelnemers",
+      "link": "https://www.hln.be/lokeren/bospark-classic-haalt-ondanks-regen-toch-600-deelnemers~a7f2c258/",
+      "description": "Ondanks het herfstige en regenachtige weer mocht de Bospark Classic in Lokeren zaterdag 600 deelnemers verwelkomen.",
+      "source": "HLN Lokeren",
+      "province": "oost-vlaanderen",
+      "provinces": [
+        "oost-vlaanderen"
       ],
       "places": [
-        "Anderlecht",
-        "Brussel"
+        "Lokeren"
       ],
-      "pubDate": "7 nov 13:52",
-      "published": "2026-11-07T12:52:00+00:00"
+      "pubDate": "7 nov 17:39",
+      "published": "2026-11-07T16:39:38+00:00"
     },
     {
-      "title": "Na meer dan twee weken maakt politie einde aan bezetting van ULB-campus in Brussel: “Pogingen tot onderhandeling met studenten mislukt”",
-      "link": "https://www.hln.be/brussel/na-meer-dan-twee-weken-maakt-politie-einde-aan-bezetting-van-ulb-campus-in-brussel-pogingen-tot-onderhandeling-met-studenten-mislukt~a740f7f9/",
-      "description": "De Université Libre de Bruxelles (ULB) heeft zaterdag een einde gemaakt aan de bezetting van het gebouw P1 op campus Solbosch in Brussel. Dat meldt de universiteit aan Belga. Ook op de sociale media van de bezetting en v",
-      "source": "HLN Brussel",
-      "province": "brussel",
+      "title": "Leuvens cybersecuritybedrijf Phished ontwikkelt innovatieve technologie die medewerkers beschermt als ze op frauduleuze links klikken: \"Het is de videofoon van het internet\"",
+      "link": "https://www.robtv.be/nieuws/leuvens-cybersecuritybedrijf-phished-ontwikkelt-innovatieve-technologie-die-medewerkers-beschermt-als-ze-op-frauduleuze-links-klikken-het-is-de-videofoon-van-het-internet-215633",
+      "description": "Het Leuvense bedrijf Phished heeft een technologie ontwikkeld die bedrijven beschermt wanneer medewerkers op een malafide link klikken. Met de komst van artificiëlle intilligentie is het almaar moeilijker om frauduleuze ",
+      "source": "ROBtv",
+      "province": "vlaams-brabant",
       "provinces": [
-        "brussel"
+        "vlaams-brabant"
       ],
       "places": [
-        "Brussel"
+        "Leuven"
       ],
-      "pubDate": "7 nov 13:42",
-      "published": "2026-11-07T12:42:00+00:00"
+      "pubDate": "7 nov 17:30",
+      "published": "2026-11-07T16:30:11+00:00"
     },
     {
-      "title": "Stad en Agentschap ruimen meer dan een halve ton grofvuil tijdens grote netheidsoperatie",
-      "link": "https://www.nieuwsblad.be/regio/brussel/brussel/stad-en-agentschap-ruimen-meer-dan-een-halve-ton-grofvuil-tijdens-grote-netheidsoperatie/164230546.html",
-      "description": "De Stad Brussel en het gewestelijke Agentschap Net Brussel hebben op vier uur tijd 620 kilogram achtergelaten grofvuil afgevoerd op de Poncarélaan tijdens een netheidsoperatie. Daarbij identificeerden ze zes overtreders.",
-      "source": "Nieuwsblad Brussel",
-      "province": "brussel",
+      "title": "Gautam Adani (64) werd ontvoerd en beschuldigd van beursmanipulatie: wie is de omstreden miljardair die nu ook terminal in Gentse haven in handen heeft?",
+      "link": "https://www.hln.be/gent/gautam-adani-64-werd-ontvoerd-en-beschuldigd-van-beursmanipulatie-wie-is-de-omstreden-miljardair-die-nu-ook-terminal-in-gentse-haven-in-handen-heeft~a8af8e3c/",
+      "description": "Hij begon als tiener met het sorteren van diamanten, werd ontvoerd en overleefde een bloedige terreuraanslag. Vandaag leidt Gautam Adani (64) een zakenimperium met havens, energiecentrales en luchthavens over de hele wer",
+      "source": "HLN Regio",
+      "province": "oost-vlaanderen",
       "provinces": [
-        "brussel"
+        "oost-vlaanderen"
       ],
       "places": [
-        "Brussel"
+        "Gent"
       ],
-      "pubDate": "7 nov 13:33",
-      "published": "2026-11-07T12:33:00+00:00"
+      "pubDate": "7 nov 17:30",
+      "published": "2026-11-07T16:30:00+00:00"
     },
     {
-      "title": "\"Vreemde\" klimaattop maandag van start: wat mogen we verwachten en waar zal het over gaan?",
-      "link": "https://vrtnws.be/p.BlYaZMxwW",
-      "description": "Maandag begint in Antalya (Turkije) de 31e VN-klimaattop met een aantal open vragen: wie heeft nu eigenlijk de touwtjes in handen, Australië of Turkije? Wordt elektrificatie het grote thema? En: wat kan de Amerikaanse de",
+      "title": "\"Geen 15.000 perverten op Euroticabeurs, we laten Jan met de pet ontdekken wat er bestaat in de wereld van de erotiek\"",
+      "link": "https://www.tvl.be/nieuws/geen-15000-perverten-op-euroticabeurs-we-laten-jan-met-de-pet-ontdekken-wat-er-bestaat-in-de-wereld-van-de-erotiek-184084",
+      "description": "Dit weekend vindt de 35ste editie van de Eroticabeurs in Hasselt plaats. Het evenement heet intussen Ero Expo.Zo’n 15.000 bezoekers kunnen er terecht voor uiteenlopende belevingen en optredens. Nieuw dit jaar is de LGBTQ",
+      "source": "TVL",
+      "province": "limburg",
+      "provinces": [
+        "limburg"
+      ],
+      "places": [
+        "Hasselt"
+      ],
+      "pubDate": "7 nov 17:28",
+      "published": "2026-11-07T16:28:48+00:00"
+    },
+    {
+      "title": "Zeldzaam Marsgesteente dat in Sahara werd ontdekt, blijkt meer dan 4 miljard jaar oud",
+      "link": "https://vrtnws.be/p.KK8lp7JVX",
+      "description": "De meteoriet Teghaza 001 is 4,1 miljard jaar oud en behoort daarmee tot de oudste stukken Mars die ooit op aarde zijn teruggevonden. Dat blijkt uit onderzoek van het gesteente, dat in 2022 werd ontdekt in de Sahara. Wete",
       "source": "VRT NWS",
       "province": "vlaanderen",
       "provinces": [],
       "places": [],
-      "pubDate": "7 nov 13:32",
-      "published": "2026-11-07T12:32:37+00:00"
+      "pubDate": "7 nov 17:25",
+      "published": "2026-11-07T16:25:10+00:00"
     },
     {
-      "title": "Songül (48) wordt op weg naar huis klemgereden en geslagen door drie bromfietsers: dochter Sedef (24) zet beelden op TikTok",
-      "link": "https://www.hln.be/hemiksem/songul-48-wordt-op-weg-naar-huis-klemgereden-en-geslagen-door-drie-bromfietsers-dochter-sedef-24-zet-beelden-op-tiktok~a0a9ec39/",
-      "description": "De 48-jarige Songül uit het Antwerpse Hemiksem zal dinsdag niet snel vergeten. Die dag fietste ze van haar werk naar huis toen ze plots in aanvaring kwam met drie bromfietsers. Na een korte woordenwisseling omdat ze bijn",
+      "title": "Florian Descamps pakt in Ovifat zilver op het BK Long Trail: “Ik heb er alles uitgehaald en ben tevreden met deze uitslag”",
+      "link": "https://www.nieuwsblad.be/sport/sportregio/florian-descamps-pakt-in-ovifat-zilver-op-het-bk-long-trail-ik-heb-er-alles-uitgehaald-en-ben-tevreden-met-deze-uitslag/163610282.html",
+      "description": "Florian Descamps is in Ovifat in de Hoge Venen in een tijd van 6u42’47” als tweede geëindigd op het nationaal kampioenschap Long Trail. In deze race over 80 kilometer met 2.800 hoogtemeters moest de 35-jarige ultraloper ",
+      "source": "Nieuwsblad Vlaams-Brabant",
+      "province": "vlaams-brabant",
+      "provinces": [
+        "vlaams-brabant"
+      ],
+      "places": [],
+      "pubDate": "7 nov 17:24",
+      "published": "2026-11-07T16:24:00+00:00"
+    },
+    {
+      "title": "Hoeselt wint thuis van Linkhout B, mede dankzij twee treffers Sillen",
+      "link": "https://www.nieuwsblad.be/regio/limburg/bilzen-hoeselt/hoeselt-wint-thuis-van-linkhout-b-mede-dankzij-twee-treffers-sillen/164236073.html",
+      "description": "Hoeselt versloeg Linkhout B zaterdag met 3-2. Hoeselt eindigde de wedstrijd met 10 speelsters.",
+      "source": "Nieuwsblad Limburg",
+      "province": "limburg",
+      "provinces": [
+        "limburg"
+      ],
+      "places": [],
+      "pubDate": "7 nov 17:12",
+      "published": "2026-11-07T16:12:40+00:00"
+    },
+    {
+      "title": "Nicole (65) uit Balen is al 25 jaar de vrouw achter de Eroticabeurs: “De gepensioneerdenbond vertrok hier ooit met de duimen in de lucht”",
+      "link": "https://www.hln.be/hasselt/nicole-65-uit-balen-is-al-25-jaar-de-vrouw-achter-de-eroticabeurs-de-gepensioneerdenbond-vertrok-hier-ooit-met-de-duimen-in-de-lucht~a3f06105/",
+      "description": "“Een seksspeeltje hoeft helemaal niet egoïstisch te zijn. Je kunt dat perfect samen met je partner gebruiken.” Nicole Martens (65) uit het Antwerpse Balen runt al 25 jaar de Eroticabeurs en zag in die tijd de houding teg",
       "source": "HLN Regio",
       "province": "antwerpen",
       "provinces": [
@@ -251,42 +391,43 @@
       "places": [
         "Antwerpen"
       ],
-      "pubDate": "7 nov 13:21",
-      "published": "2026-11-07T12:21:00+00:00"
+      "pubDate": "7 nov 17:00",
+      "published": "2026-11-07T16:00:53+00:00"
     },
     {
-      "title": "Pasta eten voor kinderen, onderwijs en gezondheid in Gambia: Rustpunt in Gambia organiseert benefietavond",
-      "link": "https://www.hln.be/antwerpen/pasta-eten-voor-kinderen-onderwijs-en-gezondheid-in-gambia-rustpunt-in-gambia-organiseert-benefietavond~a4c7c276/",
-      "description": "Rustpunt in Gambia vzw organiseert op woensdag 11 november een pasta-avond in feestzaal De Geesten in Ekeren. De opbrengst gaat naar de werking van de vereniging voor kinderen, onderwijs en gezondheid in Gambia.",
-      "source": "HLN Antwerpen",
-      "province": "antwerpen",
+      "title": "Kraanarm van vrachtwagen botst tegen spoorbrug in Lokeren: wegdek besmeurd met olie",
+      "link": "https://www.hln.be/lokeren/kraanarm-van-vrachtwagen-botst-tegen-spoorbrug-in-lokeren-wegdek-besmeurd-met-olie~a667ed39/",
+      "description": "In de Heirbrugstraat in het Oost-Vlaamse Lokeren heeft een te hoge vrachtwagen zaterdagmiddag een brug geraakt. Het gaat om de brug waarover de spoorlijn tussen Lokeren en Dendermonde loopt. De vrachtwagen raakte de brug",
+      "source": "HLN Lokeren",
+      "province": "oost-vlaanderen",
       "provinces": [
-        "antwerpen"
-      ],
-      "places": [],
-      "pubDate": "7 nov 13:19",
-      "published": "2026-11-07T12:19:00+00:00"
-    },
-    {
-      "title": "Chalet op camping Parelstrand verwoest door brand: “Hond en parkiet tijdig buiten gekregen”",
-      "link": "https://www.nieuwsblad.be/regio/limburg/lommel/chalet-op-camping-parelstrand-verwoest-door-brand-hond-en-parkiet-tijdig-buiten-gekregen/164230113.html",
-      "description": "Een hevige brand woedde vrijdagavond in een chalet op het campinggedeelte van Parelstrand in Lommel. Het vuur, dat ontstond aan de kachel, vernielde het dak. Een buurman kon de hond en de parkiet tijdig in veiligheid bre",
-      "source": "Nieuwsblad Limburg",
-      "province": "limburg",
-      "provinces": [
-        "limburg"
+        "oost-vlaanderen"
       ],
       "places": [
-        "Lommel"
+        "Lokeren",
+        "Dendermonde"
       ],
-      "pubDate": "7 nov 13:12",
-      "published": "2026-11-07T12:12:41+00:00"
+      "pubDate": "7 nov 16:53",
+      "published": "2026-11-07T15:53:00+00:00"
     },
     {
-      "title": "Brandweer redt koe uit beek dankzij Amelie (41): “Ik hoorde plots geloei”",
-      "link": "https://www.nieuwsblad.be/regio/west-vlaanderen/westhoek/alveringem/brandweer-redt-koe-uit-beek-dankzij-amelie-41-ik-hoorde-plots-geloei/164228858.html",
-      "description": "Brandweer Westhoek heeft zaterdagvoormiddag iets na 8.30 uur een oproep gekregen voor het redden van een koe uit een beek langs de Roesbruggestraat in Beveren-aan-de-IJzer, een deelgemeente van Alveringem. Het was een wa",
-      "source": "Nieuwsblad West-Vlaanderen",
+      "title": "'Niet in je eendje': Sint-Pieters-Woluwe start actie tegen eenzaamheid",
+      "link": "https://www.bruzz.be/actua/samenleving/niet-je-eendje-sint-pieters-woluwe-start-actie-tegen-eenzaamheid-2026-11-07",
+      "description": "In Sint-Pieters-Woluwe kunnen eenzame cafégangers voortaan een badeentje voor zich plaatsen om aan te geven dat ze een gesprek wensen. Met die actie probeert de gemeente eenzaamheid tegen te gaan.",
+      "source": "BRUZZ",
+      "province": "brussel",
+      "provinces": [
+        "brussel"
+      ],
+      "places": [],
+      "pubDate": "7 nov 16:18",
+      "published": "2026-11-07T15:18:58+00:00"
+    },
+    {
+      "title": "KIJK – Brandweer redt koe uit beek dankzij alerte wandelaarster: “Ik hoorde plots geloei”",
+      "link": "https://kw.be/nieuws/milieu/dieren/brandweer-redt-koe-uit-beek-dankzij-alerte-wandelaarster-ik-hoorde-plots-geloei/",
+      "description": "Brandweer Westhoek werd zaterdagvoormiddag 7 november iets na 8.30 uur opgeroepen voor het redden van een koe uit een beek langs de Roesbruggestraat in Beveren-aan-de-IJzer, een deelgemeente van Alveringem. Het was een w",
+      "source": "KW",
       "province": "oost-vlaanderen",
       "provinces": [
         "oost-vlaanderen"
@@ -294,66 +435,70 @@
       "places": [
         "Beveren"
       ],
-      "pubDate": "7 nov 12:08",
-      "published": "2026-11-07T11:08:00+00:00"
+      "pubDate": "7 nov 16:17",
+      "published": "2026-11-07T15:17:20+00:00"
     },
     {
-      "title": "Maasmechelen en Dilsen-Stokkem produceren meeste restafval in Limburg en waarschuwen inwoners: “Zo wordt de factuur op termijn onbetaalbaar”",
-      "link": "https://www.hln.be/maasmechelen/maasmechelen-en-dilsen-stokkem-produceren-meeste-restafval-in-limburg-en-waarschuwen-inwoners-zo-wordt-de-factuur-op-termijn-onbetaalbaar~a9c27d21/",
-      "description": "Met 157 kilogram restafval per inwoner per jaar zit Maasmechelen bij de slechtst scorende Limburgse gemeenten die aangesloten zijn bij Limburg.net. Dilsen-Stokkem doet het met 164 kilo per jaar zelfs nog erger. De Maasme",
-      "source": "HLN Regio",
-      "province": "limburg",
+      "title": "Merel (16) uit Lot wint ‘Got Talent’ met dansgroep Una Vez Squadra: “Eindelijk mogen we het vertellen”",
+      "link": "https://www.hln.be/beersel/merel-16-uit-lot-wint-got-talent-met-dansgroep-una-vez-squadra-eindelijk-mogen-we-het-vertellen~afaa4b9c/",
+      "description": "Vrijdagavond kroonde dansgroep Una Vez Squadra uit Lichtervelde zich tot winnaar van het VTM-programma ‘Got Talent’. Een van de dansers van Una Vez Squadra is Merel Bosmans (16) uit Lot. Maanden na de opnames beleefde zi",
+      "source": "HLN Brussel",
+      "province": "brussel",
       "provinces": [
-        "limburg"
-      ],
-      "places": [
-        "Maasmechelen"
-      ],
-      "pubDate": "7 nov 12:00",
-      "published": "2026-11-07T11:00:16+00:00"
-    },
-    {
-      "title": "Weg iconisch geknetter: Kellogg's schrapt hele rijstkorrels uit recept Rice Krispies en Coco Pops",
-      "link": "https://vrtnws.be/p.KK8lqVddG",
-      "description": "Wie recent een doos Rice Krispies of Coco Pops heeft gekocht, merkt misschien een verschil. Niet alleen de smaak van de ontbijtgranen is veranderd, ook het iconische knapperige geluid klinkt anders. Dat komt door een wij",
-      "source": "VRT NWS",
-      "province": "vlaanderen",
-      "provinces": [],
-      "places": [],
-      "pubDate": "7 nov 11:56",
-      "published": "2026-11-07T10:56:26+00:00"
-    },
-    {
-      "title": "Cannabisplantage ontdekt tijdens zware woningbrand in Tessenderlo-Ham",
-      "link": "https://www.tvl.be/nieuws/cannabisplantage-ontdekt-tijdens-zware-woningbrand-in-tessenderlo-ham-184078",
-      "description": "Bij een zware woningbrand in de Bergstraat in Tessenderlo-Ham is afgelopen nacht een cannabisplantage ontdekt.De woning waar de brand uitbrak, is onbewoonbaar verklaard. Op het moment van de brand was er niemand thuis. T",
-      "source": "TVL",
-      "province": "limburg",
-      "provinces": [
-        "limburg"
+        "brussel"
       ],
       "places": [],
-      "pubDate": "7 nov 11:47",
-      "published": "2026-11-07T10:47:48+00:00"
+      "pubDate": "7 nov 16:16",
+      "published": "2026-11-07T15:16:00+00:00"
     },
     {
-      "title": "Limburgse powerliftster Sonita zamelt geld in voor zwaar mishandelde neef in Kameroen: “Hij vecht voor zijn leven”",
-      "link": "https://www.nieuwsblad.be/regio/limburg/leopoldsburg/limburgse-powerliftster-sonita-zamelt-geld-in-voor-zwaar-mishandelde-neef-in-kameroen-hij-vecht-voor-zijn-leven/164228300.html",
-      "description": "De Limburgse powerliftster Sonita Muluh (29) is een inzamelactie gestart voor haar neef in Kameroen. De man, met wie de Kampse samen opgroeide, werd opgepakt door het leger en vreselijk gefolterd. “Hij vecht in het zieke",
+      "title": "Brand aan veranda in Beringen-Mijn, maar de oorzaak is onduidelijk: politie start onderzoek",
+      "link": "https://www.nieuwsblad.be/regio/limburg/beringen/brand-aan-veranda-in-beringen-mijn-maar-de-oorzaak-is-onduidelijk-politie-start-onderzoek/164234681.html",
+      "description": "In de Berkenstraat in Beringen-Mijn heeft een brand zaterdag schade veroorzaakt aan de veranda van een woning. Het vuur ontstond aan de buitenkant van een zijpaneel en brandde van buiten naar binnen. Wat de brand precies",
       "source": "Nieuwsblad Limburg",
       "province": "limburg",
       "provinces": [
         "limburg"
       ],
-      "places": [],
-      "pubDate": "7 nov 11:36",
-      "published": "2026-11-07T10:36:56+00:00"
+      "places": [
+        "Beringen"
+      ],
+      "pubDate": "7 nov 16:11",
+      "published": "2026-11-07T15:11:00+00:00"
     },
     {
-      "title": "ULB beëindigt bezetting op campus Solbosch: 'Fundamentele grens overschreden'",
-      "link": "https://www.bruzz.be/actua/samenleving/ulb-beeindigt-bezetting-van-gebouw-p1-op-campus-solbosch-brussel-2026-11-07",
-      "description": "De Université Libre de Bruxelles (ULB) heeft zaterdagochtend een einde gemaakt aan de bezetting van gebouw P1 op de campus Solbosch in Brussel. Dat meldt de universiteit aan persagentschap Belga.",
-      "source": "BRUZZ",
+      "title": "Vzw De Max schenkt 1.020 euro aan Jong Samana: “Hiermee trekken we volgend jaar naar zee”",
+      "link": "https://www.hln.be/halle/vzw-de-max-schenkt-1-020-euro-aan-jong-samana-hiermee-trekken-we-volgend-jaar-naar-zee~adfc259a/",
+      "description": "Jong Samana Sint-Rochus, een organisatie die zich inzet voor mensen met een beperking of een chronische ziekte, werd zaterdag verrast met een cheque van 1.020 euro. Dat is de opbrengst van de wandeling die vzw De Max ein",
+      "source": "HLN Brussel",
+      "province": "brussel",
+      "provinces": [
+        "brussel"
+      ],
+      "places": [],
+      "pubDate": "7 nov 16:02",
+      "published": "2026-11-07T15:02:06+00:00"
+    },
+    {
+      "title": "Te hoge vrachtwagen raakt brug: Heirbrugstraat besmeurd met oliespoor",
+      "link": "https://www.nieuwsblad.be/regio/oost-vlaanderen/waasland/lokeren/te-hoge-vrachtwagen-raakt-brug-heirbrugstraat-besmeurd-met-oliespoor/164234443.html",
+      "description": "Een vrachtwagen heeft zaterdagmiddag een brug geraakt in de Heirbrugstraat in Lokeren. De schade aan de brug bleef beperkt, maar door een lek in een hydraulische leiding raakte de straat er wel besmeurd met olie.",
+      "source": "Nieuwsblad Lokeren",
+      "province": "oost-vlaanderen",
+      "provinces": [
+        "oost-vlaanderen"
+      ],
+      "places": [
+        "Lokeren"
+      ],
+      "pubDate": "7 nov 16:00",
+      "published": "2026-11-07T15:00:00+00:00"
+    },
+    {
+      "title": "Europarlementsleden vragen België studenten met beurs uit Gaza te evacueren, ondanks blokkade MR",
+      "link": "https://www.standaard.be/politiek/europarlementsleden-vragen-belgie-studenten-met-beurs-uit-gaza-te-evacueren-ondanks-blokkade-mr/35089272.html",
+      "description": "Lees hier alle updates over de federale, Vlaamse, Waalse en Brusselse politiek.",
+      "source": "De Standaard",
       "province": "brussel",
       "provinces": [
         "brussel"
@@ -361,19 +506,80 @@
       "places": [
         "Brussel"
       ],
-      "pubDate": "7 nov 11:30",
-      "published": "2026-11-07T10:30:20+00:00"
+      "pubDate": "7 nov 15:59",
+      "published": "2026-11-07T14:59:58+00:00"
     },
     {
-      "title": "Wie is Trumps nieuwe stafchef Stephen Miller, de man die op zijn achttiende al zei dat hij de nummer 2 van het Witte Huis wou worden?",
-      "link": "https://www.standaard.be/buitenland/wie-is-trumps-nieuwe-stafchef-stephen-miller-de-man-die-op-zijn-achttiende-al-zei-dat-hij-de-nummer-2-van-het-witte-huis-wou-worden/164227946.html",
-      "description": "Wie dacht dat de Republikeinse nederlaag Trump van koers zou laten veranderen, heeft het mis. Hij promoveert Stephen Miller tot zijn stafchef. Miller is onder meer de man achter zijn agressieve migratiebeleid en de bomba",
-      "source": "De Standaard",
-      "province": "vlaanderen",
-      "provinces": [],
+      "title": "Broertjes Corsus kennen niet hun allerbeste dag op EK in Zeddam: “Op geen enkel moment in de running voor een medaille”",
+      "link": "https://www.nieuwsblad.be/sport/sportregio/broertjes-corsus-kennen-niet-hun-allerbeste-dag-op-ek-in-zeddam-op-geen-enkel-moment-in-de-running-voor-een-medaille/163329209.html",
+      "description": "Voor de broertjes Lars (18) en Yordi (20) Corsus werd het zaterdag niet de verhoopte superdag op het EK in Zeddam. Yordi finishte uiteindelijk achtste, Lars kwam als zestiende over de meet. Een aanvaardbaar resultaat voo",
+      "source": "Nieuwsblad Vlaams-Brabant",
+      "province": "vlaams-brabant",
+      "provinces": [
+        "vlaams-brabant"
+      ],
       "places": [],
-      "pubDate": "7 nov 11:20",
-      "published": "2026-11-07T10:20:00+00:00"
+      "pubDate": "7 nov 15:43",
+      "published": "2026-11-07T14:43:00+00:00"
+    },
+    {
+      "title": "Brandweer redt koe uit beek in Beveren-aan-de-IJzer: \"Plots hoorde ik geloei\"",
+      "link": "https://vrtnws.be/p.ZWKdKPeoE",
+      "description": "Brandweer Westhoek heeft zaterdagvoormiddag een koe gered uit een beek langs de Roesbruggestraat in Beveren-aan-de-IJzer, een deelgemeente van Alveringem. Een wandelaarster had het dier toevallig opgemerkt.",
+      "source": "VRT NWS",
+      "province": "oost-vlaanderen",
+      "provinces": [
+        "oost-vlaanderen"
+      ],
+      "places": [
+        "Beveren"
+      ],
+      "pubDate": "7 nov 15:36",
+      "published": "2026-11-07T14:36:44+00:00"
+    },
+    {
+      "title": "ULB maakt einde aan bezetting van gebouw P1 op campus Solbosch",
+      "link": "https://www.nieuwsblad.be/regio/brussel/brussel/ulb-maakt-einde-aan-bezetting-van-gebouw-p1-op-campus-solbosch/164233193.html",
+      "description": "De Université Libre de Bruxelles (ULB) heeft zaterdag een einde gemaakt aan de bezetting van het gebouw P1 op campus Solbosch in Brussel. Dat meldt de universiteit aan persagentschap Belga.",
+      "source": "Nieuwsblad Brussel",
+      "province": "brussel",
+      "provinces": [
+        "brussel"
+      ],
+      "places": [
+        "Brussel"
+      ],
+      "pubDate": "7 nov 15:27",
+      "published": "2026-11-07T14:27:00+00:00"
+    },
+    {
+      "title": "Feest van het Boek in Lochristi met hapje, drankje en signeersessie",
+      "link": "https://www.hln.be/lochristi/feest-van-het-boek-in-lochristi-met-hapje-drankje-en-signeersessie~a389aa87/",
+      "description": "Wie zaterdag 7 november langs de Standaard Boekhandel in Lochristi passeert, kan niet naast de kleurrijke ballonnen kijken. De winkel viert er het Feest van het Boek en verwelkomt bezoekers met een drankje, een koekje én",
+      "source": "HLN Lokeren",
+      "province": "oost-vlaanderen",
+      "provinces": [
+        "oost-vlaanderen"
+      ],
+      "places": [
+        "Lokeren",
+        "Lochristi"
+      ],
+      "pubDate": "7 nov 14:53",
+      "published": "2026-11-07T13:53:00+00:00"
+    },
+    {
+      "title": "Gansrijden in Zandvliet bestaat honderd jaar: expo duikt in geschiedenis van Jonge Ruiters en Veteranen",
+      "link": "https://www.hln.be/antwerpen/gansrijden-in-zandvliet-bestaat-honderd-jaar-expo-duikt-in-geschiedenis-van-jonge-ruiters-en-veteranen~a64123ba/",
+      "description": "De gansrijdersverenigingen Vermaak na Arbeid Jonge Ruiters en Vermaak na Arbeid Veteranen vieren honderd jaar gansrijden in Zandvliet. In Vrijetijdscentrum De Schelde tonen ze op 11, 13, 14 en 15 november films, foto’s, ",
+      "source": "HLN Antwerpen",
+      "province": "antwerpen",
+      "provinces": [
+        "antwerpen"
+      ],
+      "places": [],
+      "pubDate": "7 nov 14:37",
+      "published": "2026-11-07T13:37:00+00:00"
     },
     {
       "title": "Na succes van vorig jaar: Moose Bar keert terug naar Durmestad",
@@ -391,21 +597,6 @@
       "published": "2026-11-07T10:00:00+00:00"
     },
     {
-      "title": "Zoon van Duizendjarige Eik is ziek: gemeente neemt maatregelen",
-      "link": "https://www.nieuwsblad.be/regio/limburg/lummen/zoon-van-duizendjarige-eik-is-ziek-gemeente-neemt-maatregelen/164227292.html",
-      "description": "Het gaat niet goed met de zoon van de Duizendjarige Eik in Lummen. De boom is ziek en heeft extra zorgen nodig. Een Brusselse boomexpert stelde een plan van aanpak op. De eerste onderhoudswerken werden al uitgevoerd.",
-      "source": "Nieuwsblad Limburg",
-      "province": "brussel",
-      "provinces": [
-        "brussel"
-      ],
-      "places": [
-        "Brussel"
-      ],
-      "pubDate": "7 nov 10:42",
-      "published": "2026-11-07T09:42:16+00:00"
-    },
-    {
       "title": "Neerlintersesteenweg in Kortenaken vanaf maandag 9 november volledig afgesloten voor heraanleg met nieuwe riolering en fietspaden",
       "link": "https://www.robtv.be/nieuws/neerlintersesteenweg-in-kortenaken-vanaf-maandag-9-november-volledig-afgesloten-voor-heraanleg-met-nieuwe-riolering-en-fietspaden-215632",
       "description": "Vanaf maandag 9 november wordt de Neerlintersesteenweg in Kortenaken volledig afgesloten voor doorgaand verkeer. De weg verbindt Hoeleden met Neerlinter en krijgt over een afstand van twee kilometer een volledige heraanl",
@@ -417,32 +608,6 @@
       "places": [],
       "pubDate": "7 nov 10:22",
       "published": "2026-11-07T09:22:04+00:00"
-    },
-    {
-      "title": "Weekwas zaterdag 7 november",
-      "link": "https://www.robtv.be/nieuws/weekwas-zaterdag-7-november-215631",
-      "description": "",
-      "source": "ROBtv",
-      "province": "vlaams-brabant",
-      "provinces": [
-        "vlaams-brabant"
-      ],
-      "places": [],
-      "pubDate": "7 nov 10:19",
-      "published": "2026-11-07T09:19:17+00:00"
-    },
-    {
-      "title": "Palliatief verlof kan nu ook per week opgenomen worden",
-      "link": "https://www.tvl.be/nieuws/palliatief-verlof-kan-nu-ook-per-week-opgenomen-worden-184077",
-      "description": "Onbekend is onbemind. Wie wil afscheid nemen van een dierbare, kan daarvoor palliatief verlof aanvragen. Alleen weten niet veel mensen dat. Ze vragen een doktersbriefje om de laatste weken of dagen bij hun stervend famil",
-      "source": "TVL",
-      "province": "limburg",
-      "provinces": [
-        "limburg"
-      ],
-      "places": [],
-      "pubDate": "7 nov 10:18",
-      "published": "2026-11-07T09:18:54+00:00"
     },
     {
       "title": "Ecowerf haalt restafval vanaf 2027 om de drie weken op in deze gemeenten",
@@ -458,75 +623,6 @@
       ],
       "pubDate": "7 nov 10:08",
       "published": "2026-11-07T09:08:29+00:00"
-    },
-    {
-      "title": "Omstreden Indiase miljardair Adani haalt met deal van 2,56 miljard euro Evos-terminal in haven van Gent binnen",
-      "link": "https://www.hln.be/gent/omstreden-indiase-miljardair-adani-haalt-met-deal-van-2-56-miljard-euro-evos-terminal-in-haven-van-gent-binnen~a6b5c3c2/",
-      "description": "De Indiase havengroep Adani Ports neemt voor 2,56 miljard euro het Nederlandse opslagbedrijf Evos over. Daarmee krijgt de groep ook een terminal in de Gentse haven in handen, waar onder meer biobrandstoffen en duurzame v",
-      "source": "HLN Regio",
-      "province": "oost-vlaanderen",
-      "provinces": [
-        "oost-vlaanderen"
-      ],
-      "places": [
-        "Gent"
-      ],
-      "pubDate": "7 nov 09:49",
-      "published": "2026-11-07T08:49:00+00:00"
-    },
-    {
-      "title": "Pas bekroond tot ‘De Wijste Gentenaar’, maar nu in geldnood: Ghent Basketball zoekt 80.000 euro om jongeren te blijven helpen",
-      "link": "https://www.hln.be/gent/pas-bekroond-tot-de-wijste-gentenaar-maar-nu-in-geldnood-ghent-basketball-zoekt-80-000-euro-om-jongeren-te-blijven-helpen~a52e2d3f/",
-      "description": "Ghent Basketball werd onlangs verkozen tot ‘De Wijste Gentenaar’ in de categorie Wijk, maar zoekt dringend 80.000 euro extra per jaar. Vooral in Ledeberg, waar 250 kinderen rekenen op de werking en zo kansen krijgen, is ",
-      "source": "HLN Regio",
-      "province": "vlaanderen",
-      "provinces": [],
-      "places": [],
-      "pubDate": "7 nov 09:45",
-      "published": "2026-11-07T08:45:00+00:00"
-    },
-    {
-      "title": "Middenrijbaan moet fietsers veiliger door deze straat loodsen",
-      "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/bertem/middenrijbaan-moet-fietsers-veiliger-door-deze-straat-loodsen/164193733.html",
-      "description": "De gemeente wil de Bosstraat in Bertem veiliger maken voor fietsers. Daarvoor kiest ze niet voor fietspaden, maar voor een middenrijbaan. Die komt op het stuk tussen de grens met Veltem-Beisem en de parking van feestzale",
-      "source": "Nieuwsblad Vlaams-Brabant",
-      "province": "vlaams-brabant",
-      "provinces": [
-        "vlaams-brabant"
-      ],
-      "places": [],
-      "pubDate": "7 nov 09:43",
-      "published": "2026-11-07T08:43:14+00:00"
-    },
-    {
-      "title": "Halle neemt voormalige Elia-percelen in Buizingen over",
-      "link": "https://www.hln.be/halle/halle-neemt-voormalige-elia-percelen-in-buizingen-over~a3ea36db2/",
-      "description": "De stad Halle neemt twee percelen in Buizingen over waarop vroeger hoogspanningsmasten stonden. De kosteloze overdracht volgt nadat de hoogspanningslijn onlangs ondergronds werd gebracht.",
-      "source": "HLN Brussel",
-      "province": "vlaams-brabant",
-      "provinces": [
-        "vlaams-brabant"
-      ],
-      "places": [
-        "Halle"
-      ],
-      "pubDate": "7 nov 09:13",
-      "published": "2026-11-07T08:13:33+00:00"
-    },
-    {
-      "title": "Deze 2 woningen zijn nu te koop in Brussel",
-      "link": "https://www.hln.be/brussel/deze-2-woningen-zijn-nu-te-koop-in-brussel~af802f1a/",
-      "description": "Op zoek naar een woning in Brussel? Deze 2 panden, in prijs variërend van 275.000 tot 2.400.000 euro, kwamen gisteren op Immoweb.",
-      "source": "HLN Brussel",
-      "province": "brussel",
-      "provinces": [
-        "brussel"
-      ],
-      "places": [
-        "Brussel"
-      ],
-      "pubDate": "7 nov 09:10",
-      "published": "2026-11-07T08:10:56+00:00"
     },
     {
       "title": "Licht op groen voor nieuw dienstgebouw voor personeel recyclagepark",
@@ -589,66 +685,6 @@
       "published": "2026-11-07T06:00:00+00:00"
     },
     {
-      "title": "Gault&Millau deelt nieuwe scores uit: dit waren vorig jaar de beste restaurants in het Waasland en regio Dendermonde",
-      "link": "https://www.hln.be/sint-niklaas/gaultenmillau-deelt-nieuwe-scores-uit-dit-waren-vorig-jaar-de-beste-restaurants-in-het-waasland-en-regio-dendermonde~a40daf17/",
-      "description": "Begin november deelt Gault&Millau opnieuw scores uit. Heel wat restaurants maken kans op een plek in de gids of hopen op een hogere score. Maar hoe scoorden de restaurants in het Waasland en de regio Dendermonde vorig ja",
-      "source": "HLN Lokeren",
-      "province": "oost-vlaanderen",
-      "provinces": [
-        "oost-vlaanderen"
-      ],
-      "places": [
-        "Lokeren",
-        "Dendermonde"
-      ],
-      "pubDate": "7 nov 05:35",
-      "published": "2026-11-07T04:35:20+00:00"
-    },
-    {
-      "title": "Gault&Millau deelt nieuwe scores uit: dit waren vorig jaar de beste restaurants in de regio rond Gent",
-      "link": "https://www.hln.be/destelbergen/gaultenmillau-deelt-nieuwe-scores-uit-dit-waren-vorig-jaar-de-beste-restaurants-in-de-regio-rond-gent~ae08bb73/",
-      "description": "Begin november deelt Gault&Millau opnieuw scores uit. Heel wat restaurants maken kans op een plek in de gids of hopen op een hogere score. Maar hoe scoorden de restaurants in de regio rond Gent vorig jaar? Wij maakten ee",
-      "source": "HLN Lokeren",
-      "province": "oost-vlaanderen",
-      "provinces": [
-        "oost-vlaanderen"
-      ],
-      "places": [
-        "Lokeren",
-        "Gent"
-      ],
-      "pubDate": "7 nov 05:35",
-      "published": "2026-11-07T04:35:10+00:00"
-    },
-    {
-      "title": "‘t Wafelkraam krijgt nieuw gezicht: Lien Braem (43) neemt roer over van Anja Carpentier (54)",
-      "link": "https://www.hln.be/lokeren/t-wafelkraam-krijgt-nieuw-gezicht-lien-braem-43-neemt-roer-over-van-anja-carpentier-54~a64c776d/",
-      "description": "Na elf jaar geeft Anja Carpentier de fakkel van 't Wafelkraam door. Vanaf 1 januari 2027 staat Lien Braem (43) uit Eksaarde aan het roer van het bekende retrobusje, dat al decennialang een vertrouwd gezicht is op wekelij",
-      "source": "HLN Lokeren",
-      "province": "oost-vlaanderen",
-      "provinces": [
-        "oost-vlaanderen"
-      ],
-      "places": [
-        "Lokeren"
-      ],
-      "pubDate": "7 nov 05:35",
-      "published": "2026-11-07T04:35:00+00:00"
-    },
-    {
-      "title": "Actiecomité geeft zich niet gewonnen en lanceert nieuwe affichecampagne: “Dienstencentrum en serviceflats niet verkopen aan meestbiedende partij”",
-      "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/halle-vilvoorde/grimbergen/actiecomite-geeft-zich-niet-gewonnen-en-lanceert-nieuwe-affichecampagne-dienstencentrum-en-serviceflats-niet-verkopen-aan-meestbiedende-partij/164172022.html",
-      "description": "Het actiecomité Red Ter Borre blijft strijden tegen de sluiting van de 25 assistentiewoningen en het dienstencentrum Ter Borre in Strombeek-Bever. Het comité start een nieuwe affichecampagne en vraagt inspraak over de to",
-      "source": "Nieuwsblad Vlaams-Brabant",
-      "province": "vlaams-brabant",
-      "provinces": [
-        "vlaams-brabant"
-      ],
-      "places": [],
-      "pubDate": "7 nov 03:00",
-      "published": "2026-11-07T02:00:00+00:00"
-    },
-    {
       "title": "Destelbergen haalt 62/100 in HLN Gemeenterapport: “Ik onderhandel niet over veiligheid” - HLN",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMmdqajJXMThHTFk3YW5zeHJQS0w0T093WUZzdlI3clBwazd4Y3hOUF9MMEtMRFlvcDlCMXUtUVZ2NEhRYVVYSUZnOWFZVUF0U0dPb2RTSkF2eHpueWlzTEFWSmotY1R5Q1V3MmhESGwwY3ZLeV85R2JyUFAwdTFBZEFKSTI3RHhUdVAtLWgzVzJoeTFIa2dkS2tKMk5kX1dVNllJRHZUcnBBTWhoVlVmUTVCSkpEQ21XZ2Q3bElpZVlwaEhD?oc=5",
       "description": "Destelbergen haalt 62/100 in HLN Gemeenterapport: “Ik onderhandel niet over veiligheid” HLN",
@@ -662,19 +698,6 @@
       ],
       "pubDate": "6 nov 22:07",
       "published": "2026-11-06T21:07:00+00:00"
-    },
-    {
-      "title": "Nieuws vrijdag 6 november",
-      "link": "https://www.robtv.be/nieuws/nieuws-vrijdag-6-november-215630",
-      "description": "",
-      "source": "ROBtv",
-      "province": "vlaams-brabant",
-      "provinces": [
-        "vlaams-brabant"
-      ],
-      "places": [],
-      "pubDate": "6 nov 19:37",
-      "published": "2026-11-06T18:37:35+00:00"
     },
     {
       "title": "Laarne haalt top 20 van Vlaanderen met HLN Gemeenterapport: “We mikken op de top 10” - HLN",
@@ -722,36 +745,6 @@
       "published": "2026-11-06T17:03:55+00:00"
     },
     {
-      "title": "Lochristi haalt het Vlaamse gemiddelde in HLN Gemeenterapport: “Laat ons deze resultaten gebruiken als springplank” - HLN",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONF91N1pUZkFKVjdKajh3MFRfRGtYekNSQS1SWkdBSU1OdUg4LWJscjI0TnhmQUhmcVNOejBJYXNIeXJsd2NMa2RTSU10NHQtN0JwekdtbnQyTjBkUXM1WlloQUJCQmhsZnFfZ1oxOXBYcnNGZlk0bU5rd1duVVdVR3F3MG1LaWdxaWo5RGZ1eG04VGIxNWJTUU5hcFFKdXdTYUZ2T1ViWHZUeXpNVWczbzRKcDlzRU1sODlpZ3hjanNQTHU5NUtjRHRHWl9PRzAwY0FCNEVURHRpaDFqVnVMUWluam9ZQQ?oc=5",
-      "description": "Lochristi haalt het Vlaamse gemiddelde in HLN Gemeenterapport: “Laat ons deze resultaten gebruiken als springplank” HLN",
-      "source": "Google Nieuws",
-      "province": "oost-vlaanderen",
-      "provinces": [
-        "oost-vlaanderen"
-      ],
-      "places": [
-        "Lochristi"
-      ],
-      "pubDate": "5 nov 21:27",
-      "published": "2026-11-05T20:27:00+00:00"
-    },
-    {
-      "title": "Werken Parklaan-Moerlandstraat: herstellen spoorvorming in busbanen op 9 en 10 november",
-      "link": "https://www.sint-niklaas.be/actueel/werken-parklaan-moerlandstraat-herstellen-spoorvorming-busbanen-op-9-en-10-november",
-      "description": "Vanaf maandag 9 november start fase 4 van de werken aan het kruispunt Parklaan-Moerlandstraat.",
-      "source": "Stad Sint-Niklaas",
-      "province": "oost-vlaanderen",
-      "provinces": [
-        "oost-vlaanderen"
-      ],
-      "places": [
-        "Sint-Niklaas"
-      ],
-      "pubDate": "4 nov 16:29",
-      "published": "2026-11-04T15:29:37+00:00"
-    },
-    {
       "title": "Ethanol gelekt door onderaannemer: meer bekend over vermoedelijke oorzaak van grote brand op Tomorrowland",
       "link": "https://www.gva.be/regio/antwerpen/regio-antwerpen/boom/ethanol-gelekt-door-onderaannemer-meer-bekend-over-vermoedelijke-oorzaak-van-grote-brand-op-tomorrowland/158601721.html",
       "description": "De vermoedelijke oorzaak van de zware brand op Tomorrowland vorig jaar is bekend. Tijdens het testen van de vuurschalen had een onderaannemer per ongeluk ethanol - een zeer brandbare stof - op het hoofdpodium gelekt. Dat",
@@ -768,13 +761,13 @@
   "count": 54,
   "scores": {
     "alles": 95,
-    "lokerse-streek": 77,
-    "west-vlaanderen": 80,
-    "oost-vlaanderen": 84,
-    "antwerpen": 76,
-    "limburg": 83,
-    "vlaams-brabant": 80,
-    "brussel": 88
+    "lokerse-streek": 80,
+    "west-vlaanderen": 83,
+    "oost-vlaanderen": 90,
+    "antwerpen": 79,
+    "limburg": 80,
+    "vlaams-brabant": 83,
+    "brussel": 83
   },
   "sources": [
     {
@@ -805,7 +798,7 @@
     {
       "name": "Google Nieuws",
       "province": "oost-vlaanderen",
-      "count": 8
+      "count": 7
     },
     {
       "name": "Nieuwsblad West-Vlaanderen",
@@ -820,7 +813,7 @@
     {
       "name": "Nieuwsblad Antwerpen",
       "province": "antwerpen",
-      "count": 6
+      "count": 5
     },
     {
       "name": "Nieuwsblad Limburg",
@@ -835,7 +828,7 @@
     {
       "name": "Nieuwsblad Brussel",
       "province": "brussel",
-      "count": 5
+      "count": 4
     },
     {
       "name": "KW",
@@ -845,12 +838,12 @@
     {
       "name": "GVA",
       "province": "antwerpen",
-      "count": 0
+      "count": 3
     },
     {
       "name": "HBVL",
       "province": "limburg",
-      "count": 0
+      "count": 1
     },
     {
       "name": "TVL",
@@ -885,7 +878,7 @@
     {
       "name": "HLN Brussel",
       "province": "brussel",
-      "count": 4
+      "count": 3
     },
     {
       "name": "VRT NWS",
