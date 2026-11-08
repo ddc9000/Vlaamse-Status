@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T01:34:19.723675",
+  "updated": "2026-11-08T08:08:01.467349",
   "source": "Verkeerscentrum Vlaanderen (DATEX II)",
   "license": "CC BY",
   "count": 40,
@@ -186,16 +186,6 @@
       "place": "Dilbeek"
     },
     {
-      "id": "EVT22548730",
-      "label": "Wegenwerken",
-      "severity": "info",
-      "lat": 50.91354,
-      "lon": 4.42051,
-      "until": "",
-      "province": "vlaams-brabant",
-      "place": "Vilvoorde"
-    },
-    {
       "id": "EVT22548738",
       "label": "Wegenwerken",
       "severity": "info",
@@ -204,6 +194,16 @@
       "until": "2027-03-05",
       "province": "vlaams-brabant",
       "place": "Dilbeek"
+    },
+    {
+      "id": "EVT22548740",
+      "label": "Wegenwerken",
+      "severity": "info",
+      "lat": 51.18602,
+      "lon": 4.41584,
+      "until": "2027-04-02",
+      "province": "antwerpen",
+      "place": "Mortsel"
     },
     {
       "id": "EVT22501406",
