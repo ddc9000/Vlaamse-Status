@@ -1,10 +1,20 @@
 {
-  "updated": "2026-11-08T23:14:11.998715",
+  "updated": "2026-11-09T02:46:53.730169",
   "source": "Verkeerscentrum Vlaanderen (DATEX II)",
   "license": "CC BY",
   "count": 40,
-  "warnings": 0,
+  "warnings": 1,
   "items": [
+    {
+      "id": "EVT22549049",
+      "label": "Verstoord verkeer",
+      "severity": "warning",
+      "lat": 51.24934,
+      "lon": 3.61254,
+      "until": "",
+      "province": "oost-vlaanderen",
+      "place": "Eeklo"
+    },
     {
       "id": "EVT22290653",
       "label": "Weg afgesloten",
@@ -156,16 +166,6 @@
       "place": "Waregem"
     },
     {
-      "id": "EVT22547662",
-      "label": "Weg afgesloten",
-      "severity": "info",
-      "lat": 50.85583,
-      "lon": 4.64645,
-      "until": "2026-11-09",
-      "province": "vlaams-brabant",
-      "place": "Leuven"
-    },
-    {
       "id": "EVT22548735",
       "label": "Weg afgesloten",
       "severity": "info",
@@ -189,8 +189,8 @@
       "id": "EVT22549029",
       "label": "Wegenwerken",
       "severity": "info",
-      "lat": 50.98144,
-      "lon": 4.48557,
+      "lat": 50.97959,
+      "lon": 4.48624,
       "until": "",
       "province": "antwerpen",
       "place": "Mechelen"

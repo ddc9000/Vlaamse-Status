@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-08T23:14:10.717098",
+  "updated": "2026-11-09T02:46:52.856855",
   "source": "Open-Meteo",
   "locations": {
     "west-vlaanderen": {
       "id": "west-vlaanderen",
       "name": "Brugge",
-      "temp": 5,
-      "windspeed": 10.8,
+      "temp": 3,
+      "windspeed": 4.3,
       "weathercode": 0,
       "description": "Helder",
       "max": 10,
@@ -15,8 +15,8 @@
     "oost-vlaanderen": {
       "id": "oost-vlaanderen",
       "name": "Gent",
-      "temp": 5,
-      "windspeed": 6.5,
+      "temp": 3,
+      "windspeed": 2.9,
       "weathercode": 0,
       "description": "Helder",
       "max": 10,
@@ -25,8 +25,8 @@
     "antwerpen": {
       "id": "antwerpen",
       "name": "Antwerpen",
-      "temp": 6,
-      "windspeed": 5.8,
+      "temp": 4,
+      "windspeed": 6.8,
       "weathercode": 0,
       "description": "Helder",
       "max": 10,
@@ -35,8 +35,8 @@
     "limburg": {
       "id": "limburg",
       "name": "Hasselt",
-      "temp": 3,
-      "windspeed": 5.0,
+      "temp": 2,
+      "windspeed": 6.1,
       "weathercode": 0,
       "description": "Helder",
       "max": 10,
@@ -45,8 +45,8 @@
     "vlaams-brabant": {
       "id": "vlaams-brabant",
       "name": "Leuven",
-      "temp": 4,
-      "windspeed": 4.0,
+      "temp": 3,
+      "windspeed": 4.3,
       "weathercode": 0,
       "description": "Helder",
       "max": 10,
@@ -55,8 +55,8 @@
     "brussel": {
       "id": "brussel",
       "name": "Brussel",
-      "temp": 6,
-      "windspeed": 5.4,
+      "temp": 5,
+      "windspeed": 3.2,
       "weathercode": 0,
       "description": "Helder",
       "max": 11,
@@ -65,8 +65,8 @@
     "lokerse-streek": {
       "id": "lokerse-streek",
       "name": "Lokeren",
-      "temp": 5,
-      "windspeed": 5.8,
+      "temp": 2,
+      "windspeed": 4.3,
       "weathercode": 0,
       "description": "Helder",
       "max": 10,
@@ -75,8 +75,8 @@
     "vlaanderen": {
       "id": "vlaanderen",
       "name": "Vlaanderen",
-      "temp": 5,
-      "windspeed": 6.4,
+      "temp": 3,
+      "windspeed": 4.9,
       "weathercode": 0,
       "description": "Helder",
       "max": 10,
