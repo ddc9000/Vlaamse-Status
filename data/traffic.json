@@ -1,19 +1,69 @@
 {
-  "updated": "2026-11-10T03:00:44.634614",
+  "updated": "2026-11-10T10:48:39.294282",
   "source": "Verkeerscentrum Vlaanderen (DATEX II)",
   "license": "CC BY",
   "count": 40,
-  "warnings": 1,
+  "warnings": 6,
   "items": [
     {
-      "id": "EVT22551143",
+      "id": "EVT22551996",
       "label": "Verstoord verkeer",
       "severity": "warning",
-      "lat": 50.80274,
-      "lon": 4.46617,
+      "lat": 51.21387,
+      "lon": 4.35284,
+      "until": "",
+      "province": "antwerpen",
+      "place": "Antwerpen"
+    },
+    {
+      "id": "EVT22551965",
+      "label": "Verstoord verkeer",
+      "severity": "warning",
+      "lat": 51.20088,
+      "lon": 4.37674,
+      "until": "",
+      "province": "antwerpen",
+      "place": "Antwerpen"
+    },
+    {
+      "id": "EVT22551812",
+      "label": "Verstoord verkeer",
+      "severity": "warning",
+      "lat": 51.2137,
+      "lon": 4.35537,
+      "until": "",
+      "province": "antwerpen",
+      "place": "Antwerpen"
+    },
+    {
+      "id": "EVT22551206",
+      "label": "Verstoord verkeer",
+      "severity": "warning",
+      "lat": 51.12028,
+      "lon": 4.37338,
+      "until": "",
+      "province": "antwerpen",
+      "place": "Boom"
+    },
+    {
+      "id": "EVT22551993",
+      "label": "Verstoord verkeer",
+      "severity": "warning",
+      "lat": 50.88116,
+      "lon": 4.46087,
       "until": "",
       "province": "vlaams-brabant",
-      "place": "Tervuren"
+      "place": "Zaventem"
+    },
+    {
+      "id": "EVT22552003",
+      "label": "Verstoord verkeer",
+      "severity": "warning",
+      "lat": 51.13797,
+      "lon": 4.37801,
+      "until": "",
+      "province": "antwerpen",
+      "place": "Boom"
     },
     {
       "id": "EVT22290653",
@@ -106,16 +156,6 @@
       "place": "Dilbeek"
     },
     {
-      "id": "EVT22548842",
-      "label": "Weg afgesloten",
-      "severity": "info",
-      "lat": 50.77922,
-      "lon": 4.92247,
-      "until": "",
-      "province": "vlaams-brabant",
-      "place": "Tienen"
-    },
-    {
       "id": "EVT22419864",
       "label": "Weg afgesloten",
       "severity": "info",
@@ -146,16 +186,6 @@
       "place": "Dilbeek"
     },
     {
-      "id": "EVT22550328",
-      "label": "Weg afgesloten",
-      "severity": "info",
-      "lat": 51.31016,
-      "lon": 4.32498,
-      "until": "2026-11-10",
-      "province": "antwerpen",
-      "place": "Antwerpen"
-    },
-    {
       "id": "EVT22290598",
       "label": "Weg afgesloten",
       "severity": "info",
@@ -176,16 +206,6 @@
       "place": "Waregem"
     },
     {
-      "id": "EVT22550568",
-      "label": "Weg afgesloten",
-      "severity": "info",
-      "lat": 50.80094,
-      "lon": 4.46502,
-      "until": "2026-11-10",
-      "province": "vlaams-brabant",
-      "place": "Tervuren"
-    },
-    {
       "id": "EVT22549926",
       "label": "Weg afgesloten",
       "severity": "info",
@@ -196,24 +216,44 @@
       "place": "Dilbeek"
     },
     {
-      "id": "EVT22551100",
+      "id": "EVT22551785",
       "label": "Wegenwerken",
       "severity": "info",
-      "lat": 50.93652,
-      "lon": 5.29782,
+      "lat": 50.89367,
+      "lon": 5.41386,
       "until": "",
       "province": "limburg",
       "place": "Hasselt"
     },
     {
-      "id": "EVT22551118",
+      "id": "EVT22551222",
       "label": "Wegenwerken",
       "severity": "info",
-      "lat": 51.14226,
-      "lon": 4.42852,
+      "lat": 51.10896,
+      "lon": 4.05532,
+      "until": "",
+      "province": "oost-vlaanderen",
+      "place": "Zele"
+    },
+    {
+      "id": "EVT22551191",
+      "label": "Wegenwerken",
+      "severity": "info",
+      "lat": 51.04432,
+      "lon": 4.45464,
       "until": "",
       "province": "antwerpen",
-      "place": "Mortsel"
+      "place": "Mechelen"
+    },
+    {
+      "id": "EVT22551898",
+      "label": "Wegenwerken",
+      "severity": "info",
+      "lat": 51.19551,
+      "lon": 4.61656,
+      "until": "",
+      "province": "antwerpen",
+      "place": "Lier"
     },
     {
       "id": "EVT22501406",
@@ -306,6 +346,16 @@
       "place": "Gent"
     },
     {
+      "id": "EVT22551547",
+      "label": "Beurtelings verkeer",
+      "severity": "info",
+      "lat": 50.89045,
+      "lon": 4.65043,
+      "until": "2026-11-10",
+      "province": "vlaams-brabant",
+      "place": "Leuven"
+    },
+    {
       "id": "EVT22431605",
       "label": "Beurtelings verkeer",
       "severity": "info",
@@ -346,64 +396,14 @@
       "place": "Antwerpen"
     },
     {
-      "id": "EVT22407694",
+      "id": "EVT22551536",
       "label": "Nieuwe wegenwerken",
       "severity": "info",
-      "lat": 51.01022,
-      "lon": 5.72507,
-      "until": "2026-11-27",
+      "lat": 51.21422,
+      "lon": 5.38155,
+      "until": "2026-11-10",
       "province": "limburg",
-      "place": "Maasmechelen"
-    },
-    {
-      "id": "EVT22345095",
-      "label": "Nieuwe wegenwerken",
-      "severity": "info",
-      "lat": 50.97914,
-      "lon": 3.11377,
-      "until": "2026-11-17",
-      "province": "west-vlaanderen",
-      "place": "Roeselare"
-    },
-    {
-      "id": "EVT22380991",
-      "label": "Nieuwe wegenwerken",
-      "severity": "info",
-      "lat": 50.82848,
-      "lon": 4.48287,
-      "until": "2028-07-31",
-      "province": "vlaams-brabant",
-      "place": "Tervuren"
-    },
-    {
-      "id": "EVT22546918",
-      "label": "Nieuwe wegenwerken",
-      "severity": "info",
-      "lat": 51.21314,
-      "lon": 3.2005,
-      "until": "2026-11-13",
-      "province": "west-vlaanderen",
-      "place": "Brugge"
-    },
-    {
-      "id": "EVT22290636",
-      "label": "Nieuwe wegenwerken",
-      "severity": "info",
-      "lat": 51.19752,
-      "lon": 3.2207,
-      "until": "2026-11-30",
-      "province": "west-vlaanderen",
-      "place": "Brugge"
-    },
-    {
-      "id": "EVT22290660",
-      "label": "Nieuwe wegenwerken",
-      "severity": "info",
-      "lat": 50.79264,
-      "lon": 4.48192,
-      "until": "2027-09-30",
-      "province": "vlaams-brabant",
-      "place": "Tervuren"
+      "place": "Lommel"
     }
   ]
 }
