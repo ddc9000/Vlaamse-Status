@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T03:16:47.370583",
+  "updated": "2026-11-11T11:15:50.228332",
   "source": "Verkeerscentrum Vlaanderen (DATEX II)",
   "license": "CC BY",
   "count": 40,
@@ -114,26 +114,6 @@
       "until": "2027-01-04",
       "province": "antwerpen",
       "place": "Lier"
-    },
-    {
-      "id": "EVT22552598",
-      "label": "Weg afgesloten",
-      "severity": "info",
-      "lat": 50.80094,
-      "lon": 4.46502,
-      "until": "2026-11-11",
-      "province": "vlaams-brabant",
-      "place": "Tervuren"
-    },
-    {
-      "id": "EVT22552310",
-      "label": "Weg afgesloten",
-      "severity": "info",
-      "lat": 51.3102,
-      "lon": 4.32538,
-      "until": "2026-11-11",
-      "province": "antwerpen",
-      "place": "Antwerpen"
     },
     {
       "id": "EVT22477040",
@@ -266,6 +246,16 @@
       "place": "Hasselt"
     },
     {
+      "id": "EVT22553232",
+      "label": "Beurtelings verkeer",
+      "severity": "info",
+      "lat": 50.89045,
+      "lon": 4.65043,
+      "until": "2026-11-11",
+      "province": "vlaams-brabant",
+      "place": "Leuven"
+    },
+    {
       "id": "EVT22431605",
       "label": "Beurtelings verkeer",
       "severity": "info",
@@ -306,6 +296,16 @@
       "place": "Zele"
     },
     {
+      "id": "EVT22553221",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 51.21422,
+      "lon": 5.38155,
+      "until": "2026-11-11",
+      "province": "limburg",
+      "place": "Lommel"
+    },
+    {
       "id": "EVT22545091",
       "label": "Nieuwe wegenwerken",
       "severity": "info",
@@ -314,6 +314,16 @@
       "until": "2026-11-24",
       "province": "west-vlaanderen",
       "place": "Roeselare"
+    },
+    {
+      "id": "EVT22553241",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 51.05623,
+      "lon": 5.38347,
+      "until": "2026-11-11",
+      "province": "limburg",
+      "place": "Peer"
     },
     {
       "id": "EVT22379648",
@@ -366,6 +376,16 @@
       "place": "Gent"
     },
     {
+      "id": "EVT22553224",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 50.85042,
+      "lon": 5.56443,
+      "until": "2026-11-11",
+      "province": "limburg",
+      "place": "Bilzen"
+    },
+    {
       "id": "EVT22453957",
       "label": "Nieuwe wegenwerken",
       "severity": "info",
@@ -384,26 +404,6 @@
       "until": "2027-01-31",
       "province": "vlaams-brabant",
       "place": "Zaventem"
-    },
-    {
-      "id": "EVT22464576",
-      "label": "Nieuwe wegenwerken",
-      "severity": "info",
-      "lat": 51.28979,
-      "lon": 4.37638,
-      "until": "2027-02-07",
-      "province": "antwerpen",
-      "place": "Antwerpen"
-    },
-    {
-      "id": "EVT22290547",
-      "label": "Nieuwe wegenwerken",
-      "severity": "info",
-      "lat": 50.94799,
-      "lon": 5.69308,
-      "until": "2028-08-31",
-      "province": "limburg",
-      "place": "Maasmechelen"
     }
   ]
 }
