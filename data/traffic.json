@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T18:46:47.162184",
+  "updated": "2026-11-12T01:05:47.493870",
   "source": "Verkeerscentrum Vlaanderen (DATEX II)",
   "license": "CC BY",
   "count": 40,
@@ -86,6 +86,26 @@
       "place": "Lommel"
     },
     {
+      "id": "EVT22553264",
+      "label": "Weg afgesloten",
+      "severity": "info",
+      "lat": 51.24932,
+      "lon": 4.26065,
+      "until": "2026-11-12",
+      "province": "oost-vlaanderen",
+      "place": "Beveren"
+    },
+    {
+      "id": "EVT22553240",
+      "label": "Weg afgesloten",
+      "severity": "info",
+      "lat": 50.80109,
+      "lon": 4.46499,
+      "until": "2026-11-12",
+      "province": "vlaams-brabant",
+      "place": "Tervuren"
+    },
+    {
       "id": "EVT22482312",
       "label": "Weg afgesloten",
       "severity": "info",
@@ -136,6 +156,16 @@
       "place": "Dilbeek"
     },
     {
+      "id": "EVT22553265",
+      "label": "Weg afgesloten",
+      "severity": "info",
+      "lat": 51.272,
+      "lon": 4.27828,
+      "until": "2026-11-12",
+      "province": "oost-vlaanderen",
+      "place": "Beveren"
+    },
+    {
       "id": "EVT22290653",
       "label": "Weg afgesloten",
       "severity": "info",
@@ -154,6 +184,16 @@
       "until": "2026-11-13",
       "province": "west-vlaanderen",
       "place": "Waregem"
+    },
+    {
+      "id": "EVT22553349",
+      "label": "Wegenwerken",
+      "severity": "info",
+      "lat": 51.18549,
+      "lon": 3.10965,
+      "until": "",
+      "province": "west-vlaanderen",
+      "place": "Brugge"
     },
     {
       "id": "EVT22513541",
@@ -364,46 +404,6 @@
       "until": "2027-01-31",
       "province": "vlaams-brabant",
       "place": "Zaventem"
-    },
-    {
-      "id": "EVT22464576",
-      "label": "Nieuwe wegenwerken",
-      "severity": "info",
-      "lat": 51.28979,
-      "lon": 4.37638,
-      "until": "2027-02-07",
-      "province": "antwerpen",
-      "place": "Antwerpen"
-    },
-    {
-      "id": "EVT22290547",
-      "label": "Nieuwe wegenwerken",
-      "severity": "info",
-      "lat": 50.94799,
-      "lon": 5.69308,
-      "until": "2028-08-31",
-      "province": "limburg",
-      "place": "Maasmechelen"
-    },
-    {
-      "id": "EVT22440101",
-      "label": "Nieuwe wegenwerken",
-      "severity": "info",
-      "lat": 51.02141,
-      "lon": 5.01829,
-      "until": "2026-11-20",
-      "province": "vlaams-brabant",
-      "place": "Diest"
-    },
-    {
-      "id": "EVT22545523",
-      "label": "Nieuwe wegenwerken",
-      "severity": "info",
-      "lat": 51.09947,
-      "lon": 3.7124,
-      "until": "2027-01-04",
-      "province": "oost-vlaanderen",
-      "place": "Gent"
     }
   ]
 }
