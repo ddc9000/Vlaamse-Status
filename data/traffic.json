@@ -1,219 +1,209 @@
 {
-  "updated": "2026-11-13T10:08:55.832578",
+  "updated": "2026-11-13T17:55:10.999676",
   "source": "Verkeerscentrum Vlaanderen (DATEX II)",
   "license": "CC BY",
   "count": 40,
-  "warnings": 21,
+  "warnings": 20,
   "items": [
     {
-      "id": "EVT22556352",
+      "id": "EVT22557622",
       "label": "Verstoord verkeer",
       "severity": "warning",
-      "lat": 50.88202,
-      "lon": 4.46065,
+      "lat": 50.90241,
+      "lon": 4.32647,
+      "until": "",
+      "province": "brussel",
+      "place": "Sint-Jans-Molenbeek"
+    },
+    {
+      "id": "EVT22557502",
+      "label": "Verstoord verkeer",
+      "severity": "warning",
+      "lat": 51.19022,
+      "lon": 4.41325,
+      "until": "",
+      "province": "antwerpen",
+      "place": "Antwerpen"
+    },
+    {
+      "id": "EVT22556712",
+      "label": "Verstoord verkeer",
+      "severity": "warning",
+      "lat": 50.77804,
+      "lon": 4.4498,
+      "until": "",
+      "province": "vlaams-brabant",
+      "place": "Tervuren"
+    },
+    {
+      "id": "EVT22557306",
+      "label": "Verstoord verkeer",
+      "severity": "warning",
+      "lat": 50.86223,
+      "lon": 4.27091,
+      "until": "",
+      "province": "vlaams-brabant",
+      "place": "Dilbeek"
+    },
+    {
+      "id": "EVT22556993",
+      "label": "Verstoord verkeer",
+      "severity": "warning",
+      "lat": 50.80912,
+      "lon": 4.30086,
+      "until": "",
+      "province": "brussel",
+      "place": "Anderlecht"
+    },
+    {
+      "id": "EVT22557745",
+      "label": "Verstoord verkeer",
+      "severity": "warning",
+      "lat": 51.21166,
+      "lon": 4.50176,
+      "until": "",
+      "province": "antwerpen",
+      "place": "Mortsel"
+    },
+    {
+      "id": "EVT22557568",
+      "label": "Verstoord verkeer",
+      "severity": "warning",
+      "lat": 50.88015,
+      "lon": 4.46139,
       "until": "",
       "province": "vlaams-brabant",
       "place": "Zaventem"
     },
     {
-      "id": "EVT22556380",
+      "id": "EVT22557090",
       "label": "Verstoord verkeer",
       "severity": "warning",
-      "lat": 51.197,
-      "lon": 4.43498,
+      "lat": 51.18396,
+      "lon": 4.4169,
       "until": "",
       "province": "antwerpen",
       "place": "Mortsel"
     },
     {
-      "id": "EVT22556387",
+      "id": "EVT22557724",
       "label": "Verstoord verkeer",
       "severity": "warning",
-      "lat": 51.19778,
-      "lon": 4.59397,
+      "lat": 50.84061,
+      "lon": 4.48351,
+      "until": "",
+      "province": "vlaams-brabant",
+      "place": "Tervuren"
+    },
+    {
+      "id": "EVT22557725",
+      "label": "Verstoord verkeer",
+      "severity": "warning",
+      "lat": 50.81053,
+      "lon": 4.47115,
+      "until": "",
+      "province": "vlaams-brabant",
+      "place": "Tervuren"
+    },
+    {
+      "id": "EVT22557726",
+      "label": "Verstoord verkeer",
+      "severity": "warning",
+      "lat": 50.87969,
+      "lon": 4.25851,
+      "until": "",
+      "province": "vlaams-brabant",
+      "place": "Dilbeek"
+    },
+    {
+      "id": "EVT22556863",
+      "label": "Verstoord verkeer",
+      "severity": "warning",
+      "lat": 51.19296,
+      "lon": 4.39995,
+      "until": "",
+      "province": "antwerpen",
+      "place": "Antwerpen"
+    },
+    {
+      "id": "EVT22557187",
+      "label": "Verstoord verkeer",
+      "severity": "warning",
+      "lat": 50.72556,
+      "lon": 4.22863,
+      "until": "",
+      "province": "vlaams-brabant",
+      "place": "Halle"
+    },
+    {
+      "id": "EVT22556968",
+      "label": "Verstoord verkeer",
+      "severity": "warning",
+      "lat": 51.20225,
+      "lon": 4.37517,
+      "until": "",
+      "province": "antwerpen",
+      "place": "Antwerpen"
+    },
+    {
+      "id": "EVT22557204",
+      "label": "Verstoord verkeer",
+      "severity": "warning",
+      "lat": 50.88026,
+      "lon": 4.28171,
+      "until": "",
+      "province": "vlaams-brabant",
+      "place": "Dilbeek"
+    },
+    {
+      "id": "EVT22557747",
+      "label": "Verstoord verkeer",
+      "severity": "warning",
+      "lat": 51.20319,
+      "lon": 4.57019,
       "until": "",
       "province": "antwerpen",
       "place": "Lier"
     },
     {
-      "id": "EVT22556386",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 51.26482,
-      "lon": 4.43823,
-      "until": "",
-      "province": "antwerpen",
-      "place": "Antwerpen"
-    },
-    {
-      "id": "EVT22555812",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 51.2137,
-      "lon": 4.35559,
-      "until": "",
-      "province": "antwerpen",
-      "place": "Antwerpen"
-    },
-    {
-      "id": "EVT22556347",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 50.79544,
-      "lon": 4.4772,
-      "until": "",
-      "province": "vlaams-brabant",
-      "place": "Tervuren"
-    },
-    {
-      "id": "EVT22556304",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 51.26099,
-      "lon": 4.43176,
-      "until": "",
-      "province": "antwerpen",
-      "place": "Antwerpen"
-    },
-    {
-      "id": "EVT22556223",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 51.31181,
-      "lon": 4.32995,
-      "until": "",
-      "province": "antwerpen",
-      "place": "Antwerpen"
-    },
-    {
-      "id": "EVT22556389",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 51.15283,
-      "lon": 4.97505,
-      "until": "",
-      "province": "antwerpen",
-      "place": "Geel"
-    },
-    {
-      "id": "EVT22556388",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 51.15256,
-      "lon": 4.97481,
-      "until": "",
-      "province": "antwerpen",
-      "place": "Geel"
-    },
-    {
-      "id": "EVT22556373",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 51.12561,
-      "lon": 4.37485,
-      "until": "",
-      "province": "antwerpen",
-      "place": "Boom"
-    },
-    {
-      "id": "EVT22555807",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 50.91747,
-      "lon": 4.36706,
-      "until": "",
-      "province": "brussel",
-      "place": "Schaarbeek"
-    },
-    {
-      "id": "EVT22556278",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 50.83933,
-      "lon": 4.48358,
-      "until": "",
-      "province": "vlaams-brabant",
-      "place": "Tervuren"
-    },
-    {
-      "id": "EVT22556367",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 51.21146,
-      "lon": 4.49391,
-      "until": "",
-      "province": "antwerpen",
-      "place": "Mortsel"
-    },
-    {
-      "id": "EVT22556303",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 51.19879,
-      "lon": 4.38119,
-      "until": "",
-      "province": "antwerpen",
-      "place": "Antwerpen"
-    },
-    {
-      "id": "EVT22555964",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 50.87098,
-      "lon": 4.26979,
-      "until": "",
-      "province": "vlaams-brabant",
-      "place": "Dilbeek"
-    },
-    {
-      "id": "EVT22556384",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 51.21244,
-      "lon": 4.44666,
-      "until": "",
-      "province": "antwerpen",
-      "place": "Mortsel"
-    },
-    {
-      "id": "EVT22556369",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 50.90483,
-      "lon": 4.44084,
-      "until": "",
-      "province": "vlaams-brabant",
-      "place": "Vilvoorde"
-    },
-    {
       "id": "EVT22556088",
       "label": "Verstoord verkeer",
       "severity": "warning",
-      "lat": 51.21128,
-      "lon": 4.34386,
+      "lat": 51.21127,
+      "lon": 4.34381,
       "until": "",
       "province": "antwerpen",
       "place": "Antwerpen"
     },
     {
-      "id": "EVT22556251",
+      "id": "EVT22556898",
       "label": "Verstoord verkeer",
       "severity": "warning",
-      "lat": 50.80495,
-      "lon": 4.46763,
+      "lat": 50.72217,
+      "lon": 4.25144,
       "until": "",
       "province": "vlaams-brabant",
-      "place": "Tervuren"
+      "place": "Halle"
     },
     {
-      "id": "EVT22556364",
+      "id": "EVT22557713",
       "label": "Verstoord verkeer",
       "severity": "warning",
-      "lat": 50.87828,
-      "lon": 4.27792,
+      "lat": 50.86949,
+      "lon": 4.48169,
       "until": "",
       "province": "vlaams-brabant",
-      "place": "Dilbeek"
+      "place": "Zaventem"
+    },
+    {
+      "id": "EVT22557744",
+      "label": "Verstoord verkeer",
+      "severity": "warning",
+      "lat": 51.1859,
+      "lon": 4.41556,
+      "until": "",
+      "province": "antwerpen",
+      "place": "Antwerpen"
     },
     {
       "id": "EVT22429488",
@@ -366,16 +356,6 @@
       "place": "Waregem"
     },
     {
-      "id": "EVT22556064",
-      "label": "Wegenwerken",
-      "severity": "info",
-      "lat": 51.13337,
-      "lon": 3.28006,
-      "until": "",
-      "province": "west-vlaanderen",
-      "place": "Brugge"
-    },
-    {
       "id": "EVT22513541",
       "label": "Werken langs de weg",
       "severity": "info",
@@ -404,6 +384,26 @@
       "until": "2026-12-18",
       "province": "vlaams-brabant",
       "place": "Zaventem"
+    },
+    {
+      "id": "EVT22341374",
+      "label": "Werken langs de weg",
+      "severity": "info",
+      "lat": 51.2247,
+      "lon": 3.40542,
+      "until": "2027-07-30",
+      "province": "oost-vlaanderen",
+      "place": "Eeklo"
+    },
+    {
+      "id": "EVT22443547",
+      "label": "Werken langs de weg",
+      "severity": "info",
+      "lat": 51.03293,
+      "lon": 4.10864,
+      "until": "2026-11-30",
+      "province": "oost-vlaanderen",
+      "place": "Dendermonde"
     }
   ]
 }
