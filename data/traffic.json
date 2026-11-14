@@ -1,30 +1,10 @@
 {
-  "updated": "2026-11-13T22:57:01.953496",
+  "updated": "2026-11-14T02:47:56.204848",
   "source": "Verkeerscentrum Vlaanderen (DATEX II)",
   "license": "CC BY",
   "count": 40,
-  "warnings": 2,
+  "warnings": 0,
   "items": [
-    {
-      "id": "EVT22557853",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 50.93343,
-      "lon": 3.9326,
-      "until": "",
-      "province": "oost-vlaanderen",
-      "place": "Wetteren"
-    },
-    {
-      "id": "EVT22557837",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 50.99582,
-      "lon": 3.78256,
-      "until": "",
-      "province": "oost-vlaanderen",
-      "place": "Destelbergen"
-    },
     {
       "id": "EVT22429488",
       "label": "Weg afgesloten",
@@ -196,16 +176,6 @@
       "place": "Dilbeek"
     },
     {
-      "id": "EVT22511486",
-      "label": "Weg afgesloten",
-      "severity": "info",
-      "lat": 50.89201,
-      "lon": 3.45038,
-      "until": "2026-11-13",
-      "province": "west-vlaanderen",
-      "place": "Waregem"
-    },
-    {
       "id": "EVT22557827",
       "label": "Weg afgesloten",
       "severity": "info",
@@ -214,26 +184,6 @@
       "until": "",
       "province": "west-vlaanderen",
       "place": "Brugge"
-    },
-    {
-      "id": "EVT22557828",
-      "label": "Wegenwerken",
-      "severity": "info",
-      "lat": 51.04297,
-      "lon": 4.45285,
-      "until": "",
-      "province": "antwerpen",
-      "place": "Mechelen"
-    },
-    {
-      "id": "EVT22557851",
-      "label": "Wegenwerken",
-      "severity": "info",
-      "lat": 50.99831,
-      "lon": 5.22172,
-      "until": "",
-      "province": "limburg",
-      "place": "Beringen"
     },
     {
       "id": "EVT22557846",
@@ -264,26 +214,6 @@
       "until": "",
       "province": "antwerpen",
       "place": "Antwerpen"
-    },
-    {
-      "id": "EVT22557831",
-      "label": "Wegenwerken",
-      "severity": "info",
-      "lat": 50.74447,
-      "lon": 4.5435,
-      "until": "",
-      "province": "vlaams-brabant",
-      "place": "Overijse"
-    },
-    {
-      "id": "EVT22557786",
-      "label": "Wegenwerken",
-      "severity": "info",
-      "lat": 51.03155,
-      "lon": 3.82443,
-      "until": "",
-      "province": "oost-vlaanderen",
-      "place": "Laarne"
     },
     {
       "id": "EVT22557842",
@@ -404,6 +334,76 @@
       "until": "2026-11-16",
       "province": "antwerpen",
       "place": "Antwerpen"
+    },
+    {
+      "id": "EVT22431605",
+      "label": "Beurtelings verkeer",
+      "severity": "info",
+      "lat": 51.06101,
+      "lon": 5.3833,
+      "until": "2027-12-31",
+      "province": "limburg",
+      "place": "Peer"
+    },
+    {
+      "id": "EVT22443543",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 51.03209,
+      "lon": 4.10696,
+      "until": "2026-11-30",
+      "province": "oost-vlaanderen",
+      "place": "Dendermonde"
+    },
+    {
+      "id": "EVT22556034",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 51.1392,
+      "lon": 5.5903,
+      "until": "2027-03-30",
+      "province": "limburg",
+      "place": "Bree"
+    },
+    {
+      "id": "EVT22345093",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 50.9765,
+      "lon": 3.10738,
+      "until": "2026-11-17",
+      "province": "west-vlaanderen",
+      "place": "Roeselare"
+    },
+    {
+      "id": "EVT22514164",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 51.05623,
+      "lon": 4.00959,
+      "until": "2026-11-23",
+      "province": "oost-vlaanderen",
+      "place": "Zele"
+    },
+    {
+      "id": "EVT22545091",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 50.80223,
+      "lon": 3.08373,
+      "until": "2026-11-24",
+      "province": "west-vlaanderen",
+      "place": "Roeselare"
+    },
+    {
+      "id": "EVT22379648",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 51.20255,
+      "lon": 3.23536,
+      "until": "2027-06-18",
+      "province": "west-vlaanderen",
+      "place": "Brugge"
     }
   ]
 }
