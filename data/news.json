@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T20:49:13.625055",
+  "updated": "2026-11-15T00:27:48.879254",
   "items": [
     {
       "title": "Kinrooi test app om burgers op te roepen bij hartstilstand: “De kans op overleven is vier keer groter”",
@@ -15,43 +15,294 @@
       "published": "2026-11-15T15:39:00+00:00"
     },
     {
-      "title": "Doelpuntloos gelijkspel tussen Eendracht Winnik B en Eendracht Nieuwerkerken",
-      "link": "https://www.nieuwsblad.be/regio/oost-vlaanderen/denderregio/ninove/doelpuntloos-gelijkspel-tussen-eendracht-winnik-b-en-eendracht-nieuwerkerken/164564734.html",
-      "description": "Geen van beide teams slaagde erin het net te vinden in de wedstrijd tussen thuisploeg Eendracht Winnik B en Eendracht Nieuwerkerken zaterdag. De wedstrijd eindigde op 0-0.",
-      "source": "Nieuwsblad Oost-Vlaanderen",
-      "province": "oost-vlaanderen",
+      "title": "Ilian Dubois en Sander Meeus pakken winst voor Greunsjotters Vossem tegen Tervuren-Duisburg B",
+      "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/tervuren/ilian-dubois-en-sander-meeus-pakken-winst-voor-greunsjotters-vossem-tegen-tervuren-duisburg-b/164567487.html",
+      "description": "Greunsjotters Vossem heeft een goede zaak gedaan in het duel met Tervuren-Duisburg B zaterdag. De match eindigde na een ruststand van 1-0 op 2-1.",
+      "source": "Nieuwsblad Vlaams-Brabant",
+      "province": "vlaams-brabant",
       "provinces": [
-        "oost-vlaanderen"
+        "vlaams-brabant"
       ],
-      "places": [],
-      "pubDate": "14 nov 21:45",
-      "published": "2026-11-14T20:45:40+00:00"
+      "places": [
+        "Tervuren"
+      ],
+      "pubDate": "15 nov 01:14",
+      "published": "2026-11-15T00:14:41+00:00"
     },
     {
-      "title": "Breugel-Herkol toont wederom uitstekende vorm met zege tegen Lindelhoeven B",
-      "link": "https://www.nieuwsblad.be/regio/limburg/pelt/breugel-herkol-toont-wederom-uitstekende-vorm-met-zege-tegen-lindelhoeven-b/164564736.html",
-      "description": "Breugel-Herkol is op dit moment moeilijk te stoppen en dat ondervond Lindelhoeven B zaterdag ook. De wedstrijd eindigde op 3-1, waarmee Breugel-Herkol zijn zesde winst na elkaar heeft behaald.",
-      "source": "Nieuwsblad Limburg",
-      "province": "limburg",
+      "title": "Mix van opklaringen en wolken in Antwerpen in de nacht",
+      "link": "https://www.hln.be/antwerpen/weer-antwerpen~acb2a1ab/",
+      "description": "Het is wisselvallig weer in Antwerpen: bewolkt met nu en dan (mot)regen. De temperatuur ligt rond de 11 graden. Er waait een zuidelijke matige wind.",
+      "source": "HLN Antwerpen",
+      "province": "antwerpen",
       "provinces": [
-        "limburg"
+        "antwerpen"
       ],
-      "places": [],
-      "pubDate": "14 nov 21:45",
-      "published": "2026-11-14T20:45:40+00:00"
+      "places": [
+        "Antwerpen"
+      ],
+      "pubDate": "15 nov 01:04",
+      "published": "2026-11-15T00:04:00+00:00"
     },
     {
-      "title": "Heultje te sterk voor Oosthoven",
-      "link": "https://www.nieuwsblad.be/regio/antwerpen/kempen/westerlo/heultje-te-sterk-voor-oosthoven/164564739.html",
-      "description": "Heultje won het thuisduel tegen Oosthoven zaterdag met 2-0.",
+      "title": "Mix van opklaringen en wolken in Brussel in de nacht",
+      "link": "https://www.hln.be/brussel/weer-brussel~a3dc699d/",
+      "description": "Er is veel bewolking aanwezig en er valt af en toe een bui in Brussel. De maximumtemperatuur ligt rond de 10 graden. De zuidelijke wind is matig.",
+      "source": "HLN Brussel",
+      "province": "brussel",
+      "provinces": [
+        "brussel"
+      ],
+      "places": [
+        "Brussel"
+      ],
+      "pubDate": "15 nov 01:04",
+      "published": "2026-11-15T00:04:00+00:00"
+    },
+    {
+      "title": "Eerste lichtjeswandeling in Bellingen lokt meteen 70 deelnemers",
+      "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/halle-vilvoorde/pepingen/eerste-lichtjeswandeling-in-bellingen-lokt-meteen-70-deelnemers/164565186.html",
+      "description": "Om het einde van de Eerste Wereldoorlog te herdenken organiseerde de gemeente Pepingen naast de klassieke kransneerlegging voor de gesneuvelden voor het eerst ook een lichtjestocht.",
+      "source": "Nieuwsblad Vlaams-Brabant",
+      "province": "vlaams-brabant",
+      "provinces": [
+        "vlaams-brabant"
+      ],
+      "places": [],
+      "pubDate": "15 nov 01:00",
+      "published": "2026-11-15T00:00:00+00:00"
+    },
+    {
+      "title": "Duizendtal bezoekers op steunfeest Pakawi Park: \"Je ziet dat ze moeite hebben gedaan\"",
+      "link": "https://www.nieuwsblad.be/regio/antwerpen/kempen/balen/duizendtal-bezoekers-op-steunfeest-pakawi-park-je-ziet-dat-ze-moeite-hebben-gedaan/164567303.html",
+      "description": "Een dag voor zestien dierenverblijven initieel op slot moesten, lokte steunfeest ‘Pakawi knalt’ zaterdag zo’n duizend bezoekers naar Olmen. Velen zakten af om de zoo te steunen. Terwijl de sluiting voorlopig geschorst is",
       "source": "Nieuwsblad Antwerpen",
       "province": "antwerpen",
       "provinces": [
         "antwerpen"
       ],
       "places": [],
-      "pubDate": "14 nov 21:44",
-      "published": "2026-11-14T20:44:40+00:00"
+      "pubDate": "15 nov 00:32",
+      "published": "2026-11-14T23:32:18+00:00"
+    },
+    {
+      "title": "Drieslinter wint uit tegen Kessel-Lo 2000",
+      "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/leuven/drieslinter-wint-uit-tegen-kessel-lo-2000/164567229.html",
+      "description": "Drieslinter won zaterdag de uitwedstrijd tegen Kessel-Lo 2000 met 1-2. Uitteam Drieslinter had in de eerste helft controle over de wedstrijd en leidde met 0-2. Kessel-Lo 2000 slaagde er niet in om terug te komen.",
+      "source": "Nieuwsblad Vlaams-Brabant",
+      "province": "vlaams-brabant",
+      "provinces": [
+        "vlaams-brabant"
+      ],
+      "places": [],
+      "pubDate": "15 nov 00:11",
+      "published": "2026-11-14T23:11:40+00:00"
+    },
+    {
+      "title": "Israël doodt Hamas-commandant in Gazastrook - Drie tankers in brand in Straat van Hormuz",
+      "link": "https://www.hln.be/buitenland/israel-doodt-hamas-commandant-in-gazastrook-drie-tankers-in-brand-in-straat-van-hormuz~a99e0324/",
+      "description": "Volg alle ontwikkelingen over het Midden-Oosten in onze liveblog.",
+      "source": "HLN",
+      "province": "vlaanderen",
+      "provinces": [],
+      "places": [],
+      "pubDate": "15 nov 00:09",
+      "published": "2026-11-14T23:09:00+00:00"
+    },
+    {
+      "title": "Ook SK Eernegem houdt VV Emelgem-Kachtem van zege af",
+      "link": "https://www.nieuwsblad.be/regio/west-vlaanderen/midwest/izegem/ook-sk-eernegem-houdt-vv-emelgem-kachtem-van-zege-af/164567200.html",
+      "description": "De wedstrijd tussen VV Emelgem-Kachtem en SK Eernegem eindigde op 1-3. Voor VV Emelgem-Kachtem betekent deze uitslag dat ze acht keer na elkaar niet hebben gewonnen, ze wachten daarmee nog steeds op een eerste overwinnin",
+      "source": "Nieuwsblad West-Vlaanderen",
+      "province": "west-vlaanderen",
+      "provinces": [
+        "west-vlaanderen"
+      ],
+      "places": [],
+      "pubDate": "15 nov 00:05",
+      "published": "2026-11-14T23:05:40+00:00"
+    },
+    {
+      "title": "Bocholt maakt het verschil in de tweede helft tegen Eendracht Termien",
+      "link": "https://www.nieuwsblad.be/regio/limburg/bocholt/bocholt-maakt-het-verschil-in-de-tweede-helft-tegen-eendracht-termien/164567160.html",
+      "description": "Bocholt won de thuiswedstrijd tegen Eendracht Termien zaterdag. Het duel eindigde op 3-0.",
+      "source": "Nieuwsblad Limburg",
+      "province": "limburg",
+      "provinces": [
+        "limburg"
+      ],
+      "places": [],
+      "pubDate": "14 nov 23:57",
+      "published": "2026-11-14T22:57:40+00:00"
+    },
+    {
+      "title": "OVERZICHT. Alle uitslagen en alle doelpuntenmakers van alle wedstrijden van dit weekend in het Oost-Vlaamse voetbal",
+      "link": "https://www.nieuwsblad.be/sport/sportregio/overzicht.-alle-uitslagen-en-alle-doelpuntenmakers-van-alle-wedstrijden-van-dit-weekend-in-het-oost-vlaamse-voetbal/157000023.html",
+      "description": "Op zoek naar alle uitslagen en alle doelpuntenmakers van alle wedstrijden van dit weekend in het Oost-Vlaamse voetbal? U vindt ze hieronder.",
+      "source": "Nieuwsblad Lokeren",
+      "province": "oost-vlaanderen",
+      "provinces": [
+        "oost-vlaanderen"
+      ],
+      "places": [
+        "Lokeren"
+      ],
+      "pubDate": "14 nov 23:56",
+      "published": "2026-11-14T22:56:42+00:00"
+    },
+    {
+      "title": "SV Oostkamp te sterk voor Sparta Petegem Deinze",
+      "link": "https://www.nieuwsblad.be/regio/oost-vlaanderen/regio-gent/deinze/sv-oostkamp-te-sterk-voor-sparta-petegem-deinze/164567148.html",
+      "description": "SV Oostkamp kwam zaterdag in de eerste helft op voorsprong in de thuiswedstrijd tegen Sparta Petegem Deinze. Dat leidde tot een 0-2 zege.",
+      "source": "Nieuwsblad West-Vlaanderen",
+      "province": "oost-vlaanderen",
+      "provinces": [
+        "oost-vlaanderen"
+      ],
+      "places": [
+        "Deinze"
+      ],
+      "pubDate": "14 nov 23:56",
+      "published": "2026-11-14T22:56:42+00:00"
+    },
+    {
+      "title": "Verhegge is goud waard voor FC Latem tegen KVK Ninove",
+      "link": "https://www.nieuwsblad.be/regio/oost-vlaanderen/denderregio/ninove/verhegge-is-goud-waard-voor-fc-latem-tegen-kvk-ninove/164567138.html",
+      "description": "FC Latem won de uitwedstrijd tegen KVK Ninove met 0-1.",
+      "source": "Nieuwsblad Oost-Vlaanderen",
+      "province": "oost-vlaanderen",
+      "provinces": [
+        "oost-vlaanderen"
+      ],
+      "places": [
+        "Ninove"
+      ],
+      "pubDate": "14 nov 23:55",
+      "published": "2026-11-14T22:55:40+00:00"
+    },
+    {
+      "title": "FC Ekeren zet achterstand om in overwinning",
+      "link": "https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/ekeren/fc-ekeren-zet-achterstand-om-in-overwinning/164567142.html",
+      "description": "FC Ekeren had het moeilijk in het duel met Wuustwezel. Het team stond na de eerste helft met 0-1 achter. De thuisploeg keerde het tij echter in de tweede helft en won het duel alsnog met 2-1.",
+      "source": "GVA",
+      "province": "antwerpen",
+      "provinces": [
+        "antwerpen"
+      ],
+      "places": [],
+      "pubDate": "14 nov 23:55",
+      "published": "2026-11-14T22:55:40+00:00"
+    },
+    {
+      "title": "Knolselder-appelsoep met witte miso",
+      "link": "https://www.standaard.be/nieuws/knolselder-appelsoep-met-witte-miso/164339009.html",
+      "description": "Een fluweelzachte wintersoep die dankzij de krokant gebakken salie en hazelnoten zelfs een feestelijke touch krijgt. De witte miso (die je in de winkel onder de naam shiro miso vindt) proef je niet, maar zorgt voor een e",
+      "source": "De Standaard",
+      "province": "vlaanderen",
+      "provinces": [],
+      "places": [],
+      "pubDate": "14 nov 23:55",
+      "published": "2026-11-14T22:55:00+00:00"
+    },
+    {
+      "title": "Wereldprimeur: SpaceX vangt bovenste deel Starship-raket op na veilige landing op aarde",
+      "link": "https://www.hln.be/wetenschap/wereldprimeur-spacex-vangt-bovenste-deel-starship-raket-op-na-veilige-landing-op-aarde~a3fc8730/",
+      "description": "SpaceX, het ruimtevaart- en satellietbedrijf van miljardair Elon Musk, is er zaterdag in geslaagd het bovenste deel van zijn Starship-raket veilig op te vangen op de Starbase-basis in de Amerikaanse staat Texas. Het gaat",
+      "source": "HLN",
+      "province": "vlaanderen",
+      "provinces": [],
+      "places": [],
+      "pubDate": "14 nov 23:55",
+      "published": "2026-11-14T22:55:00+00:00"
+    },
+    {
+      "title": "FC Gullegem zet zegereeks voort met winst tegen FC Beaufort",
+      "link": "https://www.nieuwsblad.be/regio/west-vlaanderen/zuid-west-vlaanderen/wevelgem/fc-gullegem-zet-zegereeks-voort-met-winst-tegen-fc-beaufort/164566987.html",
+      "description": "FC Gullegem won zondag ook het thuisduel met FC Beaufort. Het duel eindigde op 2-0, waardoor FC Gullegem nu vier overwinningen na elkaar heeft geboekt, terwijl de serie van zes ongeslagen wedstrijden voor FC Beaufort is ",
+      "source": "Nieuwsblad West-Vlaanderen",
+      "province": "west-vlaanderen",
+      "provinces": [
+        "west-vlaanderen"
+      ],
+      "places": [],
+      "pubDate": "14 nov 23:41",
+      "published": "2026-11-14T22:41:40+00:00"
+    },
+    {
+      "title": "Sterke tweede helft genoeg voor STVV Youth tegen Rotselaar",
+      "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/rotselaar/sterke-tweede-helft-genoeg-voor-stvv-youth-tegen-rotselaar/164566985.html",
+      "description": "De eerste helft bleef zaterdag nog doelpuntloos tussen Rotselaar en STVV Youth, maar in de tweede helft nam STVV Youth de controle over het duel en won uiteindelijk met 0-2.",
+      "source": "Nieuwsblad Limburg",
+      "province": "vlaams-brabant",
+      "provinces": [
+        "vlaams-brabant"
+      ],
+      "places": [
+        "Rotselaar"
+      ],
+      "pubDate": "14 nov 23:41",
+      "published": "2026-11-14T22:41:40+00:00"
+    },
+    {
+      "title": "Louwel verslaat Boorsem B",
+      "link": "https://www.hbvl.be/regio/limburg/oudsbergen/louwel-verslaat-boorsem-b/164566971.html",
+      "description": "Louwel heeft de thuiswedstrijd gewonnen tegen Boorsem B op zaterdag. De wedstrijd eindigde op 2-0. Eén speler van Boorsem B kreeg een rode kaart.",
+      "source": "HBVL",
+      "province": "limburg",
+      "provinces": [
+        "limburg"
+      ],
+      "places": [],
+      "pubDate": "14 nov 23:39",
+      "published": "2026-11-14T22:39:40+00:00"
+    },
+    {
+      "title": "Nieuwe sterke man voor Eendracht Wervik",
+      "link": "https://www.nieuwsblad.be/sport/sportregio/nieuwe-sterke-man-voor-eendracht-wervik/157831682.html",
+      "description": "",
+      "source": "Nieuwsblad West-Vlaanderen",
+      "province": "west-vlaanderen",
+      "provinces": [
+        "west-vlaanderen"
+      ],
+      "places": [],
+      "pubDate": "14 nov 23:37",
+      "published": "2026-11-14T22:37:23+00:00"
+    },
+    {
+      "title": "Primeur: SpaceX vangt Starship-raket opnieuw op, belangrijke stap richting herbruikbare raket",
+      "link": "https://vrtnws.be/p.43pOjqxl5",
+      "description": "Het Amerikaanse bedrijf SpaceX van Elon Musk is erin geslaagd om zijn Starship-raket na lancering opnieuw op te vangen. Het was de eerste keer dat het bedrijf dit probeerde, en meteen met succes. Gisteren was SpaceX er n",
+      "source": "VRT NWS",
+      "province": "vlaanderen",
+      "provinces": [],
+      "places": [],
+      "pubDate": "14 nov 23:27",
+      "published": "2026-11-14T22:27:52+00:00"
+    },
+    {
+      "title": "Wambeek Ternat B in goede vorm na weer een overwinning",
+      "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/halle-vilvoorde/ternat/wambeek-ternat-b-in-goede-vorm-na-weer-een-overwinning/164566683.html",
+      "description": "Wambeek Ternat B blijft winnen. Ook de thuiswedstrijd zaterdag tegen Ritterklub Jette werd gewonnen met 3-0. Dat betekent dat Wambeek Ternat B nu vijf overwinningen op rij geboekt heeft.",
+      "source": "Nieuwsblad Brussel",
+      "province": "brussel",
+      "provinces": [
+        "brussel"
+      ],
+      "places": [],
+      "pubDate": "14 nov 23:20",
+      "published": "2026-11-14T22:20:40+00:00"
+    },
+    {
+      "title": "Oorzaak voor grootschalgie panne in Amerikaanse luchtvaart wordt gezocht bij vervanging van koperkabels",
+      "link": "https://www.standaard.be/buitenland/oorzaak-voor-grootschalgie-panne-in-amerikaanse-luchtvaart-wordt-gezocht-bij-vervanging-van-koperkabels/164549414.html",
+      "description": "Vrijdag lag het vliegverkeer in de VS meer dan vier uur lang stil. De oorzaak wordt gezocht bij de vervanging van koperkabels door glasvezelkabels, laten minister van transport Sean Duffy en FAA-baas Bryan Bedford weten ",
+      "source": "De Standaard",
+      "province": "vlaanderen",
+      "provinces": [],
+      "places": [],
+      "pubDate": "14 nov 22:08",
+      "published": "2026-11-14T21:08:46+00:00"
     },
     {
       "title": "Lorine (55) blaast volkscafé ’t Postje na negen maanden leegstand nieuw leven in: “Een pintje kost hier nog steeds 2 euro”",
@@ -69,80 +320,19 @@
       "published": "2026-11-14T20:41:43+00:00"
     },
     {
-      "title": "Tientallen doden bij confrontaties tussen bendes en milities in Nigeria",
-      "link": "https://www.hln.be/buitenland/tientallen-doden-bij-confrontaties-tussen-bendes-en-milities-in-nigeria~a24b06d7/",
-      "description": "Bij gevechten tussen lokale milities en bendes in de staat Zamfara, in het noordwesten van Nigeria, zijn ruim vijftig doden gevallen. Dat hebben bewoners zaterdag gemeld aan het Franse persagentschap AFP.",
-      "source": "HLN",
-      "province": "vlaanderen",
-      "provinces": [],
-      "places": [],
-      "pubDate": "14 nov 21:41",
-      "published": "2026-11-14T20:41:00+00:00"
-    },
-    {
-      "title": "Koersel B in spannend duel voorbij Wijchmaal",
-      "link": "https://www.hbvl.be/regio/limburg/beringen/koersel-b-in-spannend-duel-voorbij-wijchmaal/164564619.html",
-      "description": "Koersel B stond bij de rust 2-0 voor in de uitwedstrijd tegen Wijchmaal. In de tweede helft probeerde Wijchmaal terug te vechten maar het kwam te kort. Koersel B won het duel met 3-2.",
-      "source": "HBVL",
-      "province": "limburg",
+      "title": "Klas van 1961 viert 65ste verjaardag tijdens gezellige bijeenkomst in Kalken - HLN",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa0VLRm5FMlAzLURFODRudXd2Y2g4R0dwbjJ2bWN1M3NUYVdtVW02WUs4Y1hnYm5US3Z0bGhScXJFRVhTTEM3VFV4TENCODIxdXBSc010LVZ2aUJTOUZ2RVNnX2RRM3pSbmYwYUZObUpnb2QxNkNOOXZDN05rblNIOExBM3pGWEtPSnNWSDQzQVRNTHJHT01yNWVqdGs5bGRnWnBib2hRWUZxWDktZEJCaGR3?oc=5",
+      "description": "Klas van 1961 viert 65ste verjaardag tijdens gezellige bijeenkomst in Kalken HLN",
+      "source": "Google Nieuws",
+      "province": "oost-vlaanderen",
       "provinces": [
-        "limburg"
-      ],
-      "places": [],
-      "pubDate": "14 nov 21:38",
-      "published": "2026-11-14T20:38:40+00:00"
-    },
-    {
-      "title": "Luca Nulens en Gaetano Ospitalieri boeken thuiszege tegen Stokkem",
-      "link": "https://www.hbvl.be/regio/limburg/lanaken/luca-nulens-en-gaetano-ospitalieri-boeken-thuiszege-tegen-stokkem/164564617.html",
-      "description": "Veldwezelt won zaterdag van Stokkem. Het duel eindigde na een ruststand van 1-1 in een zege voor de thuisploeg: 2-1.",
-      "source": "HBVL",
-      "province": "limburg",
-      "provinces": [
-        "limburg"
-      ],
-      "places": [],
-      "pubDate": "14 nov 21:38",
-      "published": "2026-11-14T20:38:40+00:00"
-    },
-    {
-      "title": "Londerzeel United boekt overtuigende zege tegen SC Grimbergen B",
-      "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/halle-vilvoorde/grimbergen/londerzeel-united-boekt-overtuigende-zege-tegen-sc-grimbergen-b/164564612.html",
-      "description": "In de wedstrijd zaterdag tussen Londerzeel United en SC Grimbergen B, kwam Londerzeel United al in de eerste helft op voorsprong. In de tweede helft bleef het team goed presteren. De 0-1-voorsprong bij de rust werd uitei",
-      "source": "Nieuwsblad Vlaams-Brabant",
-      "province": "vlaams-brabant",
-      "provinces": [
-        "vlaams-brabant"
-      ],
-      "places": [],
-      "pubDate": "14 nov 21:38",
-      "published": "2026-11-14T20:38:03+00:00"
-    },
-    {
-      "title": "Iets nieuws op z’n verlanglijstje: “Thibaut Courtois dient bod in om Italiaanse derdeklasser AC Reggiana volledig over te nemen”",
-      "link": "https://www.hln.be/voetbal/iets-nieuws-op-zn-verlanglijstje-thibaut-courtois-dient-bod-in-om-italiaanse-derdeklasser-ac-reggiana-volledig-over-te-nemen~ae73a835/",
-      "description": "De zakenman in Thibaut Courtois (34) wil opnieuw toeslaan. Met z’n investeringsvehikel NXTPLAY diende de Rode Duivel een bod in om de Italiaanse derdeklasser AC Reggiana 1919 voor 100 procent over te nemen. “We willen ie",
-      "source": "HLN",
-      "province": "vlaanderen",
-      "provinces": [],
-      "places": [],
-      "pubDate": "14 nov 21:30",
-      "published": "2026-11-14T20:30:53+00:00"
-    },
-    {
-      "title": "S. Ben Mohamed maakt twee goals voor Infinity Vilvoorde in wedstrijd tegen Inkad Diegem B",
-      "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/halle-vilvoorde/machelen/s.-ben-mohamed-maakt-twee-goals-voor-infinity-vilvoorde-in-wedstrijd-tegen-inkad-diegem-b/164564454.html",
-      "description": "Infinity Vilvoorde won zaterdag de uitwedstrijd tegen Inkad Diegem B met 0-4.",
-      "source": "Nieuwsblad Vlaams-Brabant",
-      "province": "vlaams-brabant",
-      "provinces": [
-        "vlaams-brabant"
+        "oost-vlaanderen"
       ],
       "places": [
-        "Vilvoorde"
+        "Laarne"
       ],
-      "pubDate": "14 nov 21:27",
-      "published": "2026-11-14T20:27:40+00:00"
+      "pubDate": "14 nov 21:29",
+      "published": "2026-11-14T20:29:43+00:00"
     },
     {
       "title": "Flandrien Kaas valt vijf (!) keer in de prijzen op World Cheese Awards: “Een stimulans om verder te investeren in groei en in kwaliteit”",
@@ -173,75 +363,6 @@
       "published": "2026-11-14T20:12:38+00:00"
     },
     {
-      "title": "De verdediging van SK Nieuwkapelle blijft velen verbazen",
-      "link": "https://www.nieuwsblad.be/regio/west-vlaanderen/westhoek/diksmuide/de-verdediging-van-sk-nieuwkapelle-blijft-velen-verbazen/164564175.html",
-      "description": "SK Nieuwkapelle heeft vier wedstrijden op rij geen tegendoelpunten ontvangen. De wedstrijd tussen Eendracht Jonkershove en SK Nieuwkapelle eindigde op 3-0.",
-      "source": "Nieuwsblad West-Vlaanderen",
-      "province": "west-vlaanderen",
-      "provinces": [
-        "west-vlaanderen"
-      ],
-      "places": [],
-      "pubDate": "14 nov 21:07",
-      "published": "2026-11-14T20:07:40+00:00"
-    },
-    {
-      "title": "Kessel-Lo 2000 B deelt thuis de punten met RC Meldert",
-      "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/leuven/kessel-lo-2000-b-deelt-thuis-de-punten-met-rc-meldert/164564173.html",
-      "description": "Thuisploeg Kessel-Lo 2000 B en RC Meldert hielden zaterdag beide één punt over aan het duel dat op 2-2 eindigde.",
-      "source": "Nieuwsblad Vlaams-Brabant",
-      "province": "vlaams-brabant",
-      "provinces": [
-        "vlaams-brabant"
-      ],
-      "places": [],
-      "pubDate": "14 nov 21:07",
-      "published": "2026-11-14T20:07:40+00:00"
-    },
-    {
-      "title": "SC Zonnebeke B boekt overtuigende zege tegen SV Veurne",
-      "link": "https://www.nieuwsblad.be/regio/west-vlaanderen/westhoek/veurne/sc-zonnebeke-b-boekt-overtuigende-zege-tegen-sv-veurne/164564154.html",
-      "description": "In de wedstrijd zaterdag tussen SC Zonnebeke B en SV Veurne, kwam SC Zonnebeke B al in de eerste helft op voorsprong. In de tweede helft bleef het team goed presteren. De 0-1-voorsprong bij de rust werd uiteindelijk afge",
-      "source": "Nieuwsblad West-Vlaanderen",
-      "province": "west-vlaanderen",
-      "provinces": [
-        "west-vlaanderen"
-      ],
-      "places": [
-        "Veurne"
-      ],
-      "pubDate": "14 nov 21:06",
-      "published": "2026-11-14T20:06:41+00:00"
-    },
-    {
-      "title": "Overduidelijke zege voor VV Koekelare tegen Daring Brugge",
-      "link": "https://www.nieuwsblad.be/regio/west-vlaanderen/westhoek/koekelare/overduidelijke-zege-voor-vv-koekelare-tegen-daring-brugge/164564144.html",
-      "description": "VV Koekelare won zaterdag van Daring Brugge. VV Koekelare won het duel met 3-0. Daring Brugge eindigde de wedstrijd met 10 spelers nadat één speler van het team van het veld werd gestuurd.",
-      "source": "Nieuwsblad West-Vlaanderen",
-      "province": "west-vlaanderen",
-      "provinces": [
-        "west-vlaanderen"
-      ],
-      "places": [],
-      "pubDate": "14 nov 21:06",
-      "published": "2026-11-14T20:06:41+00:00"
-    },
-    {
-      "title": "Michael Vanthourenhout verschijnt ondanks stevige val aan de start in Hamme-Zogge, Niels Vandeputte snelt naar eerste seizoenszege",
-      "link": "https://www.hln.be/veldrijden/michael-vanthourenhout-verschijnt-ondanks-stevige-val-aan-de-start-in-hamme-zogge-niels-vandeputte-snelt-naar-eerste-seizoenszege~a1b8de7c/",
-      "description": "Een geanimeerde namiddag in Merksplas. Een stevige valpartij dwong Michael Vanthourenhout (32) tot opgave, waarna Niels Vandeputte (26) zich tot winnaar kroonde. Na een ‘vliegmeeting’ was hij in de sprint sneller dan Jor",
-      "source": "HLN",
-      "province": "oost-vlaanderen",
-      "provinces": [
-        "oost-vlaanderen"
-      ],
-      "places": [
-        "Hamme"
-      ],
-      "pubDate": "14 nov 21:05",
-      "published": "2026-11-14T20:05:00+00:00"
-    },
-    {
       "title": "Aftellen naar feestdagen kan nu echt beginnen: opbouw winterbeleving in Knokke-Heist volop bezig",
       "link": "https://kw.be/nieuws/cultuur/evenement/aftellen-naar-feestdagen-kan-nu-echt-beginnen-opbouw-winterbeleving-in-knokke-heist-volop-bezig/",
       "description": "In Knokke-Heist wordt momenteel volop gewerkt aan de opbouw van de verschillende constructies voor de eindejaarsperiode. The post Aftellen naar feestdagen kan nu echt beginnen: opbouw winterbeleving in Knokke-Heist volop",
@@ -257,45 +378,6 @@
       "published": "2026-11-14T20:03:06+00:00"
     },
     {
-      "title": "Kiekens maakt twee goals voor OG Vorselaar B in wedstrijd tegen Berlaar-Heikant B",
-      "link": "https://www.gva.be/regio/antwerpen/kempen/vorselaar/kiekens-maakt-twee-goals-voor-og-vorselaar-b-in-wedstrijd-tegen-berlaar-heikant-b/164563841.html",
-      "description": "OG Vorselaar B won zaterdag de thuiswedstrijd tegen Berlaar-Heikant B met 3-0.",
-      "source": "GVA",
-      "province": "antwerpen",
-      "provinces": [
-        "antwerpen"
-      ],
-      "places": [],
-      "pubDate": "14 nov 20:45",
-      "published": "2026-11-14T19:45:40+00:00"
-    },
-    {
-      "title": "Droog en onbewolkt weer in Laarne in de avond - HLN",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yWE9zZVZfcXFqci1xUkV2b1dUcGdmU216YnFUVk01LW0xYmVPNVNOS2JvdDEtRFdwdFAzNklKOEVrTXFyQ1hYamlJWjlGQV9wa1loVnpMdFY1aFk?oc=5",
-      "description": "Droog en onbewolkt weer in Laarne in de avond HLN",
-      "source": "Google Nieuws",
-      "province": "oost-vlaanderen",
-      "provinces": [
-        "oost-vlaanderen"
-      ],
-      "places": [
-        "Laarne"
-      ],
-      "pubDate": "14 nov 20:21",
-      "published": "2026-11-14T19:21:47+00:00"
-    },
-    {
-      "title": "FAA-baas: “Vliegverkeer zal zondag normaal gezien helemaal hervatten”",
-      "link": "https://www.standaard.be/economie/faa-baas-vliegverkeer-zal-zondag-normaal-gezien-helemaal-hervatten/35145140.html",
-      "description": "In de liveblog economie brengen we nog meer en sneller financieel-economisch nieuws. Personal finance, bedrijfsnieuws, internationale economie of beurzen: volg hier de belangrijkste updates van de dag.",
-      "source": "De Standaard",
-      "province": "vlaanderen",
-      "provinces": [],
-      "places": [],
-      "pubDate": "14 nov 20:11",
-      "published": "2026-11-14T19:11:29+00:00"
-    },
-    {
       "title": "Premier De Wever roept zondagnamiddag kernkabinet opnieuw samen, in de hoop op “positieve boodschap” voor de koning",
       "link": "https://www.standaard.be/politiek/premier-de-wever-roept-zondagnamiddag-kernkabinet-opnieuw-samen-in-de-hoop-op-positieve-boodschap-voor-de-koning/35089272.html",
       "description": "Lees hier alle updates over de federale, Vlaamse, Waalse en Brusselse politiek.",
@@ -309,54 +391,6 @@
       ],
       "pubDate": "14 nov 20:00",
       "published": "2026-11-14T19:00:00+00:00"
-    },
-    {
-      "title": "Nina Pinzarrone heeft nieuwe coach: broer en ex-coach van Loena Hendrickx",
-      "link": "https://www.standaard.be/sport/nina-pinzarrone-heeft-nieuwe-coach-broer-en-ex-coach-van-loena-hendrickx/159729331.html",
-      "description": "In deze blog kunt u het belangrijkste sportnieuws volgen.",
-      "source": "De Standaard",
-      "province": "vlaanderen",
-      "provinces": [],
-      "places": [],
-      "pubDate": "14 nov 19:56",
-      "published": "2026-11-14T18:56:18+00:00"
-    },
-    {
-      "title": "\"Helft van onze muzikanten gestrand\": luchtvaartproblemen in VS verstoren tour Belgisch muziekensemble",
-      "link": "https://vrtnws.be/p.RaJDDD3Pa",
-      "description": "De luchtvaartproblemen in de VS gooien roet in het eten voor het Belgische muziekensemble Vox Luminis. Het ensemble is bezig aan een Amerikaanse tour en zou vanavond optreden in Texas, maar meer dan de helft van de artie",
-      "source": "VRT NWS",
-      "province": "vlaanderen",
-      "provinces": [],
-      "places": [],
-      "pubDate": "14 nov 19:46",
-      "published": "2026-11-14T18:46:38+00:00"
-    },
-    {
-      "title": "Floridylle neemt bezoekers dit jaar mee op magische reis door de Wondere Waterwereld",
-      "link": "https://www.hln.be/meise/floridylle-neemt-bezoekers-dit-jaar-mee-op-magische-reis-door-de-wondere-waterwereld~aa607ecb/",
-      "description": "De Plantentuin van Meise dompelt bezoekers deze winter opnieuw onder in een feeërieke sfeer. Van 16 december 2026 tot en met 2 januari 2027 voert ‘Floridylle’ jong en oud langs ‘De Wondere Waterwereld’, een drie kilomete",
-      "source": "HLN Brussel",
-      "province": "brussel",
-      "provinces": [
-        "brussel"
-      ],
-      "places": [],
-      "pubDate": "14 nov 19:14",
-      "published": "2026-11-14T18:14:40+00:00"
-    },
-    {
-      "title": "Murat Akin, sportief directeur van Beerschot: “Onze grootste troef? Zonder twijfel de supporters”",
-      "link": "https://www.hln.be/sport-in-de-buurt/murat-akin-sportief-directeur-van-beerschot-onze-grootste-troef-zonder-twijfel-de-supporters~a8957ddb/",
-      "description": "Met 27 op 30 en zeven punten voorsprong op eerste achtervolger Dender trok Beerschot met een uitstekend rapport de interlandbreak in. Sinds januari 2025 is Murat Akin verantwoordelijk voor het sportieve beleid. Hij benad",
-      "source": "HLN Antwerpen",
-      "province": "antwerpen",
-      "provinces": [
-        "antwerpen"
-      ],
-      "places": [],
-      "pubDate": "14 nov 19:06",
-      "published": "2026-11-14T18:06:53+00:00"
     },
     {
       "title": "500 tattoo-artiesten in Thurn & Taxis dit weekend: 'Ik zet een Medusa op mijn been'",
@@ -400,6 +434,21 @@
       ],
       "pubDate": "14 nov 18:00",
       "published": "2026-11-14T17:00:30+00:00"
+    },
+    {
+      "title": "Na 32 jaar keert Giovanni Jans terug als Prins Carnaval in Hasselt",
+      "link": "https://www.tvl.be/nieuws/na-32-jaar-keert-giovanni-jans-terug-als-prins-carnaval-in-hasselt-184247",
+      "description": "Na 32 jaar mag Giovanni Jans opnieuw de titel van Prins Carnaval dragen. De kapper uit Runkst is voor de 2de keer verkozen tot Prins Carnaval. Een bijzonder moment voor hem, maar ook voor de carnavalliefhebbers in Hassel",
+      "source": "TVL",
+      "province": "limburg",
+      "provinces": [
+        "limburg"
+      ],
+      "places": [
+        "Hasselt"
+      ],
+      "pubDate": "14 nov 17:59",
+      "published": "2026-11-14T16:59:49+00:00"
     },
     {
       "title": "Actievoerders klagen op Albertinaplein in Brussel geweld tegen kinderen aan",
@@ -471,34 +520,6 @@
       ],
       "pubDate": "14 nov 15:00",
       "published": "2026-11-14T14:00:50+00:00"
-    },
-    {
-      "title": "Zie ginds komt de stoomboot: Sint feestelijk ontvangen in Halle",
-      "link": "https://www.hln.be/halle/zie-ginds-komt-de-stoomboot-sint-feestelijk-ontvangen-in-halle~add5e839/",
-      "description": "En of Sinterklaas het zonnetje uit Spanje had meegebracht. Onder een stralende herfstzon wachtten zaterdagmiddag heel wat gezinnen de Sint op aan de Suikerkaai in Halle. Rond 14 uur meerde zijn boot aan met dertig pieten",
-      "source": "HLN Brussel",
-      "province": "vlaams-brabant",
-      "provinces": [
-        "vlaams-brabant"
-      ],
-      "places": [
-        "Halle"
-      ],
-      "pubDate": "14 nov 14:59",
-      "published": "2026-11-14T13:59:00+00:00"
-    },
-    {
-      "title": "ULB-hoogleraar krijgt eredoctoraat in Zwitserland: 'Brengt wetenschap humoristisch'",
-      "link": "https://www.bruzz.be/actua/onderwijs/vub-hoogleraar-krijgt-eredoctoraat-zwitserland-brengt-wetenschap-humoristisch-2026-11-14",
-      "description": "De ULB-hoogleraar Fabrizio Bucella krijgt op 16 november een eredoctoraat van de Universiteit van Fribourg. De Italiaanse Brusselaar wordt geëerd voor het doceren van wiskunde en kwantumfysica.",
-      "source": "BRUZZ",
-      "province": "brussel",
-      "provinces": [
-        "brussel"
-      ],
-      "places": [],
-      "pubDate": "14 nov 14:33",
-      "published": "2026-11-14T13:33:27+00:00"
     },
     {
       "title": "Bestuurder elektrische step vlucht weg bij politiecontrole in Nieuwkerken",
@@ -638,21 +659,6 @@
       "published": "2026-11-13T23:01:16+00:00"
     },
     {
-      "title": "Overduidelijke overwinning voor KSC Lokeren tegen KFC Merelbeke",
-      "link": "https://www.nieuwsblad.be/regio/oost-vlaanderen/waasland/lokeren/overduidelijke-overwinning-voor-ksc-lokeren-tegen-kfc-merelbeke/164546854.html",
-      "description": "KSC Lokeren won vrijdag van KFC Merelbeke. KSC Lokeren won het duel met 2-0.",
-      "source": "Nieuwsblad Lokeren",
-      "province": "oost-vlaanderen",
-      "provinces": [
-        "oost-vlaanderen"
-      ],
-      "places": [
-        "Lokeren"
-      ],
-      "pubDate": "13 nov 22:56",
-      "published": "2026-11-13T21:56:40+00:00"
-    },
-    {
       "title": "De raad voor maatschappelijk welzijn en gemeenteraad vergaderen op 27 november 2026",
       "link": "https://www.sint-niklaas.be/actueel/de-raad-voor-maatschappelijk-welzijn-en-gemeenteraad-vergaderen-op-27-november-2026",
       "description": "De volgende vergadering van de raad voor maatschappelijk welzijn en de gemeenteraad vindt plaats op vrijdag 27 november 2026 om 19 uur in de gemeenteraadzaal van het stadhuis.",
@@ -758,11 +764,11 @@
   ],
   "count": 54,
   "scores": {
-    "alles": 93,
+    "alles": 92,
     "lokerse-streek": 68,
     "west-vlaanderen": 78,
     "oost-vlaanderen": 78,
-    "antwerpen": 79,
+    "antwerpen": 70,
     "limburg": 83,
     "vlaams-brabant": 80,
     "brussel": 83
@@ -801,17 +807,17 @@
     {
       "name": "Nieuwsblad West-Vlaanderen",
       "province": "west-vlaanderen",
-      "count": 6
+      "count": 5
     },
     {
       "name": "Nieuwsblad Oost-Vlaanderen",
       "province": "oost-vlaanderen",
-      "count": 6
+      "count": 4
     },
     {
       "name": "Nieuwsblad Antwerpen",
       "province": "antwerpen",
-      "count": 6
+      "count": 5
     },
     {
       "name": "Nieuwsblad Limburg",
@@ -836,12 +842,12 @@
     {
       "name": "GVA",
       "province": "antwerpen",
-      "count": 4
+      "count": 1
     },
     {
       "name": "HBVL",
       "province": "limburg",
-      "count": 3
+      "count": 1
     },
     {
       "name": "TVL",
@@ -871,7 +877,7 @@
     {
       "name": "HLN Antwerpen",
       "province": "antwerpen",
-      "count": 3
+      "count": 4
     },
     {
       "name": "HLN Brussel",
