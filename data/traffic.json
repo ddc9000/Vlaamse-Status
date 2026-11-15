@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T00:28:03.170070",
+  "updated": "2026-11-15T06:54:19.838480",
   "source": "Verkeerscentrum Vlaanderen (DATEX II)",
   "license": "CC BY",
   "count": 40,
@@ -156,14 +156,14 @@
       "place": "Dilbeek"
     },
     {
-      "id": "EVT22558208",
+      "id": "EVT22558219",
       "label": "Wegenwerken",
       "severity": "info",
-      "lat": 51.22192,
-      "lon": 3.18804,
+      "lat": 51.14704,
+      "lon": 3.80355,
       "until": "",
-      "province": "west-vlaanderen",
-      "place": "Brugge"
+      "province": "oost-vlaanderen",
+      "place": "Zelzate"
     },
     {
       "id": "EVT22513541",
