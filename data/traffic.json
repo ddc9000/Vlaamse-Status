@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T19:52:13.542257",
+  "updated": "2026-11-15T23:37:17.092993",
   "source": "Verkeerscentrum Vlaanderen (DATEX II)",
   "license": "CC BY",
   "count": 40,
@@ -156,34 +156,34 @@
       "place": "Dilbeek"
     },
     {
-      "id": "EVT22558219",
+      "id": "EVT22558547",
       "label": "Wegenwerken",
       "severity": "info",
-      "lat": 51.14781,
-      "lon": 3.80461,
+      "lat": 51.22717,
+      "lon": 4.35083,
       "until": "",
-      "province": "oost-vlaanderen",
-      "place": "Zelzate"
+      "province": "antwerpen",
+      "place": "Antwerpen"
     },
     {
       "id": "EVT22558545",
       "label": "Wegenwerken",
       "severity": "info",
-      "lat": 51.23738,
-      "lon": 4.29396,
+      "lat": 51.23548,
+      "lon": 4.3018,
       "until": "",
       "province": "oost-vlaanderen",
       "place": "Beveren"
     },
     {
-      "id": "EVT22558541",
+      "id": "EVT22558549",
       "label": "Wegenwerken",
       "severity": "info",
-      "lat": 51.13762,
-      "lon": 3.26486,
+      "lat": 51.20501,
+      "lon": 4.32717,
       "until": "",
-      "province": "west-vlaanderen",
-      "place": "Brugge"
+      "province": "oost-vlaanderen",
+      "place": "Beveren"
     },
     {
       "id": "EVT22513541",
