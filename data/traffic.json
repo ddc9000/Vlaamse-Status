@@ -1,50 +1,10 @@
 {
-  "updated": "2026-11-15T14:23:27.381323",
+  "updated": "2026-11-15T19:52:13.542257",
   "source": "Verkeerscentrum Vlaanderen (DATEX II)",
   "license": "CC BY",
   "count": 40,
-  "warnings": 4,
+  "warnings": 0,
   "items": [
-    {
-      "id": "EVT22558252",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 51.07925,
-      "lon": 4.35289,
-      "until": "",
-      "province": "antwerpen",
-      "place": "Boom"
-    },
-    {
-      "id": "EVT22558242",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 50.88202,
-      "lon": 4.46065,
-      "until": "",
-      "province": "vlaams-brabant",
-      "place": "Zaventem"
-    },
-    {
-      "id": "EVT22558261",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 51.21284,
-      "lon": 4.36139,
-      "until": "",
-      "province": "antwerpen",
-      "place": "Antwerpen"
-    },
-    {
-      "id": "EVT22558246",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 51.06631,
-      "lon": 4.34272,
-      "until": "",
-      "province": "antwerpen",
-      "place": "Willebroek"
-    },
     {
       "id": "EVT22429488",
       "label": "Weg afgesloten",
@@ -204,6 +164,26 @@
       "until": "",
       "province": "oost-vlaanderen",
       "place": "Zelzate"
+    },
+    {
+      "id": "EVT22558545",
+      "label": "Wegenwerken",
+      "severity": "info",
+      "lat": 51.23738,
+      "lon": 4.29396,
+      "until": "",
+      "province": "oost-vlaanderen",
+      "place": "Beveren"
+    },
+    {
+      "id": "EVT22558541",
+      "label": "Wegenwerken",
+      "severity": "info",
+      "lat": 51.13762,
+      "lon": 3.26486,
+      "until": "",
+      "province": "west-vlaanderen",
+      "place": "Brugge"
     },
     {
       "id": "EVT22513541",
@@ -404,6 +384,26 @@
       "until": "2026-11-30",
       "province": "oost-vlaanderen",
       "place": "Gent"
+    },
+    {
+      "id": "EVT22530714",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 50.88909,
+      "lon": 4.45267,
+      "until": "2027-01-31",
+      "province": "vlaams-brabant",
+      "place": "Zaventem"
+    },
+    {
+      "id": "EVT22464576",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 51.28979,
+      "lon": 4.37638,
+      "until": "2027-02-07",
+      "province": "antwerpen",
+      "place": "Antwerpen"
     }
   ]
 }
