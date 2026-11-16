@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T23:37:17.092993",
+  "updated": "2026-11-16T03:19:38.854116",
   "source": "Verkeerscentrum Vlaanderen (DATEX II)",
   "license": "CC BY",
   "count": 40,
@@ -156,34 +156,14 @@
       "place": "Dilbeek"
     },
     {
-      "id": "EVT22558547",
-      "label": "Wegenwerken",
-      "severity": "info",
-      "lat": 51.22717,
-      "lon": 4.35083,
-      "until": "",
-      "province": "antwerpen",
-      "place": "Antwerpen"
-    },
-    {
-      "id": "EVT22558545",
-      "label": "Wegenwerken",
-      "severity": "info",
-      "lat": 51.23548,
-      "lon": 4.3018,
-      "until": "",
-      "province": "oost-vlaanderen",
-      "place": "Beveren"
-    },
-    {
       "id": "EVT22558549",
       "label": "Wegenwerken",
       "severity": "info",
-      "lat": 51.20501,
-      "lon": 4.32717,
+      "lat": 51.21418,
+      "lon": 4.35152,
       "until": "",
-      "province": "oost-vlaanderen",
-      "place": "Beveren"
+      "province": "antwerpen",
+      "place": "Antwerpen"
     },
     {
       "id": "EVT22513541",
@@ -404,6 +384,26 @@
       "until": "2027-02-07",
       "province": "antwerpen",
       "place": "Antwerpen"
+    },
+    {
+      "id": "EVT22290547",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 50.94799,
+      "lon": 5.69308,
+      "until": "2028-08-31",
+      "province": "limburg",
+      "place": "Maasmechelen"
+    },
+    {
+      "id": "EVT22440101",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 51.02141,
+      "lon": 5.01829,
+      "until": "2026-11-20",
+      "province": "vlaams-brabant",
+      "place": "Diest"
     }
   ]
 }
