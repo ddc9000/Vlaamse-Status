@@ -1,20 +1,10 @@
 {
-  "updated": "2026-11-17T21:56:54.696355",
+  "updated": "2026-11-18T03:12:57.493740",
   "source": "Verkeerscentrum Vlaanderen (DATEX II)",
   "license": "CC BY",
   "count": 40,
-  "warnings": 1,
+  "warnings": 0,
   "items": [
-    {
-      "id": "EVT22563423",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 51.07793,
-      "lon": 4.35013,
-      "until": "",
-      "province": "antwerpen",
-      "place": "Boom"
-    },
     {
       "id": "EVT22429488",
       "label": "Weg afgesloten",
@@ -166,16 +156,6 @@
       "place": "Roeselare"
     },
     {
-      "id": "EVT22563421",
-      "label": "Wegenwerken",
-      "severity": "info",
-      "lat": 50.91744,
-      "lon": 5.32085,
-      "until": "",
-      "province": "limburg",
-      "place": "Hasselt"
-    },
-    {
       "id": "EVT22563390",
       "label": "Wegenwerken",
       "severity": "info",
@@ -196,26 +176,6 @@
       "place": "Sint-Niklaas"
     },
     {
-      "id": "EVT22563422",
-      "label": "Wegenwerken",
-      "severity": "info",
-      "lat": 51.24189,
-      "lon": 4.42639,
-      "until": "",
-      "province": "antwerpen",
-      "place": "Antwerpen"
-    },
-    {
-      "id": "EVT22563419",
-      "label": "Wegenwerken",
-      "severity": "info",
-      "lat": 51.14684,
-      "lon": 3.23183,
-      "until": "",
-      "province": "west-vlaanderen",
-      "place": "Brugge"
-    },
-    {
       "id": "EVT22563370",
       "label": "Wegenwerken",
       "severity": "info",
@@ -224,6 +184,16 @@
       "until": "",
       "province": "antwerpen",
       "place": "Antwerpen"
+    },
+    {
+      "id": "EVT22563429",
+      "label": "Wegenwerken",
+      "severity": "info",
+      "lat": 51.1745,
+      "lon": 4.75934,
+      "until": "",
+      "province": "antwerpen",
+      "place": "Herentals"
     },
     {
       "id": "EVT22513541",
@@ -376,16 +346,6 @@
       "place": "Bree"
     },
     {
-      "id": "EVT22345093",
-      "label": "Nieuwe wegenwerken",
-      "severity": "info",
-      "lat": 50.9765,
-      "lon": 3.10738,
-      "until": "2026-11-17",
-      "province": "west-vlaanderen",
-      "place": "Roeselare"
-    },
-    {
       "id": "EVT22514164",
       "label": "Nieuwe wegenwerken",
       "severity": "info",
@@ -404,6 +364,46 @@
       "until": "2026-11-24",
       "province": "west-vlaanderen",
       "place": "Roeselare"
+    },
+    {
+      "id": "EVT22379648",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 51.20255,
+      "lon": 3.23536,
+      "until": "2027-06-18",
+      "province": "west-vlaanderen",
+      "place": "Brugge"
+    },
+    {
+      "id": "EVT22463610",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 51.20094,
+      "lon": 3.24525,
+      "until": "2026-12-11",
+      "province": "west-vlaanderen",
+      "place": "Brugge"
+    },
+    {
+      "id": "EVT22311407",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 51.05925,
+      "lon": 3.7504,
+      "until": "2026-11-30",
+      "province": "oost-vlaanderen",
+      "place": "Gent"
+    },
+    {
+      "id": "EVT22530714",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 50.88909,
+      "lon": 4.45267,
+      "until": "2027-01-31",
+      "province": "vlaams-brabant",
+      "place": "Zaventem"
     }
   ]
 }
