@@ -1,6 +1,403 @@
 {
-  "updated": "2026-11-19T18:42:43.506980",
+  "updated": "2026-11-20T00:57:42.208485",
   "items": [
+    {
+      "title": "Zwaar bewolkt met wat lichte regen in Lokeren in de nacht",
+      "link": "https://www.hln.be/lokeren/weer-lokeren~acc403de/",
+      "description": "Het gaat regenen in Lokeren. Het wordt een graad of 9. De wind is zwak en gaat uit het westen waaien.",
+      "source": "HLN Lokeren",
+      "province": "oost-vlaanderen",
+      "provinces": [
+        "oost-vlaanderen"
+      ],
+      "places": [
+        "Lokeren"
+      ],
+      "pubDate": "20 nov 01:04",
+      "published": "2026-11-20T00:04:00+00:00"
+    },
+    {
+      "title": "Zwaar bewolkt met wat lichte regen in Antwerpen in de nacht",
+      "link": "https://www.hln.be/antwerpen/weer-antwerpen~acb2a1ab/",
+      "description": "Van tijd tot tijd regen in Antwerpen. Het wordt een graad of 9. De wind is zwak en gaat uit het noordwesten waaien.",
+      "source": "HLN Antwerpen",
+      "province": "antwerpen",
+      "provinces": [
+        "antwerpen"
+      ],
+      "places": [
+        "Antwerpen"
+      ],
+      "pubDate": "20 nov 01:04",
+      "published": "2026-11-20T00:04:00+00:00"
+    },
+    {
+      "title": "Zwaar bewolkt met wat lichte regen in Brussel in de nacht",
+      "link": "https://www.hln.be/brussel/weer-brussel~a3dc699d/",
+      "description": "Het is regenachtig in Brussel. De maxima liggen rond 8 graden. De wind komt uit het westen en is zwak.",
+      "source": "HLN Brussel",
+      "province": "brussel",
+      "provinces": [
+        "brussel"
+      ],
+      "places": [
+        "Brussel"
+      ],
+      "pubDate": "20 nov 01:04",
+      "published": "2026-11-20T00:04:00+00:00"
+    },
+    {
+      "title": "KALENDER. Alle wedstrijden van komend weekend in het West-Vlaamse amateurvoetbal",
+      "link": "https://www.nieuwsblad.be/sport/sportregio/kalender.-alle-wedstrijden-van-komend-weekend-in-het-west-vlaamse-amateurvoetbal/156346382.html",
+      "description": "Welke toppers en derby’s er dit weekend op het programma staan in het West-Vlaamse amateurvoetbal, ontdekt u hier.",
+      "source": "Nieuwsblad West-Vlaanderen",
+      "province": "west-vlaanderen",
+      "provinces": [
+        "west-vlaanderen"
+      ],
+      "places": [],
+      "pubDate": "20 nov 01:00",
+      "published": "2026-11-20T00:00:00+00:00"
+    },
+    {
+      "title": "De laatste der Limburgse patissiers giet nog zelf sinterklazen: “Die van de supermarkt zijn al met Pasen bezig”",
+      "link": "https://www.nieuwsblad.be/regio/limburg/sint-truiden/de-laatste-der-limburgse-patissiers-giet-nog-zelf-sinterklazen-die-van-de-supermarkt-zijn-al-met-pasen-bezig/164786127.html",
+      "description": "In de supermarkt ligt de sinterklaaschocolade al weken in de rekken, vaak op industriële schaal gemaakt. In Sint-Truiden begint patissier Emmanuel Verboven (65) nu pas met het gieten van sinterklazen.",
+      "source": "Nieuwsblad Limburg",
+      "province": "limburg",
+      "provinces": [
+        "limburg"
+      ],
+      "places": [
+        "Sint-Truiden"
+      ],
+      "pubDate": "20 nov 01:00",
+      "published": "2026-11-20T00:00:00+00:00"
+    },
+    {
+      "title": "Kerst wordt kleurrijk: 10 cadeautips van een grafisch ontwerper",
+      "link": "https://www.standaard.be/inspiratie/kerst-wordt-kleurrijk-10-cadeautips-van-een-grafisch-ontwerper/164350555.html",
+      "description": "Sommige cadeaus prikkelen het creatieve oog, zonder om aandacht te schreeuwen. Illustrator-vormgever Debora Lauwers selecteerde haar favorieten voor de feesten.",
+      "source": "De Standaard",
+      "province": "vlaanderen",
+      "provinces": [],
+      "places": [],
+      "pubDate": "20 nov 01:00",
+      "published": "2026-11-20T00:00:00+00:00"
+    },
+    {
+      "title": "Engeland, Portugal of Duitsland? Om 12u weten we wie Rode Duivels treffen in kwartfinale Nations League",
+      "link": "https://www.hln.be/rode-duivels/engeland-portugal-of-duitsland-om-12u-weten-we-wie-rode-duivels-treffen-in-kwartfinale-nations-league~a3fe463ca/",
+      "description": "Wordt het Engeland, Duitsland of Portugal? De Rode Duivels kennen vanmiddag (12u) hun tegenstander in de kwartfinales van de Nations League. Ze treffen daar sowieso een groepswinnaar. Die matchen worden van 25 en 30 maar",
+      "source": "HLN",
+      "province": "vlaanderen",
+      "provinces": [],
+      "places": [],
+      "pubDate": "20 nov 00:01",
+      "published": "2026-11-19T23:01:00+00:00"
+    },
+    {
+      "title": "LIVE (20u45). Trekt Cercle goede lijn van voor interlandbreak door tegen Westerlo?",
+      "link": "https://www.hln.be/jupiler-pro-league/live-20u45-trekt-cercle-goede-lijn-van-voor-interlandbreak-door-tegen-westerlo~a554a7ac/",
+      "description": "Na de interlandbreak zijn het Cercle Brugge en Westerlo die het voetbal in de Jupiler Pro League opnieuw op gang trappen. De Vereniging ging de break in met twee zeges, de Kemphanen met twee nederlagen. Wie trekt nu aan ",
+      "source": "HLN",
+      "province": "vlaanderen",
+      "provinces": [],
+      "places": [],
+      "pubDate": "20 nov 00:00",
+      "published": "2026-11-19T23:00:33+00:00"
+    },
+    {
+      "title": "De favoriete adresjes Kristof Devriendt: “Op mijn reizen zoek ik graag souvenirs en hebbedingen, oud én nieuw”",
+      "link": "https://kw.be/nieuws/samenleving/vrije-tijd/de-favoriete-adresjes-kristof-devriendt-op-mijn-reizen-zoek-ik-graag-souvenirs-en-hebbedingen-oud-en-nieuw/",
+      "description": "Elke week geeft een bekende of minder bekende West-Vlaming hier vier tips. Deze week: Kristof Devriendt uit Kortemark. Kristof is sportfunctionaris en is ook verantwoordelijk voor toerisme en lokaal beleid vanuit vrijeti",
+      "source": "KW",
+      "province": "west-vlaanderen",
+      "provinces": [
+        "west-vlaanderen"
+      ],
+      "places": [],
+      "pubDate": "20 nov 00:00",
+      "published": "2026-11-19T23:00:00+00:00"
+    },
+    {
+      "title": "COLUMN Natuurhulpcentrum. Magische grens van 21.000 leden komt in zicht",
+      "link": "https://www.hbvl.be/regio/limburg/oudsbergen/column-natuurhulpcentrum.-magische-grens-van-21.000-leden-komt-in-zicht/164783210.html",
+      "description": "Sil Janssen geeft ons wekelijks een blik achter de schermen van het Natuurhulpcentrum in Opglabbeek.",
+      "source": "HBVL",
+      "province": "limburg",
+      "provinces": [
+        "limburg"
+      ],
+      "places": [],
+      "pubDate": "19 nov 23:59",
+      "published": "2026-11-19T22:59:00+00:00"
+    },
+    {
+      "title": "Geen buurtprotest, maar vleermuizen houden windturbine van 247 meter tegen in Dilsen",
+      "link": "https://www.nieuwsblad.be/regio/limburg/dilsen-stokkem/geen-buurtprotest-maar-vleermuizen-houden-windturbine-van-247-meter-tegen-in-dilsen/164828691.html",
+      "description": "Geen enkele buur diende bezwaar in tegen een windturbine van 247 meter in Dilsen-Stokkem. Toch krijgt Renner Energies geen vergunning. De reden kan gevolgen hebben voor veel meer windprojecten in Vlaanderen.",
+      "source": "Nieuwsblad Limburg",
+      "province": "limburg",
+      "provinces": [
+        "limburg"
+      ],
+      "places": [],
+      "pubDate": "19 nov 23:59",
+      "published": "2026-11-19T22:59:00+00:00"
+    },
+    {
+      "title": "Hoe zou het zijn met deze Limburgers uit talentenjachten op tv? “Ik zing heel graag, maar ben een slechte zakenman”",
+      "link": "https://www.hbvl.be/media-en-cultuur/hoe-zou-het-zijn-met-deze-limburgers-uit-talentenjachten-op-tv-ik-zing-heel-graag-maar-ben-een-slechte-zakenman/164780557.html",
+      "description": "Ben jij niet die van die talentenjacht op tv? Dat is een vraag die de deelnemers van ‘Sing Again’ regelmatig te horen krijgen. Ook heel wat Limburgers schopten het ver in shows als ‘Idool’ en ‘The Voice’. Maar hoe gaat h",
+      "source": "HBVL",
+      "province": "limburg",
+      "provinces": [
+        "limburg"
+      ],
+      "places": [],
+      "pubDate": "19 nov 23:59",
+      "published": "2026-11-19T22:59:00+00:00"
+    },
+    {
+      "title": "Moeten we weer gaan picknicken om te kunnen fietsen op de Piétonnier?",
+      "link": "https://www.standaard.be/opinies/moeten-we-weer-gaan-picknicken-om-te-kunnen-fietsen-op-de-pietonnier/164807500.html",
+      "description": "Het succes van de Brusselse voetgangerszone vraagt om een volgende stap, schrijft Annekatrien Verdickt, maar een simplistisch fietsverbod is een slag in het gezicht van de stadsbewoners.",
+      "source": "De Standaard",
+      "province": "brussel",
+      "provinces": [
+        "brussel"
+      ],
+      "places": [
+        "Brussel"
+      ],
+      "pubDate": "19 nov 23:59",
+      "published": "2026-11-19T22:59:00+00:00"
+    },
+    {
+      "title": "400 militair opgeleide agenten, verdeeld over vijf commandoposten: zo zal de “Rijkswacht 2.0” eruit zien",
+      "link": "https://www.standaard.be/politiek/400-militair-opgeleide-agenten-verdeeld-over-vijf-commandoposten-zo-zal-de-rijkswacht-2.0-eruit-zien/164812926.html",
+      "description": "In de nieuwe federale interventie-eenheid zullen 400 agenten zitten die militair getraind zijn. Minister Bernard Quintin wil naar “een interventiemacht van 1.200 mensen die dag en nacht op grote schaal” kunnen uitrukken.",
+      "source": "De Standaard",
+      "province": "vlaanderen",
+      "provinces": [],
+      "places": [],
+      "pubDate": "19 nov 23:59",
+      "published": "2026-11-19T22:59:00+00:00"
+    },
+    {
+      "title": "Nieuwe tegenvaller voor AA Gent: Belgisch belofteninternational Tibe De Vlieger lange tijd out",
+      "link": "https://www.hln.be/jupiler-pro-league/nieuwe-tegenvaller-voor-aa-gent-belgisch-belofteninternational-tibe-de-vlieger-lange-tijd-out~ad96d5e4/",
+      "description": "Op zondag zijn het SK Beveren en AA Gent die het Jupiler Pro League-voetbal op gang trappen. Stomen de Buffalo’s door, of worden ze verrast door de Waaslanders?",
+      "source": "HLN",
+      "province": "oost-vlaanderen",
+      "provinces": [
+        "oost-vlaanderen"
+      ],
+      "places": [
+        "Beveren"
+      ],
+      "pubDate": "19 nov 23:56",
+      "published": "2026-11-19T22:56:19+00:00"
+    },
+    {
+      "title": "Welk werk kan een patiënt doen ondanks ziekte? Huisartsen krijgen vanaf september 'fit note' ter beschikking",
+      "link": "https://vrtnws.be/p.DYM1x4da0",
+      "description": "Vanaf september volgend jaar zullen alle huisartsen digitale attesten voor de zogenoemde fit note opgestuurd krijgen. Dat heeft minister van Volksgezondheid Frank Vandenbroucke (Vooruit) in de Kamer verklaard. De fit not",
+      "source": "VRT NWS",
+      "province": "vlaanderen",
+      "provinces": [],
+      "places": [],
+      "pubDate": "19 nov 23:47",
+      "published": "2026-11-19T22:47:45+00:00"
+    },
+    {
+      "title": "Robbe Ghys en Yoeri Havik behouden voorsprong op titelverdigers Fabio Van Den Bossche en Lindsay De Vylder",
+      "link": "https://www.nieuwsblad.be/sport/wielrennen/robbe-ghys-en-yoeri-havik-behouden-voorsprong-op-titelverdigers-fabio-van-den-bossche-en-lindsay-de-vylder/164692127.html",
+      "description": "Dinsdag is met de Zesdaagse opnieuw het Gentse wielerhoogtepunt van het jaar gestart. Onder meer Lotto Kopecky is een belangrijk publiekstrekker in het Kuipke. Zondag weten we wie Lindsay De Vylder en Fabio Van den Bossc",
+      "source": "Nieuwsblad Oost-Vlaanderen",
+      "province": "oost-vlaanderen",
+      "provinces": [
+        "oost-vlaanderen"
+      ],
+      "places": [
+        "Gent"
+      ],
+      "pubDate": "19 nov 23:05",
+      "published": "2026-11-19T22:05:00+00:00"
+    },
+    {
+      "title": "Dan toch nog een ploeg gevonden, Noah Vandenbranden keert terug naar Lotto: “Het feit dat ik ook deels op de piste koers, maakte de zoektocht niet makkelijker”",
+      "link": "https://www.nieuwsblad.be/sport/sportregio/dan-toch-nog-een-ploeg-gevonden-noah-vandenbranden-keert-terug-naar-lotto-het-feit-dat-ik-ook-deels-op-de-piste-koers-maakte-de-zoektocht-niet-makkelijker/164649176.html",
+      "description": "Goed nieuws voor Noah Vandenbranden tijdens de Zesdaagse van Gent. De 24-jarige Vlaams-Brabander maakte donderdag bekend dat hij volgend seizoen de kleuren draagt van Lotto-Groupe Wanty, de opleidingsploeg van Lotto-Inte",
+      "source": "Nieuwsblad Vlaams-Brabant",
+      "province": "vlaams-brabant",
+      "provinces": [
+        "vlaams-brabant"
+      ],
+      "places": [],
+      "pubDate": "19 nov 22:43",
+      "published": "2026-11-19T21:43:00+00:00"
+    },
+    {
+      "title": "Het was géén grap in De Slimste Mens: Sarah Vandeursen lanceert na droge worstententoonstelling haar eigen kledingmerk",
+      "link": "https://kw.be/nieuws/media/televisie/het-was-geen-grap-in-de-slimste-mens-sarah-vandeursen-lanceert-na-droge-worstententoonstelling-haar-eigen-kledingmerk/",
+      "description": "Actrice en televisiemaakster Sarah Vandeursen (43) pakt volgende maand uit met haar eigen kledingmerk Expensive Bullshit. Ze droeg een trui en een opvallende ring van het nieuwe merk tijdens haar passage in De Slimste Me",
+      "source": "KW",
+      "province": "west-vlaanderen",
+      "provinces": [
+        "west-vlaanderen"
+      ],
+      "places": [],
+      "pubDate": "19 nov 22:32",
+      "published": "2026-11-19T21:32:35+00:00"
+    },
+    {
+      "title": "Amnesty Sint-Niklaas houdt schrijfactie: “Brief kan een levensbelangrijk verschil maken voor mensen die gemarteld worden”",
+      "link": "https://www.hln.be/sint-niklaas/amnesty-sint-niklaas-houdt-schrijfactie-brief-kan-een-levensbelangrijk-verschil-maken-voor-mensen-die-gemarteld-worden~aa8f3dd7/",
+      "description": "Amnesty International Sint-Niklaas houdt op dinsdag 1 december een schrijfactie in het Huis van de Mens aan het Stationsplein. Bezoekers schrijven er brieven ter ondersteuning van 9 mensen uit 8 landen wier mensenrechten",
+      "source": "HLN Lokeren",
+      "province": "oost-vlaanderen",
+      "provinces": [
+        "oost-vlaanderen"
+      ],
+      "places": [
+        "Lokeren",
+        "Sint-Niklaas"
+      ],
+      "pubDate": "19 nov 22:00",
+      "published": "2026-11-19T21:00:26+00:00"
+    },
+    {
+      "title": "“Uit spelers als Eden Hazard haal ik inspiratie”: dromend van Marokko en Madrid knokte Salim Ben Seghir zich in de basis bij KSC Lokeren",
+      "link": "https://www.hln.be/sport-in-de-buurt/uit-spelers-als-eden-hazard-haal-ik-inspiratie-dromend-van-marokko-en-madrid-knokte-salim-ben-seghir-zich-in-de-basis-bij-ksc-lokeren~adff2967/",
+      "description": "Hij groeide op in Saint-Tropez, deelde de kleedkamer met vedette Dimitri Payet, spiegelt zich aan Eden Hazard en droomt van Real Madrid en de Marokkaanse nationale ploeg. Een introductie tot Salim Ben Seghir (23), nieuwe",
+      "source": "HLN Lokeren",
+      "province": "oost-vlaanderen",
+      "provinces": [
+        "oost-vlaanderen"
+      ],
+      "places": [
+        "Lokeren"
+      ],
+      "pubDate": "19 nov 21:49",
+      "published": "2026-11-19T20:49:00+00:00"
+    },
+    {
+      "title": "“Na zo’n week heb je last van een jetlag”: Tuur Dens is op Zesdaagse van Gent nog op zoek naar zijn beste benen",
+      "link": "https://www.nieuwsblad.be/sport/sportregio/na-zon-week-heb-je-last-van-een-jetlag-tuur-dens-is-op-zesdaagse-van-gent-nog-op-zoek-naar-zijn-beste-benen/164649158.html",
+      "description": "Na bijna drie dagen in het Gentse Kuipke staat de zegeteller voor het duo Thibeau Bernard-Tuur Dens nog altijd op nul. Dens geeft toe dat het niveau voor hem op het randje is, maar hoopt toch ergens eens de bloemen in de",
+      "source": "Nieuwsblad Vlaams-Brabant",
+      "province": "oost-vlaanderen",
+      "provinces": [
+        "oost-vlaanderen"
+      ],
+      "places": [
+        "Gent"
+      ],
+      "pubDate": "19 nov 21:34",
+      "published": "2026-11-19T20:34:00+00:00"
+    },
+    {
+      "title": "Raam pitazaak sneuvelt door spectaculair ongeval: “Plots overal glas in de zaak”",
+      "link": "https://www.nieuwsblad.be/regio/west-vlaanderen/midwest/roeselare/raam-pitazaak-sneuvelt-door-spectaculair-ongeval-plots-overal-glas-in-de-zaak/164829756.html",
+      "description": "Langs de Rumbeeksesteenweg is donderdagavond een auto overkop gegaan bij een spectaculair ongeval. Niemand raakte gewond maar het raam van een nabijgelegen pitazaak sneuvelde door een losgerukt paaltje.",
+      "source": "Nieuwsblad West-Vlaanderen",
+      "province": "west-vlaanderen",
+      "provinces": [
+        "west-vlaanderen"
+      ],
+      "places": [],
+      "pubDate": "19 nov 21:33",
+      "published": "2026-11-19T20:33:00+00:00"
+    },
+    {
+      "title": "Jason Tarras nieuwe trainer van KVK Avelgem",
+      "link": "https://www.nieuwsblad.be/sport/sportregio/jason-tarras-nieuwe-trainer-van-kvk-avelgem/157882055.html",
+      "description": "",
+      "source": "Nieuwsblad West-Vlaanderen",
+      "province": "west-vlaanderen",
+      "provinces": [
+        "west-vlaanderen"
+      ],
+      "places": [],
+      "pubDate": "19 nov 21:03",
+      "published": "2026-11-19T20:03:08+00:00"
+    },
+    {
+      "title": "OH Leuven Women strijdend ten onder in Turijn: “De bal wilde er niet in, eens moet dat toch keren”",
+      "link": "https://www.nieuwsblad.be/sport/sportregio/oh-leuven-women-strijdend-ten-onder-in-turijn-de-bal-wilde-er-niet-in-eens-moet-dat-toch-keren/164646415.html",
+      "description": "OH Leuven Women is in Turijn tot het uiterste gegaan. In de slotfase moest onze landskampioen uiteindelijk toch plooien en ging het met 2-0 ten onder, dat terwijl het zelf de beste kansen creëerde. Zaterdagavond wacht ee",
+      "source": "Nieuwsblad Vlaams-Brabant",
+      "province": "vlaams-brabant",
+      "provinces": [
+        "vlaams-brabant"
+      ],
+      "places": [
+        "Leuven"
+      ],
+      "pubDate": "19 nov 20:33",
+      "published": "2026-11-19T19:33:00+00:00"
+    },
+    {
+      "title": "Waarom 3M meer dan 200 jobs wil schrappen en volgende week in Antwerpen alweer in de rechtbank staat",
+      "link": "https://www.nieuwsblad.be/regio/antwerpen/regio-antwerpen/antwerpen/waarom-3m-meer-dan-200-jobs-wil-schrappen-en-volgende-week-in-antwerpen-alweer-in-de-rechtbank-staat/164829063.html",
+      "description": "Het chemiebedrijf 3M wil de productie in zijn fabriek in Zwijndrecht tegen eind 2029 stopzetten. Daardoor kunnen 209 mensen via een collectief ontslag hun job verliezen. Het is een zoveelste klap voor de noodlijdende che",
+      "source": "Nieuwsblad Oost-Vlaanderen",
+      "province": "antwerpen",
+      "provinces": [
+        "antwerpen"
+      ],
+      "places": [
+        "Antwerpen"
+      ],
+      "pubDate": "19 nov 20:30",
+      "published": "2026-11-19T19:30:00+00:00"
+    },
+    {
+      "title": "“Talent alleen volstaat niet”: Maxime Gody ziet hoe andere aanpak zijn vruchten afwerpt bij Diegem Sport",
+      "link": "https://www.nieuwsblad.be/sport/sportregio/talent-alleen-volstaat-niet-maxime-gody-ziet-hoe-andere-aanpak-zijn-vruchten-afwerpt-bij-diegem-sport/164646791.html",
+      "description": "Na vijf wedstrijden zonder overwinning haalde Diegem Sport op bezoek bij Hades stevig uit met een 0-4-pandoering. Maxime Gody hoopt dat de overtuigende prestatie het begin van de ommekeer wordt voor de Diegemnaren. Zonda",
+      "source": "Nieuwsblad Vlaams-Brabant",
+      "province": "vlaams-brabant",
+      "provinces": [
+        "vlaams-brabant"
+      ],
+      "places": [],
+      "pubDate": "19 nov 20:03",
+      "published": "2026-11-19T19:03:00+00:00"
+    },
+    {
+      "title": "Galerij Caprice toont drie nieuwe tentoonstellingen: van onbewerkte dierenfoto’s tot kunstmaskers",
+      "link": "https://www.hln.be/sint-niklaas/galerij-caprice-toont-drie-nieuwe-tentoonstellingen-van-onbewerkte-dierenfotos-tot-kunstmaskers~a7caa470/",
+      "description": "Galerij Caprice in de Stationsstraat in Sint-Niklaas toont drie nieuwe tentoonstellingen, met een opening op vrijdag 20 november. Fotograaf Maurice Heymbeeck stelt er onbewerkte dierenfoto’s tentoon, naast abstracte zwar",
+      "source": "HLN Lokeren",
+      "province": "oost-vlaanderen",
+      "provinces": [
+        "oost-vlaanderen"
+      ],
+      "places": [
+        "Lokeren",
+        "Sint-Niklaas"
+      ],
+      "pubDate": "19 nov 20:01",
+      "published": "2026-11-19T19:01:01+00:00"
+    },
+    {
+      "title": "Rekenhof klinkt voorzichtig positief over Brusselse begroting",
+      "link": "https://www.bruzz.be/actua/politiek/rekenhof-klinkt-voorzichtig-positief-over-brusselse-begroting-2026-11-19",
+      "description": "Het Rekenhof velt een voorzichtig optimistisch oordeel over de Brusselse begrotingsplannen.",
+      "source": "BRUZZ",
+      "province": "brussel",
+      "provinces": [
+        "brussel"
+      ],
+      "places": [
+        "Brussel"
+      ],
+      "pubDate": "19 nov 20:00",
+      "published": "2026-11-19T19:00:51+00:00"
+    },
     {
       "title": "Gemeenteraad en OCMW-raad van 26 november 2026",
       "link": "https://www.laarne.be/gemeenteraad-en-ocmw-raad-van-26-november-2026",
@@ -17,182 +414,94 @@
       "published": "2026-11-19T19:00:00+00:00"
     },
     {
-      "title": "Oorlog tegen Iran kostte VS al bijna 44 miljard euro",
-      "link": "https://www.hln.be/buitenland/oorlog-tegen-iran-kostte-vs-al-bijna-44-miljard-euro~a99e0324/",
-      "description": "Volg alle ontwikkelingen over het Midden-Oosten in onze liveblog.",
-      "source": "HLN",
-      "province": "vlaanderen",
-      "provinces": [],
-      "places": [],
-      "pubDate": "19 nov 19:39",
-      "published": "2026-11-19T18:39:00+00:00"
-    },
-    {
-      "title": "Coretec Oostende strikt nieuwe spelverdeler, enkeloperatie voor Dakota Leffew",
-      "link": "https://www.nieuwsblad.be/sport/sportregio/coretec-oostende-strikt-nieuwe-spelverdeler-enkeloperatie-voor-dakota-leffew/164497880.html",
-      "description": "",
-      "source": "Nieuwsblad West-Vlaanderen",
-      "province": "west-vlaanderen",
-      "provinces": [
-        "west-vlaanderen"
-      ],
-      "places": [
-        "Oostende"
-      ],
-      "pubDate": "19 nov 19:36",
-      "published": "2026-11-19T18:36:34+00:00"
-    },
-    {
-      "title": "Twee agenten aangevallen en gewond geraakt bij controle, drie personen gearresteerd",
-      "link": "https://www.nieuwsblad.be/regio/limburg/halen/twee-agenten-aangevallen-en-gewond-geraakt-bij-controle-drie-personen-gearresteerd/164822063.html",
-      "description": "Bij een controle aan een woning in Halen donderdagmiddag zijn agenten van politiezone Limburg Regio Hoofdstad aangevallen door de bewoners. Twee agenten raakten gewond. Er zijn drie personen gearresteerd.",
-      "source": "Nieuwsblad Limburg",
-      "province": "limburg",
-      "provinces": [
-        "limburg"
-      ],
-      "places": [],
-      "pubDate": "19 nov 19:31",
-      "published": "2026-11-19T18:31:24+00:00"
-    },
-    {
-      "title": "“Soms dreig ik alles wat te veel te relativeren”: een terugblik op het eerste jaar van Matties Volckaert bij de Buffalo’s",
-      "link": "https://www.nieuwsblad.be/sport/sportregio/soms-dreig-ik-alles-wat-te-veel-te-relativeren-een-terugblik-op-het-eerste-jaar-van-matties-volckaert-bij-de-buffalos/164616035.html",
-      "description": "Op 9 november 2025 vierde Matties Volckaert zijn debuut bij de hoofdmacht van AA Gent. Iets meer dan een jaar later kijkt de 24-jarige Gentenaar terug op 45 officiële duels voor de Buffalo's, maar staat hij ook stil bij ",
-      "source": "Nieuwsblad Oost-Vlaanderen",
-      "province": "oost-vlaanderen",
-      "provinces": [
-        "oost-vlaanderen"
-      ],
-      "places": [],
-      "pubDate": "19 nov 19:31",
-      "published": "2026-11-19T18:31:00+00:00"
-    },
-    {
-      "title": "Voor het eerst sinds terugkeer met kinderen gespot: Harry en Meghan nemen Archie en Lilibet mee op gezinsuitstap",
-      "link": "https://www.hln.be/royalty/voor-het-eerst-sinds-terugkeer-met-kinderen-gespot-harry-en-meghan-nemen-archie-en-lilibet-mee-op-gezinsuitstap~a9c7ae82/",
-      "description": "Prins Harry (42) en Meghan Markle (45) trokken woensdagavond met hun kinderen naar Winter Wonderland, het kerstfestival in het Londense Hyde Park. Archie (7) nam zijn vader mee voor een ritje in de botsauto’s, terwijl Me",
-      "source": "HLN",
-      "province": "vlaanderen",
-      "provinces": [],
-      "places": [],
-      "pubDate": "19 nov 19:30",
-      "published": "2026-11-19T18:30:42+00:00"
-    },
-    {
-      "title": "Historisch keerpunt: koeling slorpt nu meer stroom op dan verwarming (en dat houdt risico’s in)",
-      "link": "https://www.standaard.be/economie/historisch-keerpunt-koeling-slorpt-nu-meer-stroom-op-dan-verwarming-en-dat-houdt-risicos-in/164793633.html",
-      "description": "Airco’s en ventilatoren stoten samen evenveel CO2 uit als Japan, en dat zal nog toenemen. Sterker nog, het Internationaal Energieagentschap waarschuwt dat de wereldwijde opmars van airco’s het elektriciteitsnet richting ",
-      "source": "De Standaard",
-      "province": "vlaanderen",
-      "provinces": [],
-      "places": [],
-      "pubDate": "19 nov 19:30",
-      "published": "2026-11-19T18:30:00+00:00"
-    },
-    {
-      "title": "“De ongerustheid slaat om in boosheid”: werknemers Group Jansen vrezen voor hun job",
-      "link": "https://www.nieuwsblad.be/regio/limburg/zonhoven/de-ongerustheid-slaat-om-in-boosheid-werknemers-group-jansen-vrezen-voor-hun-job/164825477.html",
-      "description": "Na het nieuws dat Group Jansen voor elk van zijn ondernemingen een overnemer zoekt, vrezen honderden werknemers voor hun job. “Dit is een rotgevoel, zeker nu de duurste maand van het jaar voor de deur staat. We weten nie",
-      "source": "Nieuwsblad Limburg",
-      "province": "limburg",
-      "provinces": [
-        "limburg"
-      ],
-      "places": [],
-      "pubDate": "19 nov 19:29",
-      "published": "2026-11-19T18:29:37+00:00"
-    },
-    {
-      "title": "Nieuw Strafwetboek is cadeau voor ‘Dikke Nordin’: “Slechts 20 jaar cel mogelijk in plaats van 35 jaar”",
-      "link": "https://www.hln.be/antwerpen/nieuw-strafwetboek-is-cadeau-voor-dikke-nordin-slechts-20-jaar-cel-mogelijk-in-plaats-van-35-jaar~a72d20d6/",
-      "description": "Antwerps bekendste drugsbaas Nordin El Hajjioui (38) mag de wetgever op zijn blote knieën danken. Door de invoering op 1 september van het nieuwe Strafwetboek riskeert hij voor een reeks drugsfeiten maximaal 20 jaar cels",
-      "source": "HLN Antwerpen",
+      "title": "Mechelen huldigt Diego Van Looy na Belgische marathontitel: “Ook net na zijn ongeval bleven zijn ogen diezelfde passie uitstralen”",
+      "link": "https://www.nieuwsblad.be/regio/antwerpen/rivierenland/mechelen/mechelen-huldigt-diego-van-looy-na-belgische-marathontitel-ook-net-na-zijn-ongeval-bleven-zijn-ogen-diezelfde-passie-uitstralen/164826462.html",
+      "description": "De Mechelse triatleet Diego Van Looy is donderdagavond gehuldigd op het stadhuis. Vorige maand werd hij in Eindhoven Belgisch kampioen marathon, vijf jaar nadat hij bij een zwaar verkeersongeval zijn nek brak en zijn spo",
+      "source": "Nieuwsblad Antwerpen",
       "province": "antwerpen",
       "provinces": [
         "antwerpen"
       ],
+      "places": [
+        "Mechelen"
+      ],
+      "pubDate": "19 nov 19:54",
+      "published": "2026-11-19T18:54:12+00:00"
+    },
+    {
+      "title": "Sint-Truiden mobiliseert vrijwilligerskorps voor noodsituaties",
+      "link": "https://www.tvl.be/nieuws/sint-truiden-mobiliseert-vrijwilligerskorps-voor-noodsituaties-184355",
+      "description": "Sint-Truiden heeft een gemeentelijk vrijwilligerskorps geactiveerd met 22 opgeleide vrijwilligers. Zij staan klaar om hulp- en nooddiensten te ondersteunen tijdens crisissituaties. Het korps werd opgericht in samenwerkin",
+      "source": "TVL",
+      "province": "limburg",
+      "provinces": [
+        "limburg"
+      ],
+      "places": [
+        "Sint-Truiden"
+      ],
+      "pubDate": "19 nov 19:48",
+      "published": "2026-11-19T18:48:52+00:00"
+    },
+    {
+      "title": "BRUZZ 24 over opvangcrisis in Brussel: 'Al meer dan 3000 gezinnen moeten weigeren'",
+      "link": "https://www.bruzz.be/videoreeks/journaal-bruzz-24/video-bruzz-24-over-opvangcrisis-brussel-al-meer-dan-3000-gezinnen-moeten-weigeren",
+      "description": "De Brusselse daklozenopvang barst uit zijn voegen. De laatste twee maanden al heeft Samusocial al meer dan 3.000 gezinnen moeten weigeren.",
+      "source": "BRUZZ",
+      "province": "brussel",
+      "provinces": [
+        "brussel"
+      ],
+      "places": [
+        "Brussel"
+      ],
+      "pubDate": "19 nov 19:44",
+      "published": "2026-11-19T18:44:57+00:00"
+    },
+    {
+      "title": "Nieuw Strafwetboek is cadeau voor ‘Dikke Nordin’ (38): “Slechts 20 jaar cel mogelijk in plaats van 35 jaar”",
+      "link": "https://www.hln.be/antwerpen/nieuw-strafwetboek-is-cadeau-voor-dikke-nordin-38-slechts-20-jaar-cel-mogelijk-in-plaats-van-35-jaar~a72d20d6/",
+      "description": "“Ik ben 24 dagen in kritieke toestand opgenomen. Hoe kan ik dan honderden Sky ECC-berichten verstuurd hebben?” Antwerps bekendste drugsbaas Nordin El Hajjioui (38) beet flink van zich af in het Justitiepaleis van Antwerp",
+      "source": "HLN Regio",
+      "province": "vlaanderen",
+      "provinces": [],
       "places": [],
       "pubDate": "19 nov 19:28",
       "published": "2026-11-19T18:28:00+00:00"
     },
     {
-      "title": "Activisten gooien assen naar Eurocommissaris tijdens evenement over kanker in Brussel",
-      "link": "https://www.bruzz.be/actua/samenleving/activisten-gooien-assen-naar-eurocommissaris-tijdens-evenement-over-kanker-brussel-2026-11-19",
-      "description": "Twee individuen hebben donderdag assen gegooid naar Eurocommissaris voor Gezondheid en Dierenwelzijn Olivér Várhelyi tijdens zijn tussenkomst op een Europees evenement over kanker in Brussel.",
-      "source": "BRUZZ",
-      "province": "brussel",
+      "title": "Nieuws donderdag 19 november",
+      "link": "https://www.robtv.be/nieuws/nieuws-donderdag-19-november-215966",
+      "description": "",
+      "source": "ROBtv",
+      "province": "vlaams-brabant",
       "provinces": [
-        "brussel"
+        "vlaams-brabant"
       ],
-      "places": [
-        "Brussel"
-      ],
-      "pubDate": "19 nov 19:26",
-      "published": "2026-11-19T18:26:44+00:00"
-    },
-    {
-      "title": "Videogame GTA VI vlot over de toonbank in Brussel: 'Om middernacht beginnen spelen'",
-      "link": "https://www.bruzz.be/select/shop/videogame-gta-vi-vlot-over-de-toonbank-brussel-om-middernacht-beginnen-spelen-2026-11-19",
-      "description": "Sinds middernacht is de nieuwe game Grand Theft Auto VI uit. Fans wachtten maar liefst dertien jaar op deze nieuwe game in de populaire serie.",
-      "source": "BRUZZ",
-      "province": "brussel",
-      "provinces": [
-        "brussel"
-      ],
-      "places": [
-        "Brussel"
-      ],
-      "pubDate": "19 nov 19:24",
-      "published": "2026-11-19T18:24:34+00:00"
-    },
-    {
-      "title": "Megakerstbal van Frederiek Van Pamel verwelkomt bezoekers in Zilverpand in Brugge",
-      "link": "https://kw.be/nieuws/samenleving/megakerstbal-verwelkomt-bezoekers-in-zilverpand/",
-      "description": "Het Zilverpand pakt deze eindejaarsperiode uit met een opvallende blikvanger. Op vraag van de handelaarsvereniging creëerde Frederiek Van Pamel een indrukwekkend kerstkunstwerk op het plein van het shoppingcentrum. Eyeca",
-      "source": "KW",
-      "province": "west-vlaanderen",
-      "provinces": [
-        "west-vlaanderen"
-      ],
-      "places": [
-        "Brugge"
-      ],
-      "pubDate": "19 nov 19:22",
-      "published": "2026-11-19T18:22:52+00:00"
-    },
-    {
-      "title": "Nieuw zwembad De Otter in Mechelen loopt leeg: \"100.000 liter weg door leidingbreuk en softwarefout\"",
-      "link": "https://vrtnws.be/p.93pyEYOav",
-      "description": "Het nieuwe buurtzwembad De Otter in Mechelen is een paar dagen na de opening alweer gesloten. Dat schrijft Gazet van Antwerpen en wordt bevestigd aan VRT NWS. Door een leidingbreuk liep het bad afgelopen nacht leeg, waar",
-      "source": "VRT NWS",
-      "province": "antwerpen",
-      "provinces": [
-        "antwerpen"
-      ],
-      "places": [
-        "Antwerpen",
-        "Mechelen"
-      ],
-      "pubDate": "19 nov 19:22",
-      "published": "2026-11-19T18:22:37+00:00"
-    },
-    {
-      "title": "Nederland roept Russische ambassadeur op het matje na inslag nabij ambassade in Kiev - Merz noemt top met Trump, Xi en Poetin “vooral fotomoment”",
-      "link": "https://www.standaard.be/buitenland/nederland-roept-russische-ambassadeur-op-het-matje-na-inslag-nabij-ambassade-in-kiev-merz-noemt-top-met-trump-xi-en-poetin-vooral-fotomoment/35173633.html",
-      "description": "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates.",
-      "source": "De Standaard",
-      "province": "vlaanderen",
-      "provinces": [],
       "places": [],
-      "pubDate": "19 nov 19:20",
-      "published": "2026-11-19T18:20:34+00:00"
+      "pubDate": "19 nov 19:15",
+      "published": "2026-11-19T18:15:15+00:00"
     },
     {
-      "title": "Kerstfeestje op Antwerpse Meir: burgemeester steekt eindejaarsverlichting aan met steltlopers en brassband",
-      "link": "https://www.nieuwsblad.be/regio/antwerpen/regio-antwerpen/antwerpen/kerstfeestje-op-antwerpse-meir-burgemeester-steekt-eindejaarsverlichting-aan-met-steltlopers-en-brassband/164824774.html",
-      "description": "Sinterklaas is nog maar net in Antwerpen aangekomen, maar de Meir baadt al in kerstsfeer. Donderdagavond om 18 uur sprong de eindejaarsverlichting aan. Voor de gelegenheid waren ook steltlopers verkleed als lichtgevende ",
-      "source": "Nieuwsblad Antwerpen",
+      "title": "Tervuren vraagt raad aan inwoners om imago te verbeteren en toeristen aan te trekken",
+      "link": "https://www.robtv.be/nieuws/tervuren-vraagt-raad-aan-inwoners-om-imago-te-verbeteren-en-toeristen-aan-te-trekken-215965",
+      "description": "Het gemeentebestuur van Tervuren wil zijn toeristische trekpleisters in de kijker zetten en meer toeristen lokken naar de gemeente. Daarvoor gaat de gemeente een bevraging doen bij haar inwoners.",
+      "source": "ROBtv",
+      "province": "vlaams-brabant",
+      "provinces": [
+        "vlaams-brabant"
+      ],
+      "places": [
+        "Tervuren"
+      ],
+      "pubDate": "19 nov 18:59",
+      "published": "2026-11-19T17:59:18+00:00"
+    },
+    {
+      "title": "Eindejaarsperiode is nu écht begonnen: kerstverlichting officieel aangestoken in Antwerpse winkelstraten",
+      "link": "https://www.hln.be/antwerpen/eindejaarsperiode-is-nu-echt-begonnen-kerstverlichting-officieel-aangestoken-in-antwerpse-winkelstraten~a0318fb0/",
+      "description": "De Antwerpse eindejaarsperiode is officieel ingezet: donderdagavond werd de eindejaarsverlichting in de Antwerpse winkelstraten feestelijk aangestoken. Burgemeester Els van Doesburg, schepen Koen Kennis, districtsburgeme",
+      "source": "HLN Antwerpen",
       "province": "antwerpen",
       "provinces": [
         "antwerpen"
@@ -200,155 +509,8 @@
       "places": [
         "Antwerpen"
       ],
-      "pubDate": "19 nov 19:12",
-      "published": "2026-11-19T18:12:45+00:00"
-    },
-    {
-      "title": "Nieuwe beloftenkern bij Vlaamse Roeiliga: welke jongeren volgen Aaron Andries en Tibo Vyvey?",
-      "link": "https://www.nieuwsblad.be/sport/sportregio/nieuwe-beloftenkern-bij-vlaamse-roeiliga-welke-jongeren-volgen-aaron-andries-en-tibo-vyvey/164800315.html",
-      "description": "Dit weekend verzamelt de nationale sporttechnische roeicommissie alle toproeiers en kandidaat-internationals. Zaterdag staat in sporthal De Schalk in Willebroek het Open Belgisch Indoor Roeikampioenschap op het programma",
-      "source": "Nieuwsblad Oost-Vlaanderen",
-      "province": "antwerpen",
-      "provinces": [
-        "antwerpen"
-      ],
-      "places": [
-        "Willebroek"
-      ],
-      "pubDate": "19 nov 19:08",
-      "published": "2026-11-19T18:08:00+00:00"
-    },
-    {
-      "title": "Nieuwe expo in STAM dompelt bezoekers onder in het verhaal van Pierke: “Hij maakt deel uit van de Gentse ziel”",
-      "link": "https://www.nieuwsblad.be/regio/oost-vlaanderen/regio-gent/gent/nieuwe-expo-in-stam-dompelt-bezoekers-onder-in-het-verhaal-van-pierke-hij-maakt-deel-uit-van-de-gentse-ziel/164797967.html",
-      "description": "“Ien, twie, drei, vier, Pier es ier”. Vanaf vrijdag 20 november kan je in het Gentse stadsmuseum gratis naar de tentoonstelling ‘Pier es ier!’. Een expo die het verleden, heden en de toekomst van het volkse poppenspel be",
-      "source": "Nieuwsblad Oost-Vlaanderen",
-      "province": "oost-vlaanderen",
-      "provinces": [
-        "oost-vlaanderen"
-      ],
-      "places": [
-        "Gent"
-      ],
-      "pubDate": "19 nov 19:00",
-      "published": "2026-11-19T18:00:00+00:00"
-    },
-    {
-      "title": "Gesprongen leiding zet scholen zonder water en elektriciteit: ruim 900 leerlingen noodgedwongen thuis",
-      "link": "https://www.nieuwsblad.be/regio/west-vlaanderen/zuid-west-vlaanderen/kortrijk/gesprongen-leiding-zet-scholen-zonder-water-en-elektriciteit-ruim-900-leerlingen-noodgedwongen-thuis/164823266.html",
-      "description": "Ruim 900 leerlingen van een scholencomplex in Kortrijk moeten morgen niet naar school. Door een gesprongen waterleiding zitten de gebouwen zonder water, elektriciteit en verwarming. “Door overmacht moeten we de hele site",
-      "source": "Nieuwsblad West-Vlaanderen",
-      "province": "west-vlaanderen",
-      "provinces": [
-        "west-vlaanderen"
-      ],
-      "places": [
-        "Kortrijk"
-      ],
-      "pubDate": "19 nov 18:59",
-      "published": "2026-11-19T17:59:42+00:00"
-    },
-    {
-      "title": "Testaankoop vergeleek 20 adventskalenders: \"We betalen makkelijk 5 keer meer per kilogram dan in een gewone verpakking\"",
-      "link": "https://vrtnws.be/p.xZYd5Bene",
-      "description": "Adventskalenders zijn vooral marketing. Dat zegt Testaankoop na het vergelijken van 20 adventskalenders met chocolade en snoepjes. \"We hebben gekeken naar wat dat snoepgoed kost als je het in een gewone normale verpakkin",
-      "source": "VRT NWS",
-      "province": "vlaanderen",
-      "provinces": [],
-      "places": [],
-      "pubDate": "19 nov 18:55",
-      "published": "2026-11-19T17:55:29+00:00"
-    },
-    {
-      "title": "“Een hond is geen robot”: Wingense hondencoach Annelies Hinderyckx lanceert campagne ‘Het Kan Anders’",
-      "link": "https://kw.be/nieuws/milieu/dieren/een-hond-is-geen-robot-wingense-hondencoach-annelies-hinderyckx-lanceert-campagne-het-kan-anders/",
-      "description": "De Wingense hondencoach Annelies Hinderyckx lanceert op zondag 29 november – in het vooruitzicht van het komende stroombandverbod – de regionale campagne ‘Het Kan Anders’ waarin misverstanden rond honden worden uitgelich",
-      "source": "KW",
-      "province": "west-vlaanderen",
-      "provinces": [
-        "west-vlaanderen"
-      ],
-      "places": [],
-      "pubDate": "19 nov 18:52",
-      "published": "2026-11-19T17:52:44+00:00"
-    },
-    {
-      "title": "Thomas (40) is de ‘Beste Grootkeukenkok van België’: “Mensen associëren ons nog te vaak met grote porties die niet lekker zijn”",
-      "link": "https://www.hln.be/kortemark/thomas-40-is-de-beste-grootkeukenkok-van-belgie-mensen-associeren-ons-nog-te-vaak-met-grote-porties-die-niet-lekker-zijn~a0f558d0/",
-      "description": "Nog voor de middagspits begint, vliegen de potten en pannen al over het fornuis in de opleidingskeuken van het MMI in het West-Vlaamse Kortemark. 50 liter soep staat te pruttelen, frieten wachten op de friteuse en leerli",
-      "source": "HLN Regio",
-      "province": "vlaanderen",
-      "provinces": [],
-      "places": [],
-      "pubDate": "19 nov 18:46",
-      "published": "2026-11-19T17:46:00+00:00"
-    },
-    {
-      "title": "Frederiek Van Pamel pakt uit met tweede kerstblikvanger: “Dit straalt positief af op Het Zilverpand”",
-      "link": "https://www.nieuwsblad.be/regio/west-vlaanderen/regio-brugge/brugge/frederiek-van-pamel-pakt-uit-met-tweede-kerstblikvanger-dit-straalt-positief-af-op-het-zilverpand/164781174.html",
-      "description": "Het Zilverpand is een blikvanger rijker: een installatie met een reusachtige kerstbal, ontworpen door bloemist-decorateur Frederiek Van Pamel.",
-      "source": "Nieuwsblad West-Vlaanderen",
-      "province": "west-vlaanderen",
-      "provinces": [
-        "west-vlaanderen"
-      ],
-      "places": [],
-      "pubDate": "19 nov 18:38",
-      "published": "2026-11-19T17:38:00+00:00"
-    },
-    {
-      "title": "TVL Nieuws, 19 november 2026",
-      "link": "https://www.tvl.be/nieuws/tvl-nieuws-19-november-2026-184352",
-      "description": "Herbekijk hier het TVL Nieuws van donderdag 19 november 2026.",
-      "source": "TVL",
-      "province": "limburg",
-      "provinces": [
-        "limburg"
-      ],
-      "places": [],
-      "pubDate": "19 nov 18:35",
-      "published": "2026-11-19T17:35:45+00:00"
-    },
-    {
-      "title": "Hasselts begijnhof bekroond op prestigieus World Architecture Festival",
-      "link": "https://www.tvl.be/nieuws/hasselts-begijnhof-bekroond-op-prestigieus-world-architecture-festival-184351",
-      "description": "Het Hasseltse begijnhof heeft de Creative Re-Use Award gewonnen op het World Architecture Festival, een van de belangrijkste architectuurevenementen ter wereld.Het begijnhof is vandaag de thuisbasis van de Faculteit Arch",
-      "source": "TVL",
-      "province": "limburg",
-      "provinces": [
-        "limburg"
-      ],
-      "places": [
-        "Hasselt"
-      ],
-      "pubDate": "19 nov 18:35",
-      "published": "2026-11-19T17:35:24+00:00"
-    },
-    {
-      "title": "Leegstaand Zandjanneke krijgt nieuwe toekomst met drie kindvriendelijke initiatieven",
-      "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/keerbergen/leegstaand-zandjanneke-krijgt-nieuwe-toekomst-met-drie-kindvriendelijke-initiatieven/164814362.html",
-      "description": "Het voormalige gebouw van buitenschoolse kinderopvang Zandjanneke aan de Putsebaan in Keerbergen krijgt vanaf januari 2027 opnieuw een invulling. Kinderdagverblijf Janneke Maan verhuist vanuit het centrum naar het pand e",
-      "source": "Nieuwsblad Vlaams-Brabant",
-      "province": "vlaams-brabant",
-      "provinces": [
-        "vlaams-brabant"
-      ],
-      "places": [],
-      "pubDate": "19 nov 18:30",
-      "published": "2026-11-19T17:30:00+00:00"
-    },
-    {
-      "title": "Twee agenten aangevallen en gewond geraakt bij controle in Halen, drie personen gearresteerd",
-      "link": "https://www.hbvl.be/regio/limburg/halen/twee-agenten-aangevallen-en-gewond-geraakt-bij-controle-in-halen-drie-personen-gearresteerd/164821136.html",
-      "description": "Bij een controle aan een woning in Halen zijn agenten van de politie LRH donderdagmiddag aangevallen door de bewoners. Twee agenten raakten gewond. Er zijn drie personen gearresteerd.",
-      "source": "HBVL",
-      "province": "limburg",
-      "provinces": [
-        "limburg"
-      ],
-      "places": [],
-      "pubDate": "19 nov 18:23",
-      "published": "2026-11-19T17:23:24+00:00"
+      "pubDate": "19 nov 18:24",
+      "published": "2026-11-19T17:24:41+00:00"
     },
     {
       "title": "“Ze gooide haar ondervoede konijn naar de agenten”: verschillende baasjes krijgen boetes voor dierenverwaarlozing",
@@ -379,37 +541,8 @@
       "published": "2026-11-19T17:08:58+00:00"
     },
     {
-      "title": "Ella De Neve legt eed af als nieuwe gedeputeerde",
-      "link": "https://www.robtv.be/nieuws/ella-de-neve-legt-eed-af-als-nieuwe-gedeputeerde-215962",
-      "description": "Ella De Neve van Anders heeft de eed afgelegd als nieuwe gedupeteerde bij de provincie. Bij de coalitievorming was al afgesproken dat Ann Schevenels op 1 december afscheid neemt van de provincie.",
-      "source": "ROBtv",
-      "province": "vlaams-brabant",
-      "provinces": [
-        "vlaams-brabant"
-      ],
-      "places": [],
-      "pubDate": "19 nov 18:07",
-      "published": "2026-11-19T17:07:33+00:00"
-    },
-    {
-      "title": "Van de ‘Peterbosportier’ tot Mad Max: parket gaat hoofdrolspelers af op proces",
-      "link": "https://www.hln.be/brussel/van-de-peterbosportier-tot-mad-max-parket-gaat-hoofdrolspelers-af-op-proces~ad2abb7e/",
-      "description": "Op het proces rond de criminele organisatie die actief was vanuit de Peterboswijk in Anderlecht is het Brusselse parket donderdag verder ingegaan op een reeks schietincidenten die aan de drugsbende gelinkt worden. Twee d",
-      "source": "HLN Brussel",
-      "province": "brussel",
-      "provinces": [
-        "brussel"
-      ],
-      "places": [
-        "Anderlecht",
-        "Brussel"
-      ],
-      "pubDate": "19 nov 18:02",
-      "published": "2026-11-19T17:02:00+00:00"
-    },
-    {
-      "title": "Inclusieve dansvoorstelling ‘Draagbaar’ 22 november in zaal Uyttenhove",
-      "link": "https://www.hln.be/lochristi/inclusieve-dansvoorstelling-draagbaar-22-november-in-zaal-uyttenhove~ab635e33/",
+      "title": "Inclusieve dansvoorstelling ‘Draagbaar’ op 22 november: “Deelnemers willen duidelijke boodschap uitdragen”",
+      "link": "https://www.hln.be/lochristi/inclusieve-dansvoorstelling-draagbaar-op-22-november-deelnemers-willen-duidelijke-boodschap-uitdragen~ab635e33/",
       "description": "Op zondag 22 november brengt een bijzondere groep dansers met een beperking, samen met enkele begeleiders, de dansvoorstelling ‘Draagbaar’ naar zaal Uyttenhove in Zeveneken. Het project is een initiatief van STAN vzw, Ha",
       "source": "HLN Lokeren",
       "province": "oost-vlaanderen",
@@ -424,47 +557,19 @@
       "published": "2026-11-19T16:47:00+00:00"
     },
     {
-      "title": "Jimmy Coenraets is coach van het jaar in Amerika: \"Niemand had dit aan het begin van het seizoen op zijn NSWL-bingokaart staan\"",
-      "link": "https://www.robtv.be/nieuws/jimmy-coenraets-is-coach-van-het-jaar-in-amerika-niemand-had-dit-aan-het-begin-van-het-seizoen-op-zijn-nswl-bingokaart-staan-215939",
-      "description": "Opvallend nieuws uit de Verenigde Staten: Jimmy Coenraets is daar verkozen tot trainer van het jaar. Coenraets woonde voor zijn vertrek naar de States in Lubbeek en was tot twee jaar geleden coach van de vrouwen van Oud-",
-      "source": "ROBtv",
-      "province": "vlaams-brabant",
+      "title": "Zeno (23) uit Lokeren neemt vandaag vrij voor de lancering van GTA VI: \"Ongelooflijk om dit eindelijk mee te maken\" - TV OOST",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWUZMSjdfcW1wWTJUblU5cU1FckJ1MjlLQ2FRUTdPNERhRGRvMFNxRFZnczJnSlNxTUZrWTFnU0c5NWIzclBHcEE4OXBPSGM1VW9IMnAxMlZzVzNwc2hUWWxIR2FrcGJsd2hpZHJYUVJXUmYxa1VaVU1TYWJab1MwVFYxQ053TkptUTREV0FRM2M5UnJHQ3hnZGtQc3F1SHBGTGRFbkpwZmF6a3dELWNad19ybGdCSGZGQVZvR3ZEU0FKOXVnTE5nWHlUN2lhckVvOERKWWpFQTFCaVdGbHRn?oc=5",
+      "description": "Zeno (23) uit Lokeren neemt vandaag vrij voor de lancering van GTA VI: \"Ongelooflijk om dit eindelijk mee te maken\" TV OOST",
+      "source": "Google Nieuws",
+      "province": "oost-vlaanderen",
       "provinces": [
-        "vlaams-brabant"
-      ],
-      "places": [],
-      "pubDate": "19 nov 17:44",
-      "published": "2026-11-19T16:44:57+00:00"
-    },
-    {
-      "title": "Albanese criminele organisatie opgerold na banale verkeerscontrole: “Cannabisplantage van meer dan 1.500 planten aangetroffen”",
-      "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/leuven/albanese-criminele-organisatie-opgerold-na-banale-verkeerscontrole-cannabisplantage-van-meer-dan-1.500-planten-aangetroffen/164816337.html",
-      "description": "Een simpele verkeerscontrole in Leuven in november 2025 heeft ervoor gezorgd dat de politie nu een Albanese criminele organisatie actief in héél België kon oprollen. Dat maakte het parket donderdag bekend na het uitvoere",
-      "source": "Nieuwsblad Vlaams-Brabant",
-      "province": "vlaams-brabant",
-      "provinces": [
-        "vlaams-brabant"
+        "oost-vlaanderen"
       ],
       "places": [
-        "Leuven"
+        "Lokeren"
       ],
-      "pubDate": "19 nov 17:09",
-      "published": "2026-11-19T16:09:00+00:00"
-    },
-    {
-      "title": "Eindelijk klimmen in stadscentrum: Manta Boulder Gym opent de deuren",
-      "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/leuven/eindelijk-klimmen-in-stadscentrum-manta-boulder-gym-opent-de-deuren/164787355.html",
-      "description": "Klimmers kunnen hun hartje ophalen, want Leuven heeft er een boulderzaal bij. Manta Boulder Gym opende deze week de deuren in de Sint-Maartensstraat.",
-      "source": "Nieuwsblad Vlaams-Brabant",
-      "province": "vlaams-brabant",
-      "provinces": [
-        "vlaams-brabant"
-      ],
-      "places": [
-        "Leuven"
-      ],
-      "pubDate": "19 nov 17:00",
-      "published": "2026-11-19T16:00:00+00:00"
+      "pubDate": "19 nov 17:05",
+      "published": "2026-11-19T16:05:57+00:00"
     },
     {
       "title": "Vrijwilligers ruimen maaisel en wilgentakken op in Daknamse Meersen",
@@ -495,24 +600,6 @@
       ],
       "pubDate": "19 nov 16:42",
       "published": "2026-11-19T15:42:00+00:00"
-    },
-    {
-      "title": "Bepasin en Karel de Grote Hogeschool werken samen: “Studenten vinden makkelijker stage in eigen regio”",
-      "link": "https://www.hln.be/sint-niklaas/bepasin-en-karel-de-grote-hogeschool-werken-samen-studenten-vinden-makkelijker-stage-in-eigen-regio~a8702644/",
-      "description": "Ondernemingsnetwerk Bepasin uit Sint-Niklaas slaat de handen in elkaar met de Antwerpse Karel de Grote Hogeschool (KdG). Studenten uit vijf opleidingen moeten zo vlotter een stage of praktijkproject in de eigen regio kun",
-      "source": "HLN Lokeren",
-      "province": "oost-vlaanderen",
-      "provinces": [
-        "oost-vlaanderen",
-        "antwerpen"
-      ],
-      "places": [
-        "Lokeren",
-        "Sint-Niklaas",
-        "Antwerpen"
-      ],
-      "pubDate": "19 nov 16:00",
-      "published": "2026-11-19T15:00:18+00:00"
     },
     {
       "title": "“Ik heb van CR7 mijn eigen afkorting gemaakt en die op mijn enkel laten tatoeëren”: Cristiano Ronaldo’s bittere afscheid bij Portugal doet ook op Vlaamse amateurvelden stof opwaaien",
@@ -558,53 +645,6 @@
       ],
       "pubDate": "19 nov 15:46",
       "published": "2026-11-19T14:46:31+00:00"
-    },
-    {
-      "title": "Triene-Mie Le Compte geeft lezing over partnergeweld in Stekene",
-      "link": "https://www.hln.be/stekene/triene-mie-le-compte-geeft-lezing-over-partnergeweld-in-stekene~aa60353c/",
-      "description": "Hoe herken je partnergeweld, en wat kan je als buitenstaander doen? Triene-Mie Le Compte gaat op donderdag 3 december op die vragen in tijdens haar lezing ‘Als liefde overleven wordt’ in Stekene.",
-      "source": "HLN Lokeren",
-      "province": "oost-vlaanderen",
-      "provinces": [
-        "oost-vlaanderen"
-      ],
-      "places": [
-        "Lokeren"
-      ],
-      "pubDate": "19 nov 15:39",
-      "published": "2026-11-19T14:39:35+00:00"
-    },
-    {
-      "title": "Meer dan 4.500 inwoners vullen renovatiescan in: “Op het vlak van renovatieambities behoort Sint-Niklaas tot de top”",
-      "link": "https://www.hln.be/sint-niklaas/meer-dan-4-500-inwoners-vullen-renovatiescan-in-op-het-vlak-van-renovatieambities-behoort-sint-niklaas-tot-de-top~a9b34775/",
-      "description": "Meer dan 4.500 inwoners vulden de voorbije drie jaar een renovatiescan in via Sint-Niklaas Renoveert. Via het project, dat inwoners gratis begeleidt bij energiezuinig verbouwen, vloeit er jaarlijks gemiddeld 1,5 miljoen ",
-      "source": "HLN Lokeren",
-      "province": "oost-vlaanderen",
-      "provinces": [
-        "oost-vlaanderen"
-      ],
-      "places": [
-        "Lokeren",
-        "Sint-Niklaas"
-      ],
-      "pubDate": "19 nov 15:09",
-      "published": "2026-11-19T14:09:00+00:00"
-    },
-    {
-      "title": "Studio Santee lanceert avontuurlijke sportdagen voor tieners: “BMX, skaten en vlotten bouwen”",
-      "link": "https://www.hln.be/sint-niklaas/studio-santee-lanceert-avontuurlijke-sportdagen-voor-tieners-bmx-skaten-en-vlotten-bouwen~a9329049/",
-      "description": "Beweegcentrum Studio Santee in Sint-Niklaas lanceert voor de zomer van 2027 de Teens Adventure Kampdagen, avontuurlijke sportdagen voor jongeren van 12 tot 16 jaar. Tieners schrijven zich niet in voor een volledige kampw",
-      "source": "HLN Lokeren",
-      "province": "oost-vlaanderen",
-      "provinces": [
-        "oost-vlaanderen"
-      ],
-      "places": [
-        "Lokeren",
-        "Sint-Niklaas"
-      ],
-      "pubDate": "19 nov 15:00",
-      "published": "2026-11-19T14:00:15+00:00"
     },
     {
       "title": "Stefanie Brems geeft lezing in Lochristi over intrafamiliaal geweld - HLN",
@@ -667,21 +707,6 @@
       "published": "2026-11-19T11:34:00+00:00"
     },
     {
-      "title": "Nieuwe aanvliegroute vermindert geluidsoverlast voor Brusselaars niet",
-      "link": "https://www.nieuwsblad.be/nieuws/nieuwe-aanvliegroute-vermindert-geluidsoverlast-voor-brusselaars-niet/164782633.html",
-      "description": "De federale maatregel om vliegtuigen hoger en verder van de luchthaven te laten aanvliegen, heeft geen merkbaar effect op de geluidsoverlast in Brussel. Dat blijkt uit analyses van Leefmilieu Brussel. Brusselaars die ond",
-      "source": "Nieuwsblad Brussel",
-      "province": "brussel",
-      "provinces": [
-        "brussel"
-      ],
-      "places": [
-        "Brussel"
-      ],
-      "pubDate": "19 nov 12:33",
-      "published": "2026-11-19T11:33:10+00:00"
-    },
-    {
       "title": "Gedeeltelijke opheffing tijdelijk onttrekkingsverbod voor onbevaarbare waterlopen",
       "link": "https://www.sint-niklaas.be/actueel/gedeeltelijke-opheffing-tijdelijk-onttrekkingsverbod-voor-onbevaarbare-waterlopen",
       "description": "De gouverneur van Oost-Vlaanderen heft het tijdelijk onttrekkingsverbod op in 43 bijkomende onttrekkingszones van onbevaarbare waterlopen en publieke grachten. De neerslag van de voorbije weken heeft op verschillende pla",
@@ -695,36 +720,6 @@
       ],
       "pubDate": "19 nov 11:26",
       "published": "2026-11-19T10:26:25+00:00"
-    },
-    {
-      "title": "Nieuwe sintbussen in Laarne voor jouw post aan Sinterklaas",
-      "link": "https://www.laarne.be/nieuwe-sintbussen-in-laarne-voor-jouw-post-aan-sinterklaas",
-      "description": "Groot nieuws van de goed heilig man: Sinterklaas laat opnieuw 2 sintbussen plaatsen in de gemeente!",
-      "source": "Gemeente Laarne",
-      "province": "oost-vlaanderen",
-      "provinces": [
-        "oost-vlaanderen"
-      ],
-      "places": [
-        "Laarne"
-      ],
-      "pubDate": "19 nov 09:35",
-      "published": "2026-11-19T08:35:00+00:00"
-    },
-    {
-      "title": "Vastgoedkantoor in Lokeren ontdekt vervalste loonfiches bij kandidaat-huurders: “Soms meerdere voor één woning” - HLN",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcE1ORmZGSnVLWjFXdU0tSThIa0hfSjVXTGxvOExKakJXRUFqWHZTZUZOa1RBVHJ1M1gzb3E1b0hPUlBFcm53TTVrN3ltWUw1bWZSbVc3OTA1Xzk1R0FycWZSY0lGZTBDb2c2RFBpMC1JbUI3c1VmU0d1OTU0Wi1OdENpVnp4RUtQZjU0Q1dRMnB6NTRZU2xPNV9jODYzWXFrWnJWeGRPcXpFYkdueGt6WEFTbG1lQ20zNXFLUEdqUm1fQ0VlZ0MxQm5SYmZjWFFPNUdOZjB1RlZ5d0JtRWc?oc=5",
-      "description": "Vastgoedkantoor in Lokeren ontdekt vervalste loonfiches bij kandidaat-huurders: “Soms meerdere voor één woning” HLN",
-      "source": "Google Nieuws",
-      "province": "oost-vlaanderen",
-      "provinces": [
-        "oost-vlaanderen"
-      ],
-      "places": [
-        "Lokeren"
-      ],
-      "pubDate": "18 nov 20:50",
-      "published": "2026-11-18T19:50:34+00:00"
     },
     {
       "title": "Tijdelijke invulling: bmx-hal op Douaneplein ‘Transit M’",
@@ -775,11 +770,11 @@
     "alles": 95,
     "lokerse-streek": 79,
     "west-vlaanderen": 80,
-    "oost-vlaanderen": 85,
-    "antwerpen": 83,
+    "oost-vlaanderen": 90,
+    "antwerpen": 67,
     "limburg": 83,
     "vlaams-brabant": 78,
-    "brussel": 80
+    "brussel": 83
   },
   "sources": [
     {
@@ -825,7 +820,7 @@
     {
       "name": "Nieuwsblad Antwerpen",
       "province": "antwerpen",
-      "count": 6
+      "count": 5
     },
     {
       "name": "Nieuwsblad Limburg",
@@ -835,7 +830,7 @@
     {
       "name": "Nieuwsblad Vlaams-Brabant",
       "province": "vlaams-brabant",
-      "count": 6
+      "count": 5
     },
     {
       "name": "Nieuwsblad Brussel",
@@ -855,7 +850,7 @@
     {
       "name": "HBVL",
       "province": "limburg",
-      "count": 1
+      "count": 2
     },
     {
       "name": "TVL",
@@ -885,7 +880,7 @@
     {
       "name": "HLN Antwerpen",
       "province": "antwerpen",
-      "count": 4
+      "count": 3
     },
     {
       "name": "HLN Brussel",
@@ -900,7 +895,7 @@
     {
       "name": "HLN",
       "province": "vlaanderen",
-      "count": 4
+      "count": 5
     },
     {
       "name": "De Standaard",
