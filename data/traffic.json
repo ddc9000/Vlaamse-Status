@@ -1,39 +1,19 @@
 {
-  "updated": "2026-11-21T18:19:01.170941",
+  "updated": "2026-11-21T23:29:59.721091",
   "source": "Verkeerscentrum Vlaanderen (DATEX II)",
   "license": "CC BY",
   "count": 40,
-  "warnings": 3,
+  "warnings": 1,
   "items": [
     {
-      "id": "EVT22570783",
+      "id": "EVT22570795",
       "label": "Verstoord verkeer",
       "severity": "warning",
-      "lat": 50.88219,
-      "lon": 4.28471,
-      "until": "",
-      "province": "vlaams-brabant",
-      "place": "Dilbeek"
-    },
-    {
-      "id": "EVT22570720",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 50.77428,
-      "lon": 4.44732,
+      "lat": 50.79388,
+      "lon": 4.47927,
       "until": "",
       "province": "vlaams-brabant",
       "place": "Tervuren"
-    },
-    {
-      "id": "EVT22570781",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 50.72565,
-      "lon": 4.22833,
-      "until": "",
-      "province": "vlaams-brabant",
-      "place": "Halle"
     },
     {
       "id": "EVT22429488",
@@ -44,6 +24,16 @@
       "until": "2030-06-30",
       "province": "west-vlaanderen",
       "place": "Veurne"
+    },
+    {
+      "id": "EVT22570614",
+      "label": "Weg afgesloten",
+      "severity": "info",
+      "lat": 50.79258,
+      "lon": 4.48204,
+      "until": "2026-11-22",
+      "province": "vlaams-brabant",
+      "place": "Tervuren"
     },
     {
       "id": "EVT22390915",
@@ -86,6 +76,16 @@
       "place": "Overijse"
     },
     {
+      "id": "EVT22570613",
+      "label": "Weg afgesloten",
+      "severity": "info",
+      "lat": 50.77026,
+      "lon": 4.50374,
+      "until": "2026-11-22",
+      "province": "vlaams-brabant",
+      "place": "Overijse"
+    },
+    {
       "id": "EVT22482312",
       "label": "Weg afgesloten",
       "severity": "info",
@@ -94,16 +94,6 @@
       "until": "2027-09-01",
       "province": "oost-vlaanderen",
       "place": "Gent"
-    },
-    {
-      "id": "EVT22290657",
-      "label": "Weg afgesloten",
-      "severity": "info",
-      "lat": 50.79119,
-      "lon": 4.48431,
-      "until": "2027-09-30",
-      "province": "vlaams-brabant",
-      "place": "Tervuren"
     },
     {
       "id": "EVT22452188",
@@ -136,6 +126,16 @@
       "place": "Antwerpen"
     },
     {
+      "id": "EVT22570612",
+      "label": "Weg afgesloten",
+      "severity": "info",
+      "lat": 50.75508,
+      "lon": 4.52516,
+      "until": "2026-11-22",
+      "province": "vlaams-brabant",
+      "place": "Overijse"
+    },
+    {
       "id": "EVT22561844",
       "label": "Weg afgesloten",
       "severity": "info",
@@ -144,6 +144,26 @@
       "until": "2026-12-18",
       "province": "west-vlaanderen",
       "place": "Roeselare"
+    },
+    {
+      "id": "EVT22570790",
+      "label": "Wegenwerken",
+      "severity": "info",
+      "lat": 51.18534,
+      "lon": 4.67158,
+      "until": "",
+      "province": "antwerpen",
+      "place": "Lier"
+    },
+    {
+      "id": "EVT22570794",
+      "label": "Wegenwerken",
+      "severity": "info",
+      "lat": 51.22257,
+      "lon": 4.44992,
+      "until": "",
+      "province": "antwerpen",
+      "place": "Antwerpen"
     },
     {
       "id": "EVT22570373",
@@ -384,26 +404,6 @@
       "until": "2026-11-30",
       "province": "oost-vlaanderen",
       "place": "Gent"
-    },
-    {
-      "id": "EVT22570396",
-      "label": "Nieuwe wegenwerken",
-      "severity": "info",
-      "lat": 51.24518,
-      "lon": 4.34991,
-      "until": "2026-11-23",
-      "province": "antwerpen",
-      "place": "Antwerpen"
-    },
-    {
-      "id": "EVT22530714",
-      "label": "Nieuwe wegenwerken",
-      "severity": "info",
-      "lat": 50.88909,
-      "lon": 4.45267,
-      "until": "2027-01-31",
-      "province": "vlaams-brabant",
-      "place": "Zaventem"
     }
   ]
 }
