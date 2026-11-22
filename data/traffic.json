@@ -1,20 +1,10 @@
 {
-  "updated": "2026-11-21T23:29:59.721091",
+  "updated": "2026-11-22T03:21:18.013001",
   "source": "Verkeerscentrum Vlaanderen (DATEX II)",
   "license": "CC BY",
   "count": 40,
-  "warnings": 1,
+  "warnings": 0,
   "items": [
-    {
-      "id": "EVT22570795",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 50.79388,
-      "lon": 4.47927,
-      "until": "",
-      "province": "vlaams-brabant",
-      "place": "Tervuren"
-    },
     {
       "id": "EVT22429488",
       "label": "Weg afgesloten",
@@ -146,16 +136,6 @@
       "place": "Roeselare"
     },
     {
-      "id": "EVT22570790",
-      "label": "Wegenwerken",
-      "severity": "info",
-      "lat": 51.18534,
-      "lon": 4.67158,
-      "until": "",
-      "province": "antwerpen",
-      "place": "Lier"
-    },
-    {
       "id": "EVT22570794",
       "label": "Wegenwerken",
       "severity": "info",
@@ -174,6 +154,16 @@
       "until": "2026-11-23",
       "province": "antwerpen",
       "place": "Antwerpen"
+    },
+    {
+      "id": "EVT22570790",
+      "label": "Wegenwerken",
+      "severity": "info",
+      "lat": 51.18534,
+      "lon": 4.67158,
+      "until": "",
+      "province": "antwerpen",
+      "place": "Lier"
     },
     {
       "id": "EVT22570348",
@@ -404,6 +394,16 @@
       "until": "2026-11-30",
       "province": "oost-vlaanderen",
       "place": "Gent"
+    },
+    {
+      "id": "EVT22570396",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 51.24518,
+      "lon": 4.34991,
+      "until": "2026-11-23",
+      "province": "antwerpen",
+      "place": "Antwerpen"
     }
   ]
 }
