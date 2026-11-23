@@ -1,16 +1,240 @@
 {
-  "updated": "2026-11-22T23:55:03.348091",
+  "updated": "2026-11-23T04:10:34.319833",
   "items": [
     {
-      "title": "Minstens tien doden bij nachtelijke Russische aanvallen op regio Kiev",
-      "link": "https://www.hln.be/buitenland/minstens-tien-doden-bij-nachtelijke-russische-aanvallen-op-regio-kiev~a93df6b5/",
+      "title": "Hugo Vanderschoot, 89 jaar",
+      "link": "https://www.hbvl.be/regio/inmemoriam/hugo-vanderschoot-89-jaar/164946346.html",
+      "description": "Geboren in 1937, overleden op 20/11/2026.",
+      "source": "HBVL",
+      "province": "limburg",
+      "provinces": [
+        "limburg"
+      ],
+      "places": [],
+      "pubDate": "23 nov 05:05",
+      "published": "2026-11-23T04:05:46+00:00"
+    },
+    {
+      "title": "Juliette Roosen, 88 jaar",
+      "link": "https://www.hbvl.be/regio/inmemoriam/juliette-roosen-88-jaar/164946340.html",
+      "description": "Geboren in 1938, overleden op 20/11/2026.",
+      "source": "HBVL",
+      "province": "limburg",
+      "provinces": [
+        "limburg"
+      ],
+      "places": [],
+      "pubDate": "23 nov 05:04",
+      "published": "2026-11-23T04:04:02+00:00"
+    },
+    {
+      "title": "Familiegeschiedenis brengt Jeroen Olyslaegers voor het eerst naar Fort voor documentaire 'De hel van Breendonk'",
+      "link": "https://vrtnws.be/p.ew4GAXaGM",
+      "description": "Voor de documentaire 'De hel van Breendonk' heeft schrijver Jeroen Olyslaegers het Fort van Breendonk voor het eerst bezocht. Zijn overgrootvader werd er in de minder bekende periode van Breendonk II opgesloten door het ",
+      "source": "VRT NWS",
+      "province": "vlaanderen",
+      "provinces": [],
+      "places": [],
+      "pubDate": "23 nov 05:03",
+      "published": "2026-11-23T04:03:43+00:00"
+    },
+    {
+      "title": "Lukaku naar Anderlecht of Tom Waes met een beleggingsfonds? Test hoe goed jij nep van echt kan onderscheiden met onze AI-check",
+      "link": "https://vrtnws.be/p.VLN1pj9R5",
+      "description": "Na het succes van de eerste editie lanceert VRT NWS opnieuw de AI-check. In deze test krijg je 12 nieuwe vragen voorgeschoteld en ontdek je hoe goed je AI-gegenereerde beelden, video's en muziek kunt onderscheiden van au",
+      "source": "VRT NWS",
+      "province": "vlaanderen",
+      "provinces": [],
+      "places": [],
+      "pubDate": "23 nov 05:01",
+      "published": "2026-11-23T04:01:08+00:00"
+    },
+    {
+      "title": "De pleisterplekken in ’t Stad van acteur Scout Di Bono: “In het Zuiderpershuis proefde ik van musical”",
+      "link": "https://www.nieuwsblad.be/regio/antwerpen/regio-antwerpen/antwerpen/de-pleisterplekken-in-t-stad-van-acteur-scout-di-bono-in-het-zuiderpershuis-proefde-ik-van-musical/164606439.html",
+      "description": "Als tiener speelde kersvers ‘#LikeMe’-acteur Scout Di Bono (17) al een aardig palmares bij elkaar. Zijn mooiste moment tot dusver? Een vechtscène in de musical ‘Romeo + Julia’. “Het publiek zien genieten, daar word ik eu",
+      "source": "Nieuwsblad Antwerpen",
+      "province": "antwerpen",
+      "provinces": [
+        "antwerpen"
+      ],
+      "places": [],
+      "pubDate": "23 nov 05:00",
+      "published": "2026-11-23T04:00:00+00:00"
+    },
+    {
+      "title": "Al zeker twaalf doden bij nachtelijke Russische aanvallen op Kiev",
+      "link": "https://www.hln.be/buitenland/al-zeker-twaalf-doden-bij-nachtelijke-russische-aanvallen-op-kiev~a93df6b5/",
       "description": "Volg alle ontwikkelingen over de oorlog in Oekraïne in onze liveblog.",
       "source": "HLN",
       "province": "vlaanderen",
       "provinces": [],
       "places": [],
-      "pubDate": "23 nov 00:30",
-      "published": "2026-11-22T23:30:00+00:00"
+      "pubDate": "23 nov 03:58",
+      "published": "2026-11-23T02:58:00+00:00"
+    },
+    {
+      "title": "Vijftien gewonden bij brand in Berlijns ziekenhuis, een persoon kritiek",
+      "link": "https://www.hln.be/buitenland/vijftien-gewonden-bij-brand-in-berlijns-ziekenhuis-een-persoon-kritiek~ab02ffad/",
+      "description": "Bij een brand in een ziekenhuis in de Berlijnse wijk Lichtenberg zijn zondagavond vijftien mensen gewond geraakt. Volgens de brandweer liep een van hen levensbedreigende verwondingen op. Een ander raakte zwaargewond. Bei",
+      "source": "HLN",
+      "province": "vlaanderen",
+      "provinces": [],
+      "places": [],
+      "pubDate": "23 nov 03:34",
+      "published": "2026-11-23T02:34:00+00:00"
+    },
+    {
+      "title": "Waarom vijftig Gentse zorgverleners vandaag het werk neerleggen: \"De regering maakt mensen ziek\"",
+      "link": "https://www.nieuwsblad.be/regio/oost-vlaanderen/regio-gent/gent/waarom-vijftig-gentse-zorgverleners-vandaag-het-werk-neerleggen-de-regering-maakt-mensen-ziek/164901888.html",
+      "description": "De Gentse wijkgezondheidscentra werken vandaag met minder personeel. Tientallen zorgverleners leggen het werk neer, en trekken naar Brussel om te betogen. “Voor het eerst in vele jaren”, zegt huisarts Michael McMahon van",
+      "source": "Nieuwsblad Oost-Vlaanderen",
+      "province": "oost-vlaanderen",
+      "provinces": [
+        "brussel",
+        "oost-vlaanderen"
+      ],
+      "places": [
+        "Brussel",
+        "Gent"
+      ],
+      "pubDate": "23 nov 03:02",
+      "published": "2026-11-23T02:02:00+00:00"
+    },
+    {
+      "title": "Lokerse Dilem Erikli (19) staat in finale Miss België: “Ik heb het minste ervaring, maar ben leergierig”",
+      "link": "https://www.nieuwsblad.be/regio/oost-vlaanderen/waasland/lokeren/lokerse-dilem-erikli-19-staat-in-finale-miss-belgie-ik-heb-het-minste-ervaring-maar-ben-leergierig/164915787.html",
+      "description": "Lokeren krijgt op 20 februari een kandidate in de finale van Miss België. Dilem Erikli (19) droomt ervan om het even goed of zelfs beter te doen dan haar stadsgenote Elle Leclercq, die in 2022 eerste eredame werd.",
+      "source": "Nieuwsblad Lokeren",
+      "province": "oost-vlaanderen",
+      "provinces": [
+        "oost-vlaanderen"
+      ],
+      "places": [
+        "Lokeren"
+      ],
+      "pubDate": "23 nov 03:00",
+      "published": "2026-11-23T02:00:00+00:00"
+    },
+    {
+      "title": "Dorp-Oost grossiert in bouwprojecten: vroegere houthandel wordt Beukenhof en Eikenhof met nog eens 28 appartementen",
+      "link": "https://www.nieuwsblad.be/regio/oost-vlaanderen/regio-gent/lochristi/dorp-oost-grossiert-in-bouwprojecten-vroegere-houthandel-wordt-beukenhof-en-eikenhof-met-nog-eens-28-appartementen/164919568.html",
+      "description": "Het centrum van Lochristi blijft zich in ijltempo ontwikkelen. Vooral In Dorp-Oost gaat het duizelingwekkend snel: aan de zuidkant start een dubbel bouwproject met het Beukenhof en het Eikenhof. Samen goed voor… Dorp Oos",
+      "source": "Nieuwsblad Oost-Vlaanderen",
+      "province": "oost-vlaanderen",
+      "provinces": [
+        "oost-vlaanderen"
+      ],
+      "places": [
+        "Lochristi"
+      ],
+      "pubDate": "23 nov 03:00",
+      "published": "2026-11-23T02:00:00+00:00"
+    },
+    {
+      "title": "Restauratie Brugse assisenzaal start in 2027: “Noodzakelijk om veiligheid te garanderen”",
+      "link": "https://www.nieuwsblad.be/regio/west-vlaanderen/regio-brugge/brugge/restauratie-brugse-assisenzaal-start-in-2027-noodzakelijk-om-veiligheid-te-garanderen/164922795.html",
+      "description": "De restauratie van de buitenzijde van de Brugse assisenzaal kan in het voorjaar van 2027 van start gaan. Niets te vroeg, want de voormalige kapel bevindt zich in zeer slechte staat. “Deze werken zijn noodzakelijk om de v",
+      "source": "Nieuwsblad West-Vlaanderen",
+      "province": "west-vlaanderen",
+      "provinces": [
+        "west-vlaanderen"
+      ],
+      "places": [
+        "Brugge"
+      ],
+      "pubDate": "23 nov 03:00",
+      "published": "2026-11-23T02:00:00+00:00"
+    },
+    {
+      "title": "Swimwise na problemen in Mechelse zwemunits: \"Kinderziektes duiken overal op\"",
+      "link": "https://www.nieuwsblad.be/regio/antwerpen/rivierenland/mechelen/swimwise-na-problemen-in-mechelse-zwemunits-kinderziektes-duiken-overal-op/164929579.html",
+      "description": "Na het incident waarbij 100.000 liter water verloren ging in buurtzwembad De Otter, blijkt dat ook in twee andere zwemunits in Mechelen het waterpeil eerder al daalde. De incidenten voeden de politieke kritiek op de mobi",
+      "source": "Nieuwsblad Antwerpen",
+      "province": "antwerpen",
+      "provinces": [
+        "antwerpen"
+      ],
+      "places": [
+        "Mechelen"
+      ],
+      "pubDate": "23 nov 03:00",
+      "published": "2026-11-23T02:00:00+00:00"
+    },
+    {
+      "title": "Overduidelijke zege voor Binkom B tegen Tielt-Winge 3000",
+      "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/oost-brabant/tielt-winge/overduidelijke-zege-voor-binkom-b-tegen-tielt-winge-3000/164946200.html",
+      "description": "Binkom B won zaterdag van Tielt-Winge 3000. Binkom B won het duel met 0-2.",
+      "source": "Nieuwsblad Vlaams-Brabant",
+      "province": "west-vlaanderen",
+      "provinces": [
+        "west-vlaanderen"
+      ],
+      "places": [
+        "Tielt"
+      ],
+      "pubDate": "23 nov 02:22",
+      "published": "2026-11-23T01:22:40+00:00"
+    },
+    {
+      "title": "Veel ruimte voor opklaringen met een enkele wolk in Lokeren in de nacht",
+      "link": "https://www.hln.be/lokeren/weer-lokeren~acc403de/",
+      "description": "In Lokeren komt de zon volop aan bod. Het wordt een graad of 4. De wind is zwak en gaat uit het oosten waaien.",
+      "source": "HLN Lokeren",
+      "province": "oost-vlaanderen",
+      "provinces": [
+        "oost-vlaanderen"
+      ],
+      "places": [
+        "Lokeren"
+      ],
+      "pubDate": "23 nov 01:04",
+      "published": "2026-11-23T00:04:00+00:00"
+    },
+    {
+      "title": "Opklaringen en lokaal nevel of mist in Antwerpen in de nacht",
+      "link": "https://www.hln.be/antwerpen/weer-antwerpen~acb2a1ab/",
+      "description": "Vandaag is er nauwelijks een wolkje te bekennen in Antwerpen en staat er stralend weer op het programma! De temperatuur ligt rond de 4 graden. De wind is zwak en gaat uit het oosten waaien.",
+      "source": "HLN Antwerpen",
+      "province": "antwerpen",
+      "provinces": [
+        "antwerpen"
+      ],
+      "places": [
+        "Antwerpen"
+      ],
+      "pubDate": "23 nov 01:04",
+      "published": "2026-11-23T00:04:00+00:00"
+    },
+    {
+      "title": "Opklaringen en lokaal nevel of mist in Brussel in de nacht",
+      "link": "https://www.hln.be/brussel/weer-brussel~a3dc699d/",
+      "description": "Een mix van zon en vriendelijke stapelwolken voor Brussel. Het wordt een graad of 3. De wind is zwak en gaat uit het oosten waaien.",
+      "source": "HLN Brussel",
+      "province": "brussel",
+      "provinces": [
+        "brussel"
+      ],
+      "places": [
+        "Brussel"
+      ],
+      "pubDate": "23 nov 01:04",
+      "published": "2026-11-23T00:04:00+00:00"
+    },
+    {
+      "title": "Geen enkele vlucht en ook minder bussen en trams: deze hinder mag je vandaag verwachten",
+      "link": "https://www.hln.be/binnenland/geen-enkele-vlucht-en-ook-minder-bussen-en-trams-deze-hinder-mag-je-vandaag-verwachten~af72f38b/",
+      "description": "De drie grote vakbonden komen vandaag in Brussel opnieuw op straat om te betogen tegen het beleid van de regering. Het is al minstens de elfde nationale actie van de vakbonden. Volg hier alle ontwikkelingen in onze liveb",
+      "source": "HLN",
+      "province": "brussel",
+      "provinces": [
+        "brussel"
+      ],
+      "places": [
+        "Brussel"
+      ],
+      "pubDate": "23 nov 01:00",
+      "published": "2026-11-23T00:00:00+00:00"
     },
     {
       "title": "Wie extern bruggen wil bouwen, moet ook intern sterk verbonden zijn",
@@ -52,30 +276,6 @@
       "published": "2026-11-22T23:01:00+00:00"
     },
     {
-      "title": "NBB-leiderschap: waar kennis en maatschappelijke impact samenkomen",
-      "link": "https://www.standaard.be/nieuws/nbb-leiderschap-waar-kennis-en-maatschappelijke-impact-samenkomen/164282666.html",
-      "description": "Bij de Nationale Bank van België werken heel wat gespecialiseerde experts. Maar wie leidinggeeft, hoeft niet zelf de grootste expert te zijn. Met een eigen leiderschapsvisie wil de NBB duidelijk maken wat goed leiderscha",
-      "source": "De Standaard",
-      "province": "vlaanderen",
-      "provinces": [],
-      "places": [],
-      "pubDate": "23 nov 00:01",
-      "published": "2026-11-22T23:01:00+00:00"
-    },
-    {
-      "title": "Telenet gaat duidelijker communiceren over papieren factuur: “Digitaal mag, maar moet niet”",
-      "link": "https://www.hbvl.be/nieuws/telenet-gaat-duidelijker-communiceren-over-papieren-factuur-digitaal-mag-maar-moet-niet/164899520.html",
-      "description": "Telenet gaat opnieuw contact opnemen met 54.000 klanten, om hen duidelijk te informeren over hun recht op een papieren factuur. “Digitaal mag, maar moet niet.”",
-      "source": "HBVL",
-      "province": "limburg",
-      "provinces": [
-        "limburg"
-      ],
-      "places": [],
-      "pubDate": "22 nov 23:59",
-      "published": "2026-11-22T22:59:00+00:00"
-    },
-    {
       "title": "Geen belastingverhoging, maar Bilzen-Hoeselt zoekt wel 7,5 miljoen euro aan structurele besparingen",
       "link": "https://www.nieuwsblad.be/regio/limburg/bilzen-hoeselt/geen-belastingverhoging-maar-bilzen-hoeselt-zoekt-wel-75-miljoen-euro-aan-structurele-besparingen/164941785.html",
       "description": "De stad Bilzen-Hoeselt gaat de komende vijf jaar op zoek naar 7,5 miljoen euro aan structurele efficiëntiewinsten en besparingen. Daarbij ligt de focus onder meer op een energiezuiniger gebouwenpatrimonium. De stad wil d",
@@ -91,32 +291,6 @@
       "published": "2026-11-22T22:59:00+00:00"
     },
     {
-      "title": "“Zíjn potentieel heb ik nog maar zelden gezien”: Atalanta-coach Sarri prijst Charles De Ketelaere de hemel in na heldenrol in knotsgek slot tegen Inter",
-      "link": "https://www.hln.be/serie-a/zijn-potentieel-heb-ik-nog-maar-zelden-gezien-atalanta-coach-sarri-prijst-charles-de-ketelaere-de-hemel-in-na-heldenrol-in-knotsgek-slot-tegen-inter~aa1dae1a3/",
-      "description": "Vollédig ontketend, heet dat dan. Charles De Ketelaere (25) was zondagavond de held van Atalanta: hij scoorde twee keer en zorgde er zo mee voor dat zijn team nog een knotsgekke 4-4 uit de brand sleepte tegen Inter. Maur",
-      "source": "HLN",
-      "province": "vlaanderen",
-      "provinces": [],
-      "places": [],
-      "pubDate": "22 nov 23:51",
-      "published": "2026-11-22T22:51:00+00:00"
-    },
-    {
-      "title": "Hasseltse rockband STEVE wint Humo’s Rock Rally, publieksprijs gaat naar Gender Reveal Atomic Bomb",
-      "link": "https://www.hln.be/muziek/hasseltse-rockband-steve-wint-humos-rock-rally-publieksprijs-gaat-naar-gender-reveal-atomic-bomb~a9319f31/",
-      "description": "De Hasseltse rockband STEVE heeft zondagavond Humo’s Rock Rally gewonnen. De band haalde het voor De Defecte Gasten en Gender Reveal Atomic Bomb. De publieksprijs ging naar Gender Reveal Atomic Bomb.",
-      "source": "HLN",
-      "province": "limburg",
-      "provinces": [
-        "limburg"
-      ],
-      "places": [
-        "Hasselt"
-      ],
-      "pubDate": "22 nov 23:45",
-      "published": "2026-11-22T22:45:00+00:00"
-    },
-    {
       "title": "Verzamelaar Frans geeft bijzonder schilderij in bruikleen aan kathedraal: “Interieur van kathedraal rond 1690”",
       "link": "https://kw.be/nieuws/cultuur/kunst/verzamelaar-frans-geeft-bijzonder-schilderij-in-bruikleen-aan-kathedraal-interieur-van-kathedraal-rond-1690/",
       "description": "Sinds zondag prijkt een schilderij van Jan Bapist Van Meunincxhove naast ‘Het Beleg van Ieper’ in de kathedraal. Het meesterwerk toont het interieur van de Sint-Maartenskathedraail rond 1690 en wordt voor onbepaalde tijd",
@@ -130,32 +304,6 @@
       ],
       "pubDate": "22 nov 23:23",
       "published": "2026-11-22T22:23:48+00:00"
-    },
-    {
-      "title": "Avanti Stekene en KVE Drongen delen de punten",
-      "link": "https://www.nieuwsblad.be/regio/oost-vlaanderen/waasland/stekene/avanti-stekene-en-kve-drongen-delen-de-punten/164944959.html",
-      "description": "Thuisploeg Avanti Stekene en KVE Drongen deelden de punten in hun ontmoeting. De wedstrijd eindigde op 1-1. KVE Drongen moest met tien spelers verder na één rode kaart.",
-      "source": "Nieuwsblad Oost-Vlaanderen",
-      "province": "oost-vlaanderen",
-      "provinces": [
-        "oost-vlaanderen"
-      ],
-      "places": [],
-      "pubDate": "22 nov 22:21",
-      "published": "2026-11-22T21:21:40+00:00"
-    },
-    {
-      "title": "Pamphiel Pareyn achtste in Ironman van Cozumel",
-      "link": "https://www.nieuwsblad.be/sport/sportregio/pamphiel-pareyn-achtste-in-ironman-van-cozumel/161739875.html",
-      "description": "",
-      "source": "Nieuwsblad West-Vlaanderen",
-      "province": "west-vlaanderen",
-      "provinces": [
-        "west-vlaanderen"
-      ],
-      "places": [],
-      "pubDate": "22 nov 22:11",
-      "published": "2026-11-22T21:11:52+00:00"
     },
     {
       "title": "Hasseltse band STEVE wint Humo's Rock Rally",
@@ -175,19 +323,6 @@
       "published": "2026-11-22T20:55:10+00:00"
     },
     {
-      "title": "Wezel Sport sleept gelijkspel uit de brand in de uitwedstrijd tegen Zepperen-Brustem",
-      "link": "https://www.nieuwsblad.be/regio/limburg/sint-truiden/wezel-sport-sleept-gelijkspel-uit-de-brand-in-de-uitwedstrijd-tegen-zepperen-brustem/164944269.html",
-      "description": "Wezel Sport keek bij de rust tegen een 1-0 achterstand aan in de wedstrijd tegen Zepperen-Brustem. In de tweede helft kwam Wezel Sport goed terug. Het duel eindigde uiteindelijk op 2-2.",
-      "source": "Nieuwsblad Antwerpen",
-      "province": "antwerpen",
-      "provinces": [
-        "antwerpen"
-      ],
-      "places": [],
-      "pubDate": "22 nov 21:50",
-      "published": "2026-11-22T20:50:40+00:00"
-    },
-    {
       "title": "Zoican is goud waard voor Sparta Melsbroek tegen Delta Londerzeel B",
       "link": "https://www.nieuwsblad.be/regio/vlaams-brabant/halle-vilvoorde/londerzeel/zoican-is-goud-waard-voor-sparta-melsbroek-tegen-delta-londerzeel-b/164944000.html",
       "description": "Sparta Melsbroek won de uitwedstrijd tegen Delta Londerzeel B met 0-1.",
@@ -199,19 +334,6 @@
       "places": [],
       "pubDate": "22 nov 21:41",
       "published": "2026-11-22T20:41:50+00:00"
-    },
-    {
-      "title": "Tijl Pauwels maakt indruk tijdens Winterduatlon in Wommelgem: “Op het einde nog alles gegeven”",
-      "link": "https://www.nieuwsblad.be/sport/sportregio/tijl-pauwels-maakt-indruk-tijdens-winterduatlon-in-wommelgem-op-het-einde-nog-alles-gegeven/163816447.html",
-      "description": "Door de afwezigheid van zevenvoudig winnaar Geert Lauryssen was Tijl Pauwels, vorig jaar nog tweede in Wommelgem, de te kloppen man op de Winterduatlon. En de Meetria-atleet maakte die favorietenrol waar en ging zelfs in",
-      "source": "Nieuwsblad Antwerpen",
-      "province": "antwerpen",
-      "provinces": [
-        "antwerpen"
-      ],
-      "places": [],
-      "pubDate": "22 nov 21:24",
-      "published": "2026-11-22T20:24:00+00:00"
     },
     {
       "title": "Afscheid van brandweerman Dirk Geerinck en postoverste Freddy Aerts bij brandweer Waasmunster",
@@ -271,32 +393,6 @@
       ],
       "pubDate": "22 nov 20:58",
       "published": "2026-11-22T19:58:00+00:00"
-    },
-    {
-      "title": "\"Ze brengen mensen in de problemen die er niets aan kunnen doen\": Eline, Nico en Guido getroffen door staking bij luchtverkeersleider Skeyes",
-      "link": "https://vrtnws.be/p.ZWK4aMkeB",
-      "description": "\"Amper 12 uur voor we zouden vertrekken, kregen we pas een bericht dat er alweer gestaakt wordt. Ik vind dat spijtig.\" Dat zegt Guido Nachtergaele, een van de tienduizenden mensen die getroffen is door de staking bij luc",
-      "source": "VRT NWS",
-      "province": "vlaanderen",
-      "provinces": [],
-      "places": [],
-      "pubDate": "22 nov 20:56",
-      "published": "2026-11-22T19:56:30+00:00"
-    },
-    {
-      "title": "Ondanks moeizame start boekt Kobe Teughels derde zege in Maldegem: “Kalm gebleven na kettingprobleem”",
-      "link": "https://www.nieuwsblad.be/sport/sportregio/ondanks-moeizame-start-boekt-kobe-teughels-derde-zege-in-maldegem-kalm-gebleven-na-kettingprobleem/163329761.html",
-      "description": "Kobe Teughels was zondag aan het feest in Maldegem. De eerstejaarsjunior van Avia-Rudyco Cycling Team ging op en over Remco Versieren. “Het doet deugd dat ik daags na mijn zware inspanningen in Lokeren kon toeslaan.”",
-      "source": "Nieuwsblad Antwerpen",
-      "province": "oost-vlaanderen",
-      "provinces": [
-        "oost-vlaanderen"
-      ],
-      "places": [
-        "Lokeren"
-      ],
-      "pubDate": "22 nov 20:47",
-      "published": "2026-11-22T19:47:20+00:00"
     },
     {
       "title": "Adriano Bertaccini knalt Anderlecht vanaf de stip voorbij OH Leuven",
@@ -409,36 +505,6 @@
       "places": [],
       "pubDate": "22 nov 19:08",
       "published": "2026-11-22T18:08:59+00:00"
-    },
-    {
-      "title": "Carnaval op Kiel blijft duren: Beerschot slaat tienpuntenkloof in Challenger Pro League",
-      "link": "https://www.hln.be/sport-in-de-buurt/carnaval-op-kiel-blijft-duren-beerschot-slaat-tienpuntenkloof-in-challenger-pro-league~a9fcd4fc/",
-      "description": "Van spanning aan de top van de Challenger Pro League is nog nauwelijks sprake. Beerschot sloeg een tienpuntenkloof, al was de inactiviteit van eerste achtervolger FCV Dender daarin uiteraard een grote factor.",
-      "source": "HLN Lokeren",
-      "province": "oost-vlaanderen",
-      "provinces": [
-        "oost-vlaanderen"
-      ],
-      "places": [
-        "Lokeren"
-      ],
-      "pubDate": "22 nov 18:58",
-      "published": "2026-11-22T17:58:00+00:00"
-    },
-    {
-      "title": "West-Vlaanderen boven in eerste afdeling: Mandel United en Roeselare samen aan de leiding",
-      "link": "https://www.hln.be/sport-in-de-buurt/west-vlaanderen-boven-in-eerste-afdeling-mandel-united-en-roeselare-samen-aan-de-leiding~a2ea56fe/",
-      "description": "Wie scoorde het vaakst? Op welke plek staat je ploeg in de rangschikking? Welke is de fairste ploeg? Wat is de volgende speeldag?",
-      "source": "HLN Brussel",
-      "province": "west-vlaanderen",
-      "provinces": [
-        "west-vlaanderen"
-      ],
-      "places": [
-        "Roeselare"
-      ],
-      "pubDate": "22 nov 18:54",
-      "published": "2026-11-22T17:54:00+00:00"
     },
     {
       "title": "Tienen verliest thuis van Zelzate (1-2): \"Totaal onverdiend\"",
@@ -576,19 +642,6 @@
       "published": "2026-11-22T16:28:41+00:00"
     },
     {
-      "title": "Eindelijk een overwinning voor Anderlecht Sporting Club Brother",
-      "link": "https://www.nieuwsblad.be/regio/brussel/anderlecht/eindelijk-een-overwinning-voor-anderlecht-sporting-club-brother/164933981.html",
-      "description": "Anderlecht Sporting Club Brother beëindigde een ongelukkige serie van vier achtereenvolgende nederlagen. De ommekeer waar lang naar uitgekeken werd kwam er in de thuiswedstrijd tegen Jong FC Opwijk. De wedstrijd eindigde",
-      "source": "Nieuwsblad Brussel",
-      "province": "brussel",
-      "provinces": [
-        "brussel"
-      ],
-      "places": [],
-      "pubDate": "22 nov 17:23",
-      "published": "2026-11-22T16:23:40+00:00"
-    },
-    {
       "title": "KMI waarschuwt voor gladheid: vannacht code geel",
       "link": "https://www.bruzz.be/actua/samenleving/kmi-waarschuwt-voor-gladheid-vannacht-code-geel-2026-11-22",
       "description": "Het KMI heeft zondag code geel afgekondigd voor gladheid in het hele land. De waarschuwing geldt vanaf maandag 1 uur tot 11 uur 's ochtends.",
@@ -600,21 +653,6 @@
       "places": [],
       "pubDate": "22 nov 17:09",
       "published": "2026-11-22T16:09:29+00:00"
-    },
-    {
-      "title": "Nationale betoging legt Brussel morgen deels stil: hinder bij MIVB, luchthaven en loketten",
-      "link": "https://www.bruzz.be/actua/samenleving/nationale-betoging-legt-brussel-morgen-deels-stil-hinder-bij-mivb-luchthaven-en-loketten-2026-11-22",
-      "description": "De drie grote vakbonden trekken maandag opnieuw door Brussel, uit protest tegen het besparingsbeleid van de federale regering.",
-      "source": "BRUZZ",
-      "province": "brussel",
-      "provinces": [
-        "brussel"
-      ],
-      "places": [
-        "Brussel"
-      ],
-      "pubDate": "22 nov 16:30",
-      "published": "2026-11-22T15:30:00+00:00"
     },
     {
       "title": "LIERSE KLOPT LOKEREN - Lierse",
@@ -724,21 +762,6 @@
       "published": "2026-11-20T11:07:00+00:00"
     },
     {
-      "title": "Crematorium Lochristi verbruikt 64 procent minder energie dankzij elektrische ovens, maar cremeren wordt niet goedkoper - VRT",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeVo0ZXRMZnh0cmNNLU9MSWVydnBGdkhxNWtWM2hCUkpDS0VaQ3VaT3Y3RG5tOFN5b2IxZTVtN2VHSnloTGlaS1BVZlVuTUNycFdnbFctTUwyVXRZbHVud2UybzBQR3lkbjI5emxBcl9yWnN2clAwQTItRHdfckdoenVHVlRHWHc1MlAtOF9KNTlUMHNZZ24wb0JWbUZGckVNWEpn?oc=5",
-      "description": "Crematorium Lochristi verbruikt 64 procent minder energie dankzij elektrische ovens, maar cremeren wordt niet goedkoper VRT",
-      "source": "Google Nieuws",
-      "province": "oost-vlaanderen",
-      "provinces": [
-        "oost-vlaanderen"
-      ],
-      "places": [
-        "Lochristi"
-      ],
-      "pubDate": "20 nov 11:50",
-      "published": "2026-11-20T10:50:24+00:00"
-    },
-    {
       "title": "Tijdelijke invulling: bmx-hal op Douaneplein ‘Transit M’",
       "link": "https://www.mechelen.be/stad-en-bestuur/nieuws-pers-en-communicatie/nieuws/tijdelijke-invulling-bmx-hal-op-douaneplein-transit-m",
       "description": "Het vroegere Ninatransgebouw maakt deel uit van de site Douaneplein. Omdat het gebouw momenteel leegstaat, krijgt het de komende maanden een tijdelijke invulling. BMX’ers kunnen er naar hartenlust oefenen en hun nieuwste",
@@ -752,31 +775,18 @@
       ],
       "pubDate": "18 nov 13:00",
       "published": "2026-11-18T12:00:00+00:00"
-    },
-    {
-      "title": "Ethanol gelekt door onderaannemer: meer bekend over vermoedelijke oorzaak van grote brand op Tomorrowland",
-      "link": "https://www.gva.be/regio/antwerpen/regio-antwerpen/boom/ethanol-gelekt-door-onderaannemer-meer-bekend-over-vermoedelijke-oorzaak-van-grote-brand-op-tomorrowland/158601721.html",
-      "description": "De vermoedelijke oorzaak van de zware brand op Tomorrowland vorig jaar is bekend. Tijdens het testen van de vuurschalen had een onderaannemer per ongeluk ethanol - een zeer brandbare stof - op het hoofdpodium gelekt. Dat",
-      "source": "ATV",
-      "province": "antwerpen",
-      "provinces": [
-        "antwerpen"
-      ],
-      "places": [],
-      "pubDate": "11 jul 19:30",
-      "published": "2026-07-11T17:30:00+00:00"
     }
   ],
   "count": 54,
   "scores": {
-    "alles": 94,
+    "alles": 95,
     "lokerse-streek": 79,
     "west-vlaanderen": 88,
-    "oost-vlaanderen": 87,
-    "antwerpen": 67,
-    "limburg": 83,
+    "oost-vlaanderen": 85,
+    "antwerpen": 74,
+    "limburg": 80,
     "vlaams-brabant": 83,
-    "brussel": 83
+    "brussel": 88
   },
   "sources": [
     {
@@ -822,7 +832,7 @@
     {
       "name": "Nieuwsblad Antwerpen",
       "province": "antwerpen",
-      "count": 5
+      "count": 6
     },
     {
       "name": "Nieuwsblad Limburg",
@@ -852,7 +862,7 @@
     {
       "name": "HBVL",
       "province": "limburg",
-      "count": 1
+      "count": 4
     },
     {
       "name": "TVL",
@@ -867,7 +877,7 @@
     {
       "name": "ATV",
       "province": "antwerpen",
-      "count": 4
+      "count": 0
     },
     {
       "name": "BRUZZ",
@@ -887,7 +897,7 @@
     {
       "name": "HLN Brussel",
       "province": "brussel",
-      "count": 2
+      "count": 3
     },
     {
       "name": "VRT NWS",
