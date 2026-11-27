@@ -1,139 +1,79 @@
 {
-  "updated": "2026-11-27T08:50:51.800311",
+  "updated": "2026-11-27T18:31:26.794865",
   "source": "Verkeerscentrum Vlaanderen (DATEX II)",
   "license": "CC BY",
   "count": 40,
-  "warnings": 13,
+  "warnings": 7,
   "items": [
     {
-      "id": "EVT22579768",
+      "id": "EVT22580064",
       "label": "Verstoord verkeer",
       "severity": "warning",
-      "lat": 50.90241,
-      "lon": 4.32647,
-      "until": "",
-      "province": "brussel",
-      "place": "Sint-Jans-Molenbeek"
-    },
-    {
-      "id": "EVT22579639",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 51.12682,
-      "lon": 4.37517,
-      "until": "",
-      "province": "antwerpen",
-      "place": "Boom"
-    },
-    {
-      "id": "EVT22579992",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 51.13803,
-      "lon": 4.37803,
-      "until": "",
-      "province": "antwerpen",
-      "place": "Boom"
-    },
-    {
-      "id": "EVT22579628",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 50.91605,
-      "lon": 4.37554,
-      "until": "",
-      "province": "brussel",
-      "place": "Schaarbeek"
-    },
-    {
-      "id": "EVT22579901",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 51.21127,
-      "lon": 4.34381,
-      "until": "",
-      "province": "antwerpen",
-      "place": "Antwerpen"
-    },
-    {
-      "id": "EVT22579789",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 50.86033,
-      "lon": 4.27107,
-      "until": "",
-      "province": "vlaams-brabant",
-      "place": "Dilbeek"
-    },
-    {
-      "id": "EVT22579692",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 51.25336,
-      "lon": 4.42639,
-      "until": "",
-      "province": "antwerpen",
-      "place": "Antwerpen"
-    },
-    {
-      "id": "EVT22579946",
-      "label": "Verstoord verkeer",
-      "severity": "warning",
-      "lat": 50.88116,
-      "lon": 4.46087,
+      "lat": 50.88224,
+      "lon": 4.46062,
       "until": "",
       "province": "vlaams-brabant",
       "place": "Zaventem"
     },
     {
-      "id": "EVT22579588",
+      "id": "EVT22580488",
       "label": "Verstoord verkeer",
       "severity": "warning",
-      "lat": 51.2137,
-      "lon": 4.35537,
+      "lat": 51.19193,
+      "lon": 4.40327,
       "until": "",
       "province": "antwerpen",
       "place": "Antwerpen"
     },
     {
-      "id": "EVT22579994",
+      "id": "EVT22580156",
       "label": "Verstoord verkeer",
       "severity": "warning",
-      "lat": 50.74466,
-      "lon": 4.54292,
+      "lat": 50.84434,
+      "lon": 4.48263,
       "until": "",
       "province": "vlaams-brabant",
-      "place": "Overijse"
+      "place": "Tervuren"
     },
     {
-      "id": "EVT22579989",
+      "id": "EVT22581343",
       "label": "Verstoord verkeer",
       "severity": "warning",
-      "lat": 50.91867,
-      "lon": 3.56922,
+      "lat": 51.20072,
+      "lon": 4.37697,
       "until": "",
-      "province": "oost-vlaanderen",
-      "place": "Deinze"
+      "province": "antwerpen",
+      "place": "Antwerpen"
     },
     {
-      "id": "EVT22579922",
+      "id": "EVT22581198",
       "label": "Verstoord verkeer",
       "severity": "warning",
-      "lat": 51.21137,
-      "lon": 4.49229,
+      "lat": 51.19022,
+      "lon": 4.41325,
+      "until": "",
+      "province": "antwerpen",
+      "place": "Antwerpen"
+    },
+    {
+      "id": "EVT22581348",
+      "label": "Verstoord verkeer",
+      "severity": "warning",
+      "lat": 51.21188,
+      "lon": 4.44614,
       "until": "",
       "province": "antwerpen",
       "place": "Mortsel"
     },
     {
-      "id": "EVT22579993",
+      "id": "EVT22580509",
       "label": "Verstoord verkeer",
       "severity": "warning",
-      "lat": 51.0472,
-      "lon": 4.40409,
+      "lat": 50.90071,
+      "lon": 4.32457,
       "until": "",
-      "province": "antwerpen",
-      "place": "Willebroek"
+      "province": "brussel",
+      "place": "Sint-Jans-Molenbeek"
     },
     {
       "id": "EVT22429488",
@@ -196,16 +136,6 @@
       "place": "Waregem"
     },
     {
-      "id": "EVT22553401",
-      "label": "Weg afgesloten",
-      "severity": "info",
-      "lat": 50.76145,
-      "lon": 4.55864,
-      "until": "2026-11-27",
-      "province": "vlaams-brabant",
-      "place": "Overijse"
-    },
-    {
       "id": "EVT22477040",
       "label": "Weg afgesloten",
       "severity": "info",
@@ -249,41 +179,11 @@
       "id": "EVT22579931",
       "label": "Wegenwerken",
       "severity": "info",
-      "lat": 50.85846,
-      "lon": 5.49968,
+      "lat": 51.04842,
+      "lon": 5.1766,
       "until": "",
       "province": "limburg",
-      "place": "Bilzen"
-    },
-    {
-      "id": "EVT22579929",
-      "label": "Wegenwerken",
-      "severity": "info",
-      "lat": 51.01252,
-      "lon": 5.38919,
-      "until": "",
-      "province": "limburg",
-      "place": "Hasselt"
-    },
-    {
-      "id": "EVT22579863",
-      "label": "Wegenwerken",
-      "severity": "info",
-      "lat": 51.2218,
-      "lon": 3.40887,
-      "until": "",
-      "province": "oost-vlaanderen",
-      "place": "Eeklo"
-    },
-    {
-      "id": "EVT22579917",
-      "label": "Wegenwerken",
-      "severity": "info",
-      "lat": 50.77086,
-      "lon": 4.50254,
-      "until": "",
-      "province": "vlaams-brabant",
-      "place": "Overijse"
+      "place": "Beringen"
     },
     {
       "id": "EVT22302897",
@@ -376,16 +276,6 @@
       "place": "Gent"
     },
     {
-      "id": "EVT22562012",
-      "label": "Werken langs de weg",
-      "severity": "info",
-      "lat": 51.25076,
-      "lon": 4.33954,
-      "until": "2026-11-27",
-      "province": "antwerpen",
-      "place": "Antwerpen"
-    },
-    {
       "id": "EVT22560628",
       "label": "Werken langs de weg",
       "severity": "info",
@@ -404,6 +294,116 @@
       "until": "2026-12-18",
       "province": "limburg",
       "place": "Hasselt"
+    },
+    {
+      "id": "EVT22534689",
+      "label": "Werken langs de weg",
+      "severity": "info",
+      "lat": 51.12004,
+      "lon": 3.72913,
+      "until": "2027-01-04",
+      "province": "oost-vlaanderen",
+      "place": "Gent"
+    },
+    {
+      "id": "EVT22431605",
+      "label": "Beurtelings verkeer",
+      "severity": "info",
+      "lat": 51.06101,
+      "lon": 5.3833,
+      "until": "2027-12-31",
+      "province": "limburg",
+      "place": "Peer"
+    },
+    {
+      "id": "EVT22464576",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 51.28979,
+      "lon": 4.37638,
+      "until": "2027-02-07",
+      "province": "antwerpen",
+      "place": "Antwerpen"
+    },
+    {
+      "id": "EVT22571125",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 50.88225,
+      "lon": 5.30102,
+      "until": "2026-12-04",
+      "province": "limburg",
+      "place": "Hasselt"
+    },
+    {
+      "id": "EVT22549919",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 50.84609,
+      "lon": 4.27927,
+      "until": "2027-03-05",
+      "province": "vlaams-brabant",
+      "place": "Dilbeek"
+    },
+    {
+      "id": "EVT22572987",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 50.81317,
+      "lon": 3.09697,
+      "until": "2026-12-31",
+      "province": "west-vlaanderen",
+      "place": "Roeselare"
+    },
+    {
+      "id": "EVT22290575",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 50.89179,
+      "lon": 4.25348,
+      "until": "2027-05-01",
+      "province": "vlaams-brabant",
+      "place": "Dilbeek"
+    },
+    {
+      "id": "EVT22545523",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 51.09947,
+      "lon": 3.7124,
+      "until": "2027-01-04",
+      "province": "oost-vlaanderen",
+      "place": "Gent"
+    },
+    {
+      "id": "EVT22485645",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 50.89721,
+      "lon": 4.43204,
+      "until": "2027-01-04",
+      "province": "vlaams-brabant",
+      "place": "Vilvoorde"
+    },
+    {
+      "id": "EVT22379648",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 51.20255,
+      "lon": 3.23536,
+      "until": "2027-06-18",
+      "province": "west-vlaanderen",
+      "place": "Brugge"
+    },
+    {
+      "id": "EVT22463610",
+      "label": "Nieuwe wegenwerken",
+      "severity": "info",
+      "lat": 51.20094,
+      "lon": 3.24525,
+      "until": "2026-12-11",
+      "province": "west-vlaanderen",
+      "place": "Brugge"
     }
   ]
 }
