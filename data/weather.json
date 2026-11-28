@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-28T09:31:03.211534",
+  "updated": "2026-11-28T17:51:14.046923",
   "source": "Open-Meteo",
   "locations": {
     "west-vlaanderen": {
       "id": "west-vlaanderen",
       "name": "Brugge",
-      "temp": -1,
-      "windspeed": 18.4,
+      "temp": 2,
+      "windspeed": 20.9,
       "weathercode": 3,
       "description": "Bewolkt",
       "max": 2,
-      "min": -3
+      "min": -2
     },
     "oost-vlaanderen": {
       "id": "oost-vlaanderen",
       "name": "Gent",
-      "temp": -1,
-      "windspeed": 14.4,
+      "temp": 2,
+      "windspeed": 17.6,
       "weathercode": 3,
       "description": "Bewolkt",
       "max": 3,
@@ -25,8 +25,8 @@
     "antwerpen": {
       "id": "antwerpen",
       "name": "Antwerpen",
-      "temp": -1,
-      "windspeed": 15.8,
+      "temp": 2,
+      "windspeed": 15.5,
       "weathercode": 3,
       "description": "Bewolkt",
       "max": 2,
@@ -35,18 +35,18 @@
     "limburg": {
       "id": "limburg",
       "name": "Hasselt",
-      "temp": -1,
-      "windspeed": 10.8,
-      "weathercode": 2,
-      "description": "Gedeeltelijk bewolkt",
+      "temp": 1,
+      "windspeed": 11.9,
+      "weathercode": 3,
+      "description": "Bewolkt",
       "max": 3,
       "min": -4
     },
     "vlaams-brabant": {
       "id": "vlaams-brabant",
       "name": "Leuven",
-      "temp": -1,
-      "windspeed": 12.2,
+      "temp": 1,
+      "windspeed": 11.2,
       "weathercode": 3,
       "description": "Bewolkt",
       "max": 3,
@@ -55,8 +55,8 @@
     "brussel": {
       "id": "brussel",
       "name": "Brussel",
-      "temp": -1,
-      "windspeed": 14.0,
+      "temp": 3,
+      "windspeed": 11.9,
       "weathercode": 3,
       "description": "Bewolkt",
       "max": 4,
@@ -65,22 +65,22 @@
     "lokerse-streek": {
       "id": "lokerse-streek",
       "name": "Lokeren",
-      "temp": -2,
-      "windspeed": 14.4,
+      "temp": 1,
+      "windspeed": 14.8,
       "weathercode": 3,
       "description": "Bewolkt",
-      "max": 3,
+      "max": 2,
       "min": -4
     },
     "vlaanderen": {
       "id": "vlaanderen",
       "name": "Vlaanderen",
-      "temp": -1,
-      "windspeed": 14.3,
+      "temp": 2,
+      "windspeed": 15.4,
       "weathercode": 0,
       "description": "Bewolkt",
       "max": 3,
-      "min": -4
+      "min": -3
     }
   }
 }
